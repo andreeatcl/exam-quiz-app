@@ -1,0 +1,5502 @@
+[
+  {
+    "id": 1,
+    "question": "Când a intrat în vigoare Codul civil actual care a înlocuit Codul comercial?",
+    "answers": [
+      {
+        "text": "2011",
+        "isCorrect": true
+      },
+      {
+        "text": "2015",
+        "isCorrect": false
+      },
+      {
+        "text": "1990",
+        "isCorrect": false
+      },
+      {
+        "text": "2000",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Când devin opozabile terților actele/faptele unui comerciant?",
+    "answers": [
+      {
+        "text": "De la data publicării în Monitorul Oficial",
+        "isCorrect": false
+      },
+      {
+        "text": "De la data obținerii codului fiscal",
+        "isCorrect": false
+      },
+      {
+        "text": "De la momentul semnării contractului",
+        "isCorrect": false
+      },
+      {
+        "text": "De la momentul înregistrării în registrul comerțului",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Când pierde o persoană fizică capacitatea de folosință?",
+    "answers": [
+      {
+        "text": "La vârsta de 65 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "La dobândirea capacității de exercițiu depline",
+        "isCorrect": false
+      },
+      {
+        "text": "Prin hotărâre judecătorească de punere sub interdicție",
+        "isCorrect": false
+      },
+      {
+        "text": "La moarte sau prin declararea judecătorească a morții",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Când se aplică uzanțele față de normele legale?",
+    "answers": [
+      {
+        "text": "Numai în situațiile neprevăzute de lege sau când legea trimite expres la uzanțe",
+        "isCorrect": true
+      },
+      {
+        "text": "Întotdeauna, indiferent de existența unor norme legale",
+        "isCorrect": false
+      },
+      {
+        "text": "Numai în materie comercială",
+        "isCorrect": false
+      },
+      {
+        "text": "Numai în raporturile internaționale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Când se exercită votul secret în AGA?",
+    "answers": [
+      {
+        "text": "Niciodată, votul este mereu deschis",
+        "isCorrect": false
+      },
+      {
+        "text": "La numirea/revocarea membrilor organelor de conducere, la numirea/revocarea auditorilor și la angajarea răspunderii membrilor de conducere",
+        "isCorrect": true
+      },
+      {
+        "text": "Întotdeauna",
+        "isCorrect": false
+      },
+      {
+        "text": "Numai când hotărârea privește modificarea actului constitutiv",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Care este actul normativ suprem în statul român?",
+    "answers": [
+      {
+        "text": "Legea organică",
+        "isCorrect": false
+      },
+      {
+        "text": "Codul civil",
+        "isCorrect": false
+      },
+      {
+        "text": "Hotărârea Guvernului",
+        "isCorrect": false
+      },
+      {
+        "text": "Constituția",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Care este atributul principal de identificare al persoanei fizice?",
+    "answers": [
+      {
+        "text": "Codul numeric personal (CNP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa de domiciliu",
+        "isCorrect": false
+      },
+      {
+        "text": "Numărul de pașaport",
+        "isCorrect": false
+      },
+      {
+        "text": "Numele (compus din nume de familie și prenume)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Care este capitalul minim al unei SA?",
+    "answers": [
+      {
+        "text": "90.000 lei",
+        "isCorrect": true
+      },
+      {
+        "text": "50.000 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "100.000 euro",
+        "isCorrect": false
+      },
+      {
+        "text": "500 RON",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Care este capitalul minim al unui SRL nou înființat?",
+    "answers": [
+      {
+        "text": "1.000 RON",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu există capital minim obligatoriu",
+        "isCorrect": false
+      },
+      {
+        "text": "90.000 RON",
+        "isCorrect": false
+      },
+      {
+        "text": "1 leu",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Care este capitalul social minim al unei SA?",
+    "answers": [
+      {
+        "text": "50.000 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "90.000 lei",
+        "isCorrect": true
+      },
+      {
+        "text": "500 RON",
+        "isCorrect": false
+      },
+      {
+        "text": "1.000 lei",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Care este deosebirea dintre bunurile principale și bunurile accesorii?",
+    "answers": [
+      {
+        "text": "Bunurile principale sunt fungibile; bunurile accesorii sunt nefungibile",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunurile principale există independent; bunurile accesorii urmează soarta bunului principal căruia îi sunt destinate",
+        "isCorrect": true
+      },
+      {
+        "text": "Bunurile principale sunt imobile; bunurile accesorii sunt mobile",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunurile principale au valoare mai mare; bunurile accesorii au valoare mai mică",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Care este deosebirea principală dintre un SRL și un SA privind transmiterea participațiilor?",
+    "answers": [
+      {
+        "text": "La SRL, părțile sociale se transferă restrictiv (cu condiții); la SA, acțiunile pot fi transmise liber",
+        "isCorrect": true
+      },
+      {
+        "text": "La ambele, transmiterea necesită unanimitate",
+        "isCorrect": false
+      },
+      {
+        "text": "La SA transmiterea este restricționată; la SRL liberă",
+        "isCorrect": false
+      },
+      {
+        "text": "La ambele, transmiterea este liberă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Care este diferența dintre abrogarea totală și cea parțială?",
+    "answers": [
+      {
+        "text": "Nu există o diferență practică",
+        "isCorrect": false
+      },
+      {
+        "text": "Abrogarea totală elimină întregul act normativ; abrogarea parțială elimină doar anumite dispoziții",
+        "isCorrect": true
+      },
+      {
+        "text": "Abrogarea totală este expresă; cea parțială este tacită",
+        "isCorrect": false
+      },
+      {
+        "text": "Abrogarea totală se face de Parlament; cea parțială de Guvern",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Care este diferența dintre obligația de rezultat și obligația de diligență?",
+    "answers": [
+      {
+        "text": "Obligația de rezultat este mai ușoară; cea de diligență este mai strictă",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligația de rezultat implică atingerea unui rezultat determinat; obligația de diligență implică depunerea eforturilor necesare fără garantarea rezultatului",
+        "isCorrect": true
+      },
+      {
+        "text": "Nu există diferență practică între cele două",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligația de diligență implică un rezultat garantat; cea de rezultat presupune eforturi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Care este durata minimă rezervării denumirii la Registrul Comerțului?",
+    "answers": [
+      {
+        "text": "12 luni",
+        "isCorrect": false
+      },
+      {
+        "text": "3 luni",
+        "isCorrect": true
+      },
+      {
+        "text": "1 lună",
+        "isCorrect": false
+      },
+      {
+        "text": "6 luni",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Care este impozitul pe profit aplicat societăților comerciale standard?",
+    "answers": [
+      {
+        "text": "5% impozit pe profit",
+        "isCorrect": false
+      },
+      {
+        "text": "10% impozit pe venit",
+        "isCorrect": false
+      },
+      {
+        "text": "16% impozit pe profit",
+        "isCorrect": true
+      },
+      {
+        "text": "25% impozit pe profit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Care este naționalitatea unei persoane juridice al cărei sediu este în România?",
+    "answers": [
+      {
+        "text": "Internațională, dacă are asociați străini",
+        "isCorrect": false
+      },
+      {
+        "text": "Română",
+        "isCorrect": true
+      },
+      {
+        "text": "Depinde de cetățenia asociaților",
+        "isCorrect": false
+      },
+      {
+        "text": "Depinde de locul unde s-a semnat actul constitutiv",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Care este numărul maxim de asociați al unui SRL?",
+    "answers": [
+      {
+        "text": "50 de asociați",
+        "isCorrect": true
+      },
+      {
+        "text": "100 de asociați",
+        "isCorrect": false
+      },
+      {
+        "text": "10 asociați",
+        "isCorrect": false
+      },
+      {
+        "text": "Număr nelimitat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Care este numărul minim de acționari la o SA?",
+    "answers": [
+      {
+        "text": "Minimum 5 acționari",
+        "isCorrect": false
+      },
+      {
+        "text": "Minimum 10 acționari",
+        "isCorrect": false
+      },
+      {
+        "text": "Minimum 2 acționari",
+        "isCorrect": true
+      },
+      {
+        "text": "1 acționar (asociat unic)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Care este plafonul de TVA pentru înregistrarea obligatorie a unui SRL?",
+    "answers": [
+      {
+        "text": "300.000 lei cifră de afaceri anuală",
+        "isCorrect": true
+      },
+      {
+        "text": "500.000 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "100.000 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "220.000 lei",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Care este principala diferență de răspundere între un SRL și o Întreprindere Individuală?",
+    "answers": [
+      {
+        "text": "SRL are răspundere limitată la aport; ÎI are răspundere nelimitată cu tot patrimoniul personal",
+        "isCorrect": true
+      },
+      {
+        "text": "SRL are răspundere nelimitată; ÎI are răspundere limitată",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambele au răspundere limitată la capitalul social",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu există diferențe de răspundere între cele două forme",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Care este principala diferență dintre dreptul public și dreptul privat?",
+    "answers": [
+      {
+        "text": "Dreptul public este scris, dreptul privat este nescris",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul public implică întotdeauna statul, în timp ce dreptul privat reglementează relații între persoane private",
+        "isCorrect": true
+      },
+      {
+        "text": "Dreptul public se aplică doar persoanelor fizice, dreptul privat doar persoanelor juridice",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul public este intern, dreptul privat este internațional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Care este principiul cheie al dreptului public față de dreptul privat?",
+    "answers": [
+      {
+        "text": "Dreptul public presupune egalitate, dreptul privat presupune ierarhie",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambele presupun egalitate între părți",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambele presupun ierarhie",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul public presupune ierarhie (statul este superior), dreptul privat presupune egalitate",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Care este principiul neretroactivității legii?",
+    "answers": [
+      {
+        "text": "O nouă lege se aplică și situațiilor din trecut",
+        "isCorrect": false
+      },
+      {
+        "text": "O nouă lege nu se poate aplica situațiilor, actelor sau faptelor care au început/au fost generate înainte de intrarea sa în vigoare",
+        "isCorrect": true
+      },
+      {
+        "text": "O lege veche continuă să se aplice și după abrogarea sa",
+        "isCorrect": false
+      },
+      {
+        "text": "Legea se aplică de la data adoptării, nu de la data publicării",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Care este regimul contabil al PFA, II și IF?",
+    "answers": [
+      {
+        "text": "Contabilitate de gestiune",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu au obligație contabilă",
+        "isCorrect": false
+      },
+      {
+        "text": "Partidă dublă (contabilitate completă)",
+        "isCorrect": false
+      },
+      {
+        "text": "Partidă simplă (registru de încasări și plăți)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Care este rolul Curții Constituționale?",
+    "answers": [
+      {
+        "text": "Emiterea de ordonanțe de urgență",
+        "isCorrect": false
+      },
+      {
+        "text": "Adoptarea legilor organice",
+        "isCorrect": false
+      },
+      {
+        "text": "Interpretarea obligatorie a Constituției pentru toate instanțele",
+        "isCorrect": false
+      },
+      {
+        "text": "Verificarea constituționalității legilor și declararea neconstituționalității unor texte de lege",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Care este scopul Hotărârilor Guvernului (HG)?",
+    "answers": [
+      {
+        "text": "Reglementarea celor mai importante domenii ale vieții sociale",
+        "isCorrect": false
+      },
+      {
+        "text": "Punerea în aplicare a legilor, fie detaliind, fie explicitând conținutul normelor din legi",
+        "isCorrect": true
+      },
+      {
+        "text": "Controlul constituționalității legilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Emiterea de norme în situații extraordinare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Care este termenul legal pentru care o PFA se dizolvă automat în caz de inactivitate?",
+    "answers": [
+      {
+        "text": "1 an de inactivitate",
+        "isCorrect": false
+      },
+      {
+        "text": "6 luni de inactivitate",
+        "isCorrect": false
+      },
+      {
+        "text": "5 ani de inactivitate",
+        "isCorrect": false
+      },
+      {
+        "text": "3 ani de inactivitate",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Care este termenul obișnuit de intrare în vigoare a unei legi după publicarea în Monitorul Oficial?",
+    "answers": [
+      {
+        "text": "1 zi",
+        "isCorrect": false
+      },
+      {
+        "text": "30 de zile",
+        "isCorrect": false
+      },
+      {
+        "text": "7 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "3 zile",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Care este valoarea nominală minimă a unei părți sociale la SRL?",
+    "answers": [
+      {
+        "text": "Nu există o valoare minimă legală pentru o parte socială",
+        "isCorrect": true
+      },
+      {
+        "text": "100 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "10 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "1 leu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Care sunt cazurile de dizolvare a societăților comerciale?",
+    "answers": [
+      {
+        "text": "Exclusiv falimentul societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv hotărârea unanimă a asociaților",
+        "isCorrect": false
+      },
+      {
+        "text": "Hotărârea asociaților, falimentul, fuziunea, expirarea duratei, imposibilitatea realizării obiectului, alte cazuri prevăzute de lege",
+        "isCorrect": true
+      },
+      {
+        "text": "Hotărârea instanței și falimentul",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Care sunt cele 3 caracteristici principale ale raportului juridic?",
+    "answers": [
+      {
+        "text": "Este o relație contractuală, implică statul și are caracter public",
+        "isCorrect": false
+      },
+      {
+        "text": "Este o relație patrimonială, este obligatorie și are caracter permanent",
+        "isCorrect": false
+      },
+      {
+        "text": "Este o relație unilaterală, nepatrimonială și temporară",
+        "isCorrect": false
+      },
+      {
+        "text": "Este o relație socială, este voluntară/volițională, iar părțile au o poziție de egalitate juridică",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Care sunt cele 3 elemente esențiale ale actului constitutiv?",
+    "answers": [
+      {
+        "text": "Aporturile asociaților, affectio societatis și împărțirea profitului",
+        "isCorrect": true
+      },
+      {
+        "text": "Capitalul social, numărul de asociați și durata societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Denumirea, sediul și obiectul de activitate",
+        "isCorrect": false
+      },
+      {
+        "text": "Forma juridică, codul CAEN și administratorii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Care sunt condițiile pentru a deveni profesionist comerciant?",
+    "answers": [
+      {
+        "text": "Cetățenie română, patrimoniu de 10.000 lei și cazier curat",
+        "isCorrect": false
+      },
+      {
+        "text": "Diplomă de licență, experiență de 3 ani și recomandări profesionale",
+        "isCorrect": false
+      },
+      {
+        "text": "Vârsta de 21 ani, capital minim, studii economice și sediu propriu",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitate, denumire și asumarea unui risc, urmărirea unui profit, autorizare și înregistrare",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Care sunt drepturile reale principale?",
+    "answers": [
+      {
+        "text": "Ipoteca, gajul și privilegiile",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul la dividende și dreptul la dobânzi",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturile de creanță față de debitori",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturile de proprietate publică și privată și dezmembrămintele acestora (superficie, uzufruct, uz, abitație și servitute)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Care sunt elementele constitutive ale persoanei juridice?",
+    "answers": [
+      {
+        "text": "Personalitate fizică, act constitutiv și sediu",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizare proprie, patrimoniu propriu distinct de al membrilor și scop propriu",
+        "isCorrect": true
+      },
+      {
+        "text": "Capital minim, număr de asociați și obiect de activitate",
+        "isCorrect": false
+      },
+      {
+        "text": "Denumire, sediu și cod fiscal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Care sunt elementele raportului juridic civil?",
+    "answers": [
+      {
+        "text": "Capacitatea, consimțământul și obiectul",
+        "isCorrect": false
+      },
+      {
+        "text": "Oferta, acceptarea și prețul",
+        "isCorrect": false
+      },
+      {
+        "text": "Părțile, conținutul și obiectul",
+        "isCorrect": true
+      },
+      {
+        "text": "Ipoteca, dispoziția și sancțiunea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Care sunt formele principale de organizare ale profesioniștilor comercianți persoane fizice?",
+    "answers": [
+      {
+        "text": "Regii autonome și companii naționale",
+        "isCorrect": false
+      },
+      {
+        "text": "SRL, SA și SNC",
+        "isCorrect": false
+      },
+      {
+        "text": "PFA (persoana fizică autorizată), Întreprinderea Individuală și Întreprinderea Familială",
+        "isCorrect": true
+      },
+      {
+        "text": "Asociații, fundații și federații",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Care sunt mecanismele de asigurare a aplicării ierarhiei actelor normative?",
+    "answers": [
+      {
+        "text": "Recursul în interesul legii și sesizarea CJUE",
+        "isCorrect": false
+      },
+      {
+        "text": "Publicarea în Monitorul Oficial și dezbaterea publică",
+        "isCorrect": false
+      },
+      {
+        "text": "Controlul de constituționalitate (excepția de neconstituționalitate), aprobarea OG de Parlament, controlul de legalitate (excepția de nelegalitate)",
+        "isCorrect": true
+      },
+      {
+        "text": "Referendumul național și consultarea societății civile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Care sunt motivele pentru care o societate poate fi declarată nulă?",
+    "answers": [
+      {
+        "text": "Neconvocarea AGA în primul an de funcționare",
+        "isCorrect": false
+      },
+      {
+        "text": "Actul constitutiv lipsește sau nu este în formă autentică; toți fondatorii au fost incapabili; obiectul este ilicit; lipsesc mențiunile esențiale; nu sunt respectate valorile minime de capital",
+        "isCorrect": true
+      },
+      {
+        "text": "Lipsa unui auditor financiar",
+        "isCorrect": false
+      },
+      {
+        "text": "Neachitarea impozitelor timp de 6 luni",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Care sunt principalele organe ale unei societăți comerciale?",
+    "answers": [
+      {
+        "text": "Acționarii, angajații și autoritățile de reglementare",
+        "isCorrect": false
+      },
+      {
+        "text": "Consiliul de administrație, directorul executiv și contabilul șef",
+        "isCorrect": false
+      },
+      {
+        "text": "Adunarea generală, directorul și inspectorul fiscal",
+        "isCorrect": false
+      },
+      {
+        "text": "Organe de deliberare și decizie (AGA), organe de conducere și administrare (administratori) și organe de control al gestiunii (cenzori/auditori)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Care sunt principalele sisteme juridice existente în lume?",
+    "answers": [
+      {
+        "text": "Sistemul roman, sistemul germanic și sistemul scandinav",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemul european, sistemul american și sistemul asiatic",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemul codificat, sistemul cutumiar și sistemul mixt",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemul juridic continental, sistemul de drept anglo-saxon și sistemul juridic islamic",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Care sunt societățile de capitaluri?",
+    "answers": [
+      {
+        "text": "Societatea în nume colectiv (SNC) și Societatea în comandită simplă (SCS)",
+        "isCorrect": false
+      },
+      {
+        "text": "Societatea în comandită pe acțiuni (SCA) și Societatea pe acțiuni (SA)",
+        "isCorrect": true
+      },
+      {
+        "text": "Toate societățile cu capital social mai mare de 90.000 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "Societatea cu răspundere limitată (SRL)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Cât este valoarea nominală minimă a unei acțiuni la o SA?",
+    "answers": [
+      {
+        "text": "10 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "0,10 lei",
+        "isCorrect": true
+      },
+      {
+        "text": "Nu există o valoare minimă",
+        "isCorrect": false
+      },
+      {
+        "text": "1 leu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Câte categorii de AGA există la societățile pe acțiuni?",
+    "answers": [
+      {
+        "text": "2 (Adunarea Generală Ordinară - AGOA și Adunarea Generală Extraordinară - AGEA)",
+        "isCorrect": true
+      },
+      {
+        "text": "4 (ordinară, extraordinară, specială și de urgență)",
+        "isCorrect": false
+      },
+      {
+        "text": "3 (ordinară, extraordinară și specială)",
+        "isCorrect": false
+      },
+      {
+        "text": "1 (unică, fără distincție)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Câte clase CAEN poate desfășura o Întreprindere Individuală?",
+    "answers": [
+      {
+        "text": "10 clase CAEN",
+        "isCorrect": true
+      },
+      {
+        "text": "Număr nelimitat",
+        "isCorrect": false
+      },
+      {
+        "text": "3 clase CAEN",
+        "isCorrect": false
+      },
+      {
+        "text": "5 clase CAEN",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Câte clase CAEN poate desfășura un PFA?",
+    "answers": [
+      {
+        "text": "1 clasă CAEN",
+        "isCorrect": false
+      },
+      {
+        "text": "Număr nelimitat de clase CAEN",
+        "isCorrect": false
+      },
+      {
+        "text": "10 clase CAEN",
+        "isCorrect": false
+      },
+      {
+        "text": "5 clase CAEN",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Câte forme juridice de societate reglementează Legea Societăților nr. 31/1990?",
+    "answers": [
+      {
+        "text": "3 (SA, SRL, SNC)",
+        "isCorrect": false
+      },
+      {
+        "text": "6 (SA, SRL, SNC, SCS, SCA, SC cooperativă)",
+        "isCorrect": false
+      },
+      {
+        "text": "5 (SNC, SCS, SA, SCA, SRL)",
+        "isCorrect": true
+      },
+      {
+        "text": "4 (SA, SRL, SNC, SCS)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Câți angajați poate avea o Întreprindere Familială?",
+    "answers": [
+      {
+        "text": "Număr nelimitat de angajați",
+        "isCorrect": false
+      },
+      {
+        "text": "Maximum 3 angajați",
+        "isCorrect": false
+      },
+      {
+        "text": "Maximum 8 angajați",
+        "isCorrect": false
+      },
+      {
+        "text": "Membrii familiei prestează personal activitatea (nu pot angaja personal extern)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Ce acționari NU au dreptul să voteze în AGA?",
+    "answers": [
+      {
+        "text": "Acționarii cu mai puțin de 5% din capital",
+        "isCorrect": false
+      },
+      {
+        "text": "Acționarii minoritari",
+        "isCorrect": false
+      },
+      {
+        "text": "Acționarii care nu au vărsat aportul la capitalul social și cei cu conflict de interese",
+        "isCorrect": true
+      },
+      {
+        "text": "Acționarii persoane juridice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Ce activitate exercită asociații comanditați față de societatea în comandită?",
+    "answers": [
+      {
+        "text": "Au exclusiv dreptul de a vota în AGA",
+        "isCorrect": false
+      },
+      {
+        "text": "Sunt implicați în conducerea și administrarea societății (Activi)",
+        "isCorrect": true
+      },
+      {
+        "text": "Răspund numai până la concurența aportului",
+        "isCorrect": false
+      },
+      {
+        "text": "Sunt investitori pasivi care nu participă la conducere",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Ce activități sunt rezervate exclusiv statului (interdicții legale)?",
+    "answers": [
+      {
+        "text": "Serviciile bancare și asigurările",
+        "isCorrect": false
+      },
+      {
+        "text": "Producția de armament, medicamente cu potențial periculos și exploatarea petrolului",
+        "isCorrect": true
+      },
+      {
+        "text": "Telecomunicațiile și energia electrică",
+        "isCorrect": false
+      },
+      {
+        "text": "Educația și sănătatea publică",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Ce are prioritate: norma specială sau norma generală?",
+    "answers": [
+      {
+        "text": "Norma generală are prioritate față de norma specială",
+        "isCorrect": false
+      },
+      {
+        "text": "Prioritatea se stabilește de la caz la caz de instanță",
+        "isCorrect": false
+      },
+      {
+        "text": "Norma specială are prioritate față de norma generală",
+        "isCorrect": true
+      },
+      {
+        "text": "Ambele se aplică în mod egal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Ce atribut de identificare al persoanei juridice constă în locul unde aceasta desfășoară activitatea?",
+    "answers": [
+      {
+        "text": "Sediul, stabilit potrivit actului de constituire sau statutului",
+        "isCorrect": true
+      },
+      {
+        "text": "Codul unic de înregistrare",
+        "isCorrect": false
+      },
+      {
+        "text": "Naționalitatea",
+        "isCorrect": false
+      },
+      {
+        "text": "Denumirea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Ce atribute de identificare are o persoană juridică?",
+    "answers": [
+      {
+        "text": "Codul numeric personal și adresa",
+        "isCorrect": false
+      },
+      {
+        "text": "Prenumele, domiciliul și starea civilă",
+        "isCorrect": false
+      },
+      {
+        "text": "Denumirea, sediul, naționalitatea și numărul de înregistrare în registrul comerțului",
+        "isCorrect": true
+      },
+      {
+        "text": "Numai denumirea și sediul",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Ce cale de atac există împotriva hotărârii tribunalului în materia înregistrării la Registrul Comerțului?",
+    "answers": [
+      {
+        "text": "Nu există cale de atac",
+        "isCorrect": false
+      },
+      {
+        "text": "Apelul",
+        "isCorrect": true
+      },
+      {
+        "text": "Plângere la Curtea Constituțională",
+        "isCorrect": false
+      },
+      {
+        "text": "Recursul la ÎCCJ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Ce capacitate au minorii cu vârsta între 14 și 18 ani?",
+    "answers": [
+      {
+        "text": "Lipsa totală a capacității de exercițiu",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitate de exercițiu limitată (pot încheia acte de dispoziție numai cu încuviințarea părinților/tutorelui)",
+        "isCorrect": true
+      },
+      {
+        "text": "Capacitate deplină de exercițiu",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitate de exercițiu egală cu cea a majorilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Ce capacitate dobândește societatea odată cu încheierea actului constitutiv, înainte de înregistrare?",
+    "answers": [
+      {
+        "text": "Nicio capacitate juridică",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitate de folosință restrânsă, pentru actele necesare constituirii valabile",
+        "isCorrect": true
+      },
+      {
+        "text": "Capacitate egală cu cea a persoanelor fizice majore",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitate deplină de exercițiu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Ce categorii de persoane sunt supuse incompatibilității cu activitatea comercială?",
+    "answers": [
+      {
+        "text": "Exclusiv funcționarii publici",
+        "isCorrect": false
+      },
+      {
+        "text": "Magistrați (procurori, judecători), senatori, deputați și în unele cazuri medici angajați în sectorul public",
+        "isCorrect": true
+      },
+      {
+        "text": "Toți angajații din sectorul public",
+        "isCorrect": false
+      },
+      {
+        "text": "Persoanele fizice cu mai mult de un loc de muncă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Ce cetățenie trebuie să aibă o persoană pentru a deveni comerciant individual în România?",
+    "answers": [
+      {
+        "text": "Orice cetățenie, fără restricții",
+        "isCorrect": false
+      },
+      {
+        "text": "Cetățenie română sau permis de rezidență permanent",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv cetățenie română",
+        "isCorrect": false
+      },
+      {
+        "text": "Cetățenie română sau cetățenie a unuia dintre statele membre ale UE",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Ce constituie exploatarea unei întreprinderi conform art. 3 alin. 3 din Codul civil?",
+    "answers": [
+      {
+        "text": "Exercitarea sistematică, de către una ori mai multe persoane, a unei activități organizate ce constă în producerea, administrarea sau înstrăinarea de bunuri ori prestarea de servicii, indiferent dacă are sau nu scop lucrativ",
+        "isCorrect": true
+      },
+      {
+        "text": "Exercitarea ocazională de activități comerciale în scop de profit",
+        "isCorrect": false
+      },
+      {
+        "text": "Deținerea unui număr de angajați și a unui capital social minim",
+        "isCorrect": false
+      },
+      {
+        "text": "Înregistrarea în Registrul Comerțului și obținerea unui cod fiscal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Ce cuprinde Directiva (UE) 2017/1132 privind registrele comerciale?",
+    "answers": [
+      {
+        "text": "Un minim de documente înscrise în registru, disponibilitatea actelor în format electronic, costurile actelor și interconectarea registrelor la nivelul UE",
+        "isCorrect": true
+      },
+      {
+        "text": "Reglementarea SA la nivel european",
+        "isCorrect": false
+      },
+      {
+        "text": "Procedura de insolvență transfrontalieră",
+        "isCorrect": false
+      },
+      {
+        "text": "Protecția datelor personale în registrele comerciale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Ce cuvinte NU pot fi utilizate în denumirea unei societăți comerciale?",
+    "answers": [
+      {
+        "text": "„Științific”, „academie”, „academic”, „universitate”, „universitar”",
+        "isCorrect": true
+      },
+      {
+        "text": "„Comercial”, „trading” sau „import-export”",
+        "isCorrect": false
+      },
+      {
+        "text": "Orice cuvinte în limbi străine",
+        "isCorrect": false
+      },
+      {
+        "text": "„România”, „național” sau „european”",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Ce decide AGEA la societățile pe acțiuni?",
+    "answers": [
+      {
+        "text": "Aprobarea situațiilor financiare și fixarea dividendului",
+        "isCorrect": false
+      },
+      {
+        "text": "Stabilirea salariilor personalului de conducere",
+        "isCorrect": false
+      },
+      {
+        "text": "Numirea și revocarea administratorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Schimbarea formei juridice, mutarea sediului, schimbarea obiectului de activitate, majorarea/reducerea capitalului, fuziunea/divizarea, dizolvarea anticipată",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Ce decide AGOA la societățile pe acțiuni?",
+    "answers": [
+      {
+        "text": "Schimbarea formei juridice, mutarea sediului, majorarea capitalului, fuziunea",
+        "isCorrect": false
+      },
+      {
+        "text": "Aprobarea situațiilor financiare, fixarea dividendului, numirea/revocarea administratorilor și auditorilor, stabilirea bugetului",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv numirea și revocarea administratorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv aprobarea bilanțului anual",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Ce deosebire este între comanditați și comanditari dintr-o SCS?",
+    "answers": [
+      {
+        "text": "Ambele categorii răspund limitat la aportul lor",
+        "isCorrect": false
+      },
+      {
+        "text": "Comanditații răspund nelimitat și conduc societatea (activi); comanditarii răspund numai până la aportul lor (pasivi)",
+        "isCorrect": true
+      },
+      {
+        "text": "Ambele categorii participă egal la conducere",
+        "isCorrect": false
+      },
+      {
+        "text": "Comanditarii conduc societatea; comanditații sunt investitori pasivi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Ce deosebire există între Codul civil și Codul comercial (din perspectivă istorică)?",
+    "answers": [
+      {
+        "text": "Codul civil nu a înlocuit niciodată Codul comercial",
+        "isCorrect": false
+      },
+      {
+        "text": "Codul comercial este în vigoare în paralel cu Codul civil",
+        "isCorrect": false
+      },
+      {
+        "text": "Anterior anului 2011, obligațiile comerciale erau reglementate separat în Codul comercial; actualmente, Codul civil le reglementează pe ambele",
+        "isCorrect": true
+      },
+      {
+        "text": "Codul comercial reglementează în continuare obligațiile comerciale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Ce deosebire există între dreptul internațional public și dreptul internațional privat?",
+    "answers": [
+      {
+        "text": "Dreptul internațional public reglementează relații între state; dreptul internațional privat reglementează relații private cu elemente de extraneitate",
+        "isCorrect": true
+      },
+      {
+        "text": "Dreptul internațional public se aplică persoanelor fizice; cel privat statelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu există o deosebire fundamentală între ele",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul internațional public are prioritate; cel privat nu are forță juridică",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Ce deosebire există între SNC și SCS din perspectiva răspunderii?",
+    "answers": [
+      {
+        "text": "La SNC asociații răspund limitat; la SCS, nelimitat",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu există diferențe între SNC și SCS din perspectiva răspunderii",
+        "isCorrect": false
+      },
+      {
+        "text": "La ambele forme, toți asociații răspund limitat",
+        "isCorrect": false
+      },
+      {
+        "text": "La SNC toți asociații răspund nelimitat și solidar; la SCS, comanditații răspund nelimitat, iar comanditarii numai până la aportul lor",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Ce determină clasificarea bunurilor ca mobile sau imobile?",
+    "answers": [
+      {
+        "text": "Exclusiv proprietarul bunurilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Regimul juridic aplicabil, modul de transmitere, garanțiile ce pot fi constituite și momentul transmiterii",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv localizarea geografică a bunurilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv valoarea monetară a bunurilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Ce documente sunt menționate în procesul-verbal al AGA?",
+    "answers": [
+      {
+        "text": "Exclusiv voturile exprimate de fiecare acționar",
+        "isCorrect": false
+      },
+      {
+        "text": "Lista prezenților și ordinea de zi",
+        "isCorrect": false
+      },
+      {
+        "text": "Formalitățile de convocare, locul, data și ora ședinței, dezbaterile în rezumat, hotărârile adoptate și declarațiile acționarilor",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv hotărârile adoptate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Ce documente trebuie depuse la Registrul Comerțului pentru înregistrarea societății?",
+    "answers": [
+      {
+        "text": "Actul constitutiv, autorizația de funcționare și bilanțul de deschidere",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv declarația pe propria răspundere a fondatorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Actul constitutiv, dovada vărsămintelor, dovada sediului, dovada disponibilității denumirii, declarații ale fondatorilor și administratorilor, alte documente prevăzute de lege",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv actul constitutiv și dovada capitalului social",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Ce drepturi au administratorii și cenzorii în cadrul ședinței AGA?",
+    "answers": [
+      {
+        "text": "Nu au niciun drept în AGA",
+        "isCorrect": false
+      },
+      {
+        "text": "Drept de participare, dar NU drept de vot",
+        "isCorrect": true
+      },
+      {
+        "text": "Drept de vot egal cu cel al acționarilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Drept de veto asupra hotărârilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Ce drepturi reale accesorii cunoaște dreptul civil român?",
+    "answers": [
+      {
+        "text": "Servitutea și superficia",
+        "isCorrect": false
+      },
+      {
+        "text": "Ipoteca și gajul",
+        "isCorrect": true
+      },
+      {
+        "text": "Dreptul de proprietate și dreptul de creanță",
+        "isCorrect": false
+      },
+      {
+        "text": "Uzufructul și abitația",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Ce este abrogarea expresă directă?",
+    "answers": [
+      {
+        "text": "Abrogarea în care noua lege reglementează aceeași materie fără a menționa legea veche",
+        "isCorrect": false
+      },
+      {
+        "text": "Abrogarea în care noua lege menționează expres textele din legea veche care se abrogă",
+        "isCorrect": true
+      },
+      {
+        "text": "Abrogarea produsă prin expirarea termenului de aplicare a legii",
+        "isCorrect": false
+      },
+      {
+        "text": "Abrogarea tacită produsă prin adoptarea unei noi reglementări incompatibile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Ce este abrogarea implicită (tacită)?",
+    "answers": [
+      {
+        "text": "Abrogarea prin expirarea termenului legii",
+        "isCorrect": false
+      },
+      {
+        "text": "Abrogarea produsă prin adoptarea unei noi reglementări incompatibile cu cea veche, fără mențiunea expresă a abrogării",
+        "isCorrect": true
+      },
+      {
+        "text": "Abrogarea în care noua lege menționează expres textele abrogate",
+        "isCorrect": false
+      },
+      {
+        "text": "Abrogarea prin decizia Curții Constituționale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Ce este actul constitutiv al unei societăți?",
+    "answers": [
+      {
+        "text": "Certificatul de înregistrare la Registrul Comerțului",
+        "isCorrect": false
+      },
+      {
+        "text": "Codul fiscal atribuit de ANAF",
+        "isCorrect": false
+      },
+      {
+        "text": "Contractul de societate și/sau statutul prin care societatea este constituită, organizată și funcționează",
+        "isCorrect": true
+      },
+      {
+        "text": "Autorizația de funcționare emisă de autoritățile publice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Ce este Adunarea Generală a Asociaților (AGA)?",
+    "answers": [
+      {
+        "text": "Organul de administrare curentă a societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Comitetul de direcție al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Organul de deliberare și decizie al societății, format din totalitatea asociaților sau acționarilor",
+        "isCorrect": true
+      },
+      {
+        "text": "Organul de control al gestiunii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Ce este affectio societatis?",
+    "answers": [
+      {
+        "text": "Actul constitutiv al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Scopul de a obține și împărți profitul",
+        "isCorrect": false
+      },
+      {
+        "text": "Aportul financiar al fiecărui asociat la capitalul social",
+        "isCorrect": false
+      },
+      {
+        "text": "Voința asociaților de a coopera la desfășurarea activității economice comune, manifestată pe toată durata societății",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Ce este căderea în desuetudine a unei legi?",
+    "answers": [
+      {
+        "text": "Abrogarea expresă a unei legi",
+        "isCorrect": false
+      },
+      {
+        "text": "Declararea neconstituționalității unei legi",
+        "isCorrect": false
+      },
+      {
+        "text": "Expirarea termenului de aplicare a legii",
+        "isCorrect": false
+      },
+      {
+        "text": "Situația în care o lege nu mai este aplicată în practică, deși formal nu a fost abrogată",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Ce este capacitatea civilă?",
+    "answers": [
+      {
+        "text": "Abilitatea generală și abstractă a persoanelor de a avea drepturi și obligații și de a încheia în nume propriu acte juridice",
+        "isCorrect": true
+      },
+      {
+        "text": "Calitatea de cetățean al unui stat",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligația de a respecta legile statului",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul de a participa la viața politică",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Ce este capacitatea de exercițiu?",
+    "answers": [
+      {
+        "text": "Posibilitatea de a avea drepturi și obligații",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitatea de a fi angajat",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul de proprietate asupra bunurilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Posibilitatea de a exercita singur drepturile și de a-și asuma obligațiile",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Ce este capacitatea de folosință anticipată a persoanelor juridice?",
+    "answers": [
+      {
+        "text": "Capacitatea dobândită prin hotărâre judecătorească",
+        "isCorrect": false
+      },
+      {
+        "text": "O excepție aplicabilă exclusiv PFA",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitatea dobândită înainte de vârsta de 18 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitatea dobândită înainte de înregistrare, de la actul de înființare, pentru actele necesare constituirii valabile",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Ce este capacitatea de folosință?",
+    "answers": [
+      {
+        "text": "Posibilitatea de a avea drepturi și obligații",
+        "isCorrect": true
+      },
+      {
+        "text": "Dreptul de a vota și de a fi ales",
+        "isCorrect": false
+      },
+      {
+        "text": "Posibilitatea de a exercita singur drepturile și obligațiile",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitatea de a încheia contracte comerciale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Ce este capitalul social al unei societăți?",
+    "answers": [
+      {
+        "text": "Valoarea totală a aporturilor asociaților (în numerar și în natură), care nu poate fi inferioară valorii minime prevăzute de lege",
+        "isCorrect": true
+      },
+      {
+        "text": "Totalul activelor societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Profitul acumulat de societate",
+        "isCorrect": false
+      },
+      {
+        "text": "Rezervele legale ale societății",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Ce este codul CAEN?",
+    "answers": [
+      {
+        "text": "Clasificarea Activităților din Economia Națională, cod care identifică tipul de activitate economică desfășurată",
+        "isCorrect": true
+      },
+      {
+        "text": "Codul de Acreditare al Entităților Naționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Codul de Autorizare al Entităților Naționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Codul de identificare fiscală al societăților",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Ce este condiția ca modalitate a dreptului civil?",
+    "answers": [
+      {
+        "text": "Un eveniment viitor și nesigur de care depind drepturile și obligațiile părților",
+        "isCorrect": true
+      },
+      {
+        "text": "O obligație suplimentară impusă titularului dreptului",
+        "isCorrect": false
+      },
+      {
+        "text": "Un termen extinctiv al dreptului",
+        "isCorrect": false
+      },
+      {
+        "text": "Un eveniment viitor și sigur ca realizare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Ce este conflictul de interese în contextul votului în AGA?",
+    "answers": [
+      {
+        "text": "Competiția între asociați pentru funcția de administrator",
+        "isCorrect": false
+      },
+      {
+        "text": "Orice situație în care doi acționari au interese diferite",
+        "isCorrect": false
+      },
+      {
+        "text": "Divergența de opinii privind strategia societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Situația în care un acționar are un interes personal în chestiunea supusă votului, ceea ce îi interzice exercitarea dreptului de vot pentru acel punct",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Ce este conținutul raportului juridic?",
+    "answers": [
+      {
+        "text": "Normele juridice aplicabile raportului",
+        "isCorrect": false
+      },
+      {
+        "text": "Totalitatea drepturilor și obligațiilor civile pe care le au părțile",
+        "isCorrect": true
+      },
+      {
+        "text": "Documentele care dovedesc raportul juridic",
+        "isCorrect": false
+      },
+      {
+        "text": "Obiectele materiale despre care poartă raportul juridic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Ce este divizarea totală a unei persoane juridice?",
+    "answers": [
+      {
+        "text": "O persoană juridică se divide în două sau mai multe entități, persoana inițială încetându-și existența",
+        "isCorrect": true
+      },
+      {
+        "text": "Retragerea unui asociat din societate",
+        "isCorrect": false
+      },
+      {
+        "text": "Fuziunea a două persoane juridice",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformarea persoanei juridice în altă formă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Ce este domiciliul ales?",
+    "answers": [
+      {
+        "text": "Domiciliul ales de instanță pentru notificări",
+        "isCorrect": false
+      },
+      {
+        "text": "Sediul profesional al comerciantului",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa de reședință a persoanei",
+        "isCorrect": false
+      },
+      {
+        "text": "Domiciliul convenit în scris de părțile unui act juridic pentru exercitarea drepturilor sau executarea obligațiilor din acel act",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Ce este dreptul de abitație?",
+    "answers": [
+      {
+        "text": "Un drept real principal care conferă titularului dreptul de a locui într-o casă ce aparține altuia",
+        "isCorrect": true
+      },
+      {
+        "text": "Un drept real accesoriu de garanție imobiliară",
+        "isCorrect": false
+      },
+      {
+        "text": "Un contract de închiriere pe durată nedeterminată",
+        "isCorrect": false
+      },
+      {
+        "text": "Un drept de proprietate condiționat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Ce este dreptul de superficie?",
+    "answers": [
+      {
+        "text": "Un tip de servitute",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul de a culege fructele unui teren",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul de a folosi terenul altcuiva pentru a construi pe el o clădire ce aparține superficiarului",
+        "isCorrect": true
+      },
+      {
+        "text": "Dreptul de trecere peste un teren al altuia",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Ce este dreptul?",
+    "answers": [
+      {
+        "text": "Un ansamblu de obiceiuri și tradiții acceptate voluntar de societate",
+        "isCorrect": false
+      },
+      {
+        "text": "Un set de norme stabilite de stat care reglementează organizarea statului, relațiile dintre stat și cetățeni, și relațiile dintre cetățeni",
+        "isCorrect": true
+      },
+      {
+        "text": "Un set de recomandări emise de organizații internaționale",
+        "isCorrect": false
+      },
+      {
+        "text": "O colecție de hotărâri judecătorești cu efect obligatoriu general",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Ce este EUID-ul menționat în certificatul de înregistrare?",
+    "answers": [
+      {
+        "text": "Identificatorul Unic la Nivel European, atribut societăților înregistrate în statele UE",
+        "isCorrect": true
+      },
+      {
+        "text": "Numărul de înregistrare la Registrul Comerțului național",
+        "isCorrect": false
+      },
+      {
+        "text": "Codul Unic de Identificare emis de ANAF",
+        "isCorrect": false
+      },
+      {
+        "text": "Codul CAEN al obiectului principal de activitate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Ce este excepția de neconstituționalitate?",
+    "answers": [
+      {
+        "text": "O procedură de revizuire a Constituției",
+        "isCorrect": false
+      },
+      {
+        "text": "O excepție procesuală prin care se amână judecata",
+        "isCorrect": false
+      },
+      {
+        "text": "O cale de atac împotriva hotărârilor Curții Constituționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Un mecanism prin care o instanță sesizează Curtea Constituțională pentru a verifica dacă o lege aplicabilă în speță contravine Constituției",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Ce este fuziunea ca modalitate de modificare/încetare a unei persoane juridice?",
+    "answers": [
+      {
+        "text": "Reunirea a două sau mai multe persoane juridice, una sau toate încetându-și existența, alta/alta dobândind personalitate sau preluând patrimoniul",
+        "isCorrect": true
+      },
+      {
+        "text": "Schimbarea formei juridice fără modificarea patrimoniului",
+        "isCorrect": false
+      },
+      {
+        "text": "Împărțirea unei persoane juridice în două sau mai multe entități",
+        "isCorrect": false
+      },
+      {
+        "text": "Transferul de active între persoane juridice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Ce este GDPR-ul din perspectiva instrumentelor juridice UE?",
+    "answers": [
+      {
+        "text": "Un Regulament cu aplicabilitate directă în toate statele membre",
+        "isCorrect": true
+      },
+      {
+        "text": "O Directivă care necesită transpunere în legislația națională",
+        "isCorrect": false
+      },
+      {
+        "text": "Un tratat internațional privind protecția datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "O decizie a Consiliului European",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Ce este imunitatea diplomatică în contextul aplicării legii persoanelor?",
+    "answers": [
+      {
+        "text": "Un drept fundamental al oricărei persoane fizice",
+        "isCorrect": false
+      },
+      {
+        "text": "O excepție de la regula aplicării legii tuturor persoanelor de pe teritoriu, care exclude personalul diplomatic de la jurisdicția locală",
+        "isCorrect": true
+      },
+      {
+        "text": "Un privilegiu acordat cetățenilor cu funcții publice",
+        "isCorrect": false
+      },
+      {
+        "text": "O excepție aplicabilă exclusiv cetățenilor UE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Ce este Înalta Curte de Casație și Justiție (ÎCCJ)?",
+    "answers": [
+      {
+        "text": "Curtea care verifică constituționalitatea legilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Organul de control financiar al statului",
+        "isCorrect": false
+      },
+      {
+        "text": "Instanța de primă instanță în cauzele penale grave",
+        "isCorrect": false
+      },
+      {
+        "text": "Instanța judecătorească supremă din România, care judecă recursuri și pronunță decizii obligatorii în recursul în interesul legii",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Ce este înregistrarea cu caracter constitutiv la Registrul Comerțului?",
+    "answers": [
+      {
+        "text": "Înregistrarea voluntară, fără efecte juridice obligatorii",
+        "isCorrect": false
+      },
+      {
+        "text": "Înregistrarea ce conferă exclusiv cod fiscal",
+        "isCorrect": false
+      },
+      {
+        "text": "Înregistrarea fără de care persoana juridică nu se consideră legal înființată",
+        "isCorrect": true
+      },
+      {
+        "text": "Înregistrarea cu efect exclusiv de informare a terților",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "Ce este norma juridică?",
+    "answers": [
+      {
+        "text": "Un acord bilateral între persoane private",
+        "isCorrect": false
+      },
+      {
+        "text": "O regulă generală, impersonală și obligatorie de conduită, prin care societatea impune subiecților o anumită conduită",
+        "isCorrect": true
+      },
+      {
+        "text": "O recomandare voluntară emisă de autorități publice",
+        "isCorrect": false
+      },
+      {
+        "text": "O hotărâre judecătorească aplicabilă unui caz concret",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Ce este o Directivă a UE?",
+    "answers": [
+      {
+        "text": "Un regulament intern al instituțiilor UE",
+        "isCorrect": false
+      },
+      {
+        "text": "Un act care stabilește un obiectiv de atins, lăsând statului libertatea de a alege forma și mijloacele (necesită transpunere)",
+        "isCorrect": true
+      },
+      {
+        "text": "Un act obligatoriu direct aplicabil în toate statele membre",
+        "isCorrect": false
+      },
+      {
+        "text": "O decizie a CJUE cu efect general",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "Ce este o persoană juridică?",
+    "answers": [
+      {
+        "text": "Orice grup de persoane care acționează împreună",
+        "isCorrect": false
+      },
+      {
+        "text": "Un subiect colectiv de drept constituit de una sau mai multe persoane fizice sau juridice, care dobândește personalitate juridică de la momentul înmatriculării",
+        "isCorrect": true
+      },
+      {
+        "text": "O persoană fizică autorizată să desfășoare activități comerciale",
+        "isCorrect": false
+      },
+      {
+        "text": "Orice entitate care deține proprietăți",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Ce este o societate cooperativă conform Legii nr. 1/2005?",
+    "answers": [
+      {
+        "text": "O persoană juridică cu scop economic, bazată pe asocierea unor persoane pentru realizarea de beneficii mutuale, cu patrimoniu propriu și răspundere limitată",
+        "isCorrect": true
+      },
+      {
+        "text": "O societate pe acțiuni cu capital de stat",
+        "isCorrect": false
+      },
+      {
+        "text": "O asociație fără scop lucrativ",
+        "isCorrect": false
+      },
+      {
+        "text": "Un parteneriat public-privat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "Ce este o societate în comandită simplă (SCS)?",
+    "answers": [
+      {
+        "text": "O societate cu acțiuni negociabile și capital minim de 90.000 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "O societate în care toți asociații răspund limitat la aportul lor",
+        "isCorrect": false
+      },
+      {
+        "text": "O societate cooperativă cu scop mutual",
+        "isCorrect": false
+      },
+      {
+        "text": "O societate cu asociați comanditați (răspundere nelimitată) și asociați comanditari (răspundere limitată la aport)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "Ce este o societate în nume colectiv (SNC)?",
+    "answers": [
+      {
+        "text": "O societate cu răspundere limitată la aportul asociaților",
+        "isCorrect": false
+      },
+      {
+        "text": "O societate cu asociați activi (comanditați) și pasivi (comanditari)",
+        "isCorrect": false
+      },
+      {
+        "text": "O societate ale cărei obligații sociale sunt garantate cu patrimoniul social și cu răspunderea nelimitată și solidară a asociaților",
+        "isCorrect": true
+      },
+      {
+        "text": "O societate cu capital minim de 90.000 lei și acțiuni negociabile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Ce este o societate națională sau companie națională?",
+    "answers": [
+      {
+        "text": "O societate privată cu sediul în România",
+        "isCorrect": false
+      },
+      {
+        "text": "O fundație finanțată de stat",
+        "isCorrect": false
+      },
+      {
+        "text": "O persoană juridică comercială de stat, organizată ca SA sau SRL, cu capital de stat (ex. Romgaz SA, Hidroelectrica SA)",
+        "isCorrect": true
+      },
+      {
+        "text": "O cooperativă de interes național",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Ce este o societate simplă (de drept civil)?",
+    "answers": [
+      {
+        "text": "O asociație fără scop lucrativ",
+        "isCorrect": false
+      },
+      {
+        "text": "O asociere fără personalitate juridică, ce ia naștere când societatea nu s-a înregistrat la Registrul Comerțului în termenul legal",
+        "isCorrect": true
+      },
+      {
+        "text": "O formă specială de SRL cu un singur asociat",
+        "isCorrect": false
+      },
+      {
+        "text": "O societate cu răspundere limitată de mici dimensiuni",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Ce este obiectul de activitate al societății în actul constitutiv?",
+    "answers": [
+      {
+        "text": "Numărul de angajați estimat",
+        "isCorrect": false
+      },
+      {
+        "text": "Locația geografică a activității",
+        "isCorrect": false
+      },
+      {
+        "text": "Scopul umanitar al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Activitățile economice pe care le va desfășura societatea, conform codului CAEN",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "Ce este obiectul raportului juridic civil?",
+    "answers": [
+      {
+        "text": "Documentele și înscrisurile raportului juridic",
+        "isCorrect": false
+      },
+      {
+        "text": "Acțiunile și inacțiunile la care sunt îndreptățite sau obligate părțile (conduita pe care o pot sau trebuie să o aibă)",
+        "isCorrect": true
+      },
+      {
+        "text": "Drepturile subiective ale părților",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunurile materiale din patrimoniul părților",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Ce este obligația de a da în dreptul civil?",
+    "answers": [
+      {
+        "text": "Obligația de a se abține de la o acțiune",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligația de a plăti o sumă de bani",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligația de a constitui sau a transfera un drept real",
+        "isCorrect": true
+      },
+      {
+        "text": "Obligația de a îndeplini o acțiune",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Ce este ONRC?",
+    "answers": [
+      {
+        "text": "Un departament al Ministerului Finanțelor Publice",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizația Națională a Registratorilor Comerciali",
+        "isCorrect": false
+      },
+      {
+        "text": "Oficiul Național de Reglementare al Comerțului",
+        "isCorrect": false
+      },
+      {
+        "text": "Oficiul Național al Registrului Comerțului, persoana juridică ce coordonează rețeaua de oficii teritoriale ale Registrului Comerțului",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "Ce este patrimoniul afectat?",
+    "answers": [
+      {
+        "text": "Totalitatea bunurilor unei persoane fizice",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunurile imobile ale unui comerciant",
+        "isCorrect": false
+      },
+      {
+        "text": "O parte din patrimoniul unei persoane care este utilizată pentru o activitate specifică",
+        "isCorrect": true
+      },
+      {
+        "text": "Capitalul social al unei societăți comerciale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "Ce este profitul ca element esențial al actului constitutiv?",
+    "answers": [
+      {
+        "text": "Capitalul social al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Dividendul distribuit unui asociat",
+        "isCorrect": false
+      },
+      {
+        "text": "Totalul cifrei de afaceri a societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Câștigul financiar obținut ca diferență dintre suma câștigată și suma cheltuită pentru activitatea economică",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Ce este profitul distribuibil?",
+    "answers": [
+      {
+        "text": "Dividendul aprobat de administratori",
+        "isCorrect": false
+      },
+      {
+        "text": "Profitul real (care depășește valoarea capitalului social) și util (după plata datoriilor și rezervelor), distribuit la sfârșitul exercițiului financiar",
+        "isCorrect": true
+      },
+      {
+        "text": "Orice câștig financiar al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Suma totală a vânzărilor societății",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Ce este raportul juridic?",
+    "answers": [
+      {
+        "text": "Orice relație între două persoane, indiferent de reglementarea juridică",
+        "isCorrect": false
+      },
+      {
+        "text": "Relația socială patrimonială sau nepatrimonială reglementată de normele juridice în vigoare",
+        "isCorrect": true
+      },
+      {
+        "text": "O hotărâre judecătorească definitivă",
+        "isCorrect": false
+      },
+      {
+        "text": "Un contract scris între două persoane fizice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Ce este răspunderea subsidiară a asociaților la SNC față de datoriile societății?",
+    "answers": [
+      {
+        "text": "Asociații răspund numai pentru obligațiile proprii, nu ale societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Asociații răspund întotdeauna în mod direct, înaintea societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Asociații răspund cu patrimoniul personal numai dacă patrimoniul social este insuficient pentru acoperirea creanțelor față de societate",
+        "isCorrect": true
+      },
+      {
+        "text": "Asociații nu răspund niciodată cu patrimoniul personal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "Ce este recursul în interesul legii?",
+    "answers": [
+      {
+        "text": "O procedură de modificare a legii",
+        "isCorrect": false
+      },
+      {
+        "text": "O procedură prin care Înalta Curte de Casație și Justiție unifică soluțiile diferite date de instanțe cu privire la aceleași probleme de drept",
+        "isCorrect": true
+      },
+      {
+        "text": "Un recurs obișnuit la ÎCCJ",
+        "isCorrect": false
+      },
+      {
+        "text": "O sesizare a Curții Constituționale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Ce este sarcina ca modalitate a dreptului civil?",
+    "answers": [
+      {
+        "text": "Un eveniment viitor și sigur",
+        "isCorrect": false
+      },
+      {
+        "text": "O obligație care grevează existența dreptului subiectiv civil și care trebuie îndeplinită de titularul dreptului",
+        "isCorrect": true
+      },
+      {
+        "text": "Un eveniment viitor și nesigur",
+        "isCorrect": false
+      },
+      {
+        "text": "O garanție reală imobiliară",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Ce este societatea cu răspundere limitată cu asociat unic?",
+    "answers": [
+      {
+        "text": "O PFA cu personalitate juridică",
+        "isCorrect": false
+      },
+      {
+        "text": "Un SRL cu un singur asociat, constituit printr-un statut unilateral",
+        "isCorrect": true
+      },
+      {
+        "text": "Un SNC cu un singur asociat",
+        "isCorrect": false
+      },
+      {
+        "text": "Un SA cu un singur acționar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "Ce este specializarea capacității de folosință a persoanelor juridice fără scop lucrativ?",
+    "answers": [
+      {
+        "text": "Capacitatea lor este identică cu a persoanelor juridice comerciale",
+        "isCorrect": false
+      },
+      {
+        "text": "Aceste persoane pot avea doar drepturile și obligațiile necesare pentru realizarea scopului lor stabilit prin lege sau statut",
+        "isCorrect": true
+      },
+      {
+        "text": "Persoanele juridice fără scop lucrativ nu au capacitate de folosință",
+        "isCorrect": false
+      },
+      {
+        "text": "Pot desfășura orice activitate, inclusiv comercială",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Ce este statutul societății?",
+    "answers": [
+      {
+        "text": "Act unilateral sau bi/multilateral care cuprinde datele de identificare ale asociaților și clauzele privind organizarea, funcționarea și desfășurarea activității societății",
+        "isCorrect": true
+      },
+      {
+        "text": "Regulamentul intern de ordine al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Hotărârea de înregistrare la Registrul Comerțului",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv contractul de societate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Ce este termenul ca modalitate a dreptului civil?",
+    "answers": [
+      {
+        "text": "O obligație care grevează dreptul subiectiv civil",
+        "isCorrect": false
+      },
+      {
+        "text": "O excepție de la regula generală",
+        "isCorrect": false
+      },
+      {
+        "text": "Un eveniment viitor și nesigur de care depind drepturile și obligațiile",
+        "isCorrect": false
+      },
+      {
+        "text": "Un eveniment viitor și sigur ca realizare, până la care este amânată începerea sau stingerea exercițiului drepturilor",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "Ce este tutela specială ca măsură de ocrotire?",
+    "answers": [
+      {
+        "text": "Măsura de drept civil luată de instanță față de persoana lipsită de discernământ, constând în lipsirea de capacitate de exercițiu și instituirea tutelei",
+        "isCorrect": true
+      },
+      {
+        "text": "O procedură administrativă de protecție socială",
+        "isCorrect": false
+      },
+      {
+        "text": "Un contract de mandat cu efecte speciale",
+        "isCorrect": false
+      },
+      {
+        "text": "Măsura luată de părinți față de copiii minori",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Ce este ultraactivitatea legii?",
+    "answers": [
+      {
+        "text": "Legea se aplică pe tot teritoriul național fără excepție",
+        "isCorrect": false
+      },
+      {
+        "text": "Noua lege se aplică retroactiv tuturor situațiilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Dispozițiile vechii legi se aplică în continuare anumitor situații, acte sau fapte, menționate specific de noua lege",
+        "isCorrect": true
+      },
+      {
+        "text": "Legea se aplică și cetățenilor din alte state",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "Ce este un Regulament al UE?",
+    "answers": [
+      {
+        "text": "Un tratat internațional ce trebuie ratificat de fiecare stat",
+        "isCorrect": false
+      },
+      {
+        "text": "O recomandare neobligatorie adresată statelor membre",
+        "isCorrect": false
+      },
+      {
+        "text": "Un act care stabilește obiective de atins, lăsând statului libertatea mijloacelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Un act obligatoriu în toate elementele sale, aplicabil direct în toate statele membre fără a fi nevoie de o lege de adoptare",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Ce este uzufructul?",
+    "answers": [
+      {
+        "text": "Un contract de locațiune pe termen lung",
+        "isCorrect": false
+      },
+      {
+        "text": "Un drept real principal care conferă titularului dreptul de a folosi bunul altuia și de a culege fructele, cu obligația de a conserva substanța",
+        "isCorrect": true
+      },
+      {
+        "text": "Un drept real accesoriu care garantează executarea unei obligații",
+        "isCorrect": false
+      },
+      {
+        "text": "Un drept de proprietate comun între mai multe persoane",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Ce exemple de acte poate încheia o societate în baza capacității de folosință restrânse?",
+    "answers": [
+      {
+        "text": "Exclusiv acte de natură fiscală",
+        "isCorrect": false
+      },
+      {
+        "text": "Numai acte notariale",
+        "isCorrect": false
+      },
+      {
+        "text": "Orice acte juridice, fără restricții",
+        "isCorrect": false
+      },
+      {
+        "text": "Contract de închiriere pentru sediul social și contract de deschidere cont curent pentru depunerea capitalului social",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Ce formează toate normele juridice în vigoare pe un teritoriu la un moment dat?",
+    "answers": [
+      {
+        "text": "Un cod juridic",
+        "isCorrect": false
+      },
+      {
+        "text": "Un sistem de drept",
+        "isCorrect": true
+      },
+      {
+        "text": "O instituție juridică",
+        "isCorrect": false
+      },
+      {
+        "text": "O ramură a dreptului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "question": "Ce înseamnă că actele normative au formă scrisă și sunt organizate în titluri, capitole, articole?",
+    "answers": [
+      {
+        "text": "Pentru a putea fi modificate mai ușor",
+        "isCorrect": false
+      },
+      {
+        "text": "Din motive estetice și de tradiție juridică",
+        "isCorrect": false
+      },
+      {
+        "text": "Pentru a permite referiri precise la o anume normă și pentru a facilita aplicarea lor",
+        "isCorrect": true
+      },
+      {
+        "text": "Pentru a fi traduse mai ușor în alte limbi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Ce înseamnă că drepturile absolute sunt erga omnes?",
+    "answers": [
+      {
+        "text": "Că sunt opozabile tuturor persoanelor, nu doar unui debitor determinat",
+        "isCorrect": true
+      },
+      {
+        "text": "Că se aplică exclusiv în relațiile internaționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Că sunt garantate de Constituție",
+        "isCorrect": false
+      },
+      {
+        "text": "Că sunt absolute în sensul că nu pot fi limitate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Ce înseamnă că societatea comercială are natură contractuală?",
+    "answers": [
+      {
+        "text": "Că se constituie printr-un contract prin care asociații convin să pună în comun bunuri și să desfășoare o activitate economică",
+        "isCorrect": true
+      },
+      {
+        "text": "Că este supusă exclusiv normelor dreptului privat contractual",
+        "isCorrect": false
+      },
+      {
+        "text": "Că poate fi modificată exclusiv prin consimțământ unanim",
+        "isCorrect": false
+      },
+      {
+        "text": "Că obligațiile sale sunt exclusiv de natură contractuală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Ce instanță soluționează plângerile împotriva rezoluțiilor Registrului Comerțului?",
+    "answers": [
+      {
+        "text": "Tribunalul competent (de la sediul social)",
+        "isCorrect": true
+      },
+      {
+        "text": "Înalta Curte de Casație și Justiție",
+        "isCorrect": false
+      },
+      {
+        "text": "Judecătoria",
+        "isCorrect": false
+      },
+      {
+        "text": "Curtea de Apel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Ce obligații principale are un comerciant?",
+    "answers": [
+      {
+        "text": "Obținerea unui cod fiscal, înregistrarea TVA și depunerea declarațiilor lunare",
+        "isCorrect": false
+      },
+      {
+        "text": "Plata impozitelor, obținerea avizelor și angajarea unui contabil",
+        "isCorrect": false
+      },
+      {
+        "text": "Înregistrarea în registrul comerțului, ținerea registrelor obligatorii și organizarea contabilității",
+        "isCorrect": true
+      },
+      {
+        "text": "Publicarea bilanțului anual, deținerea unui sediu propriu și asigurarea angajaților",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "question": "Ce prevede Legea nr. 1/2005?",
+    "answers": [
+      {
+        "text": "Organizarea PFA și a întreprinderilor individuale",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizarea profesiilor liberale",
+        "isCorrect": false
+      },
+      {
+        "text": "Constituirea SA și SRL",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizarea cooperativelor (societăților cooperative)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "question": "Ce procent minim din capitalul social trebuie să dețină acționarii pentru a convoca AGA la o SA?",
+    "answers": [
+      {
+        "text": "51%",
+        "isCorrect": false
+      },
+      {
+        "text": "5% din capitalul social",
+        "isCorrect": true
+      },
+      {
+        "text": "10%",
+        "isCorrect": false
+      },
+      {
+        "text": "25%",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Ce procent minim din capitalul social trebuie să dețină asociații unui SRL pentru a convoca AGA?",
+    "answers": [
+      {
+        "text": "5% din capitalul social",
+        "isCorrect": false
+      },
+      {
+        "text": "Orice asociat poate convoca AGA",
+        "isCorrect": false
+      },
+      {
+        "text": "50% din capitalul social",
+        "isCorrect": false
+      },
+      {
+        "text": "Cel puțin un sfert (25%) din capitalul social",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "question": "Ce reprezintă affectio societatis ca element esențial al actului constitutiv?",
+    "answers": [
+      {
+        "text": "Scopul de a obține și a împărți profitul",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligația legală de a respecta actul constitutiv",
+        "isCorrect": false
+      },
+      {
+        "text": "Intenția psihologică a asociaților de a coopera la desfășurarea activității economice a societății",
+        "isCorrect": true
+      },
+      {
+        "text": "Aportul financiar al fiecărui asociat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Ce reprezintă dispoziția în structura normei juridice?",
+    "answers": [
+      {
+        "text": "Partea în care se edictează regula de conduită ce trebuie urmată",
+        "isCorrect": true
+      },
+      {
+        "text": "Domeniul de aplicare al normei",
+        "isCorrect": false
+      },
+      {
+        "text": "Relația socială la care se referă norma",
+        "isCorrect": false
+      },
+      {
+        "text": "Consecința încălcării regulii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "question": "Ce reprezintă dividendul?",
+    "answers": [
+      {
+        "text": "Totalul profitului societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Capitalul social al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Partea de profit distribuită fiecărui asociat conform cotei sale de participare",
+        "isCorrect": true
+      },
+      {
+        "text": "Dobânda plătită pentru împrumuturile societății",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "question": "Ce reprezintă dreptul la vot în AGA din perspectiva caracterelor sale?",
+    "answers": [
+      {
+        "text": "Este transmisibil liber prin act juridic",
+        "isCorrect": false
+      },
+      {
+        "text": "Este personal și inalienabil, conferit de fiecare fracțiune a capitalului social",
+        "isCorrect": true
+      },
+      {
+        "text": "Poate fi exercitat exclusiv prin reprezentant",
+        "isCorrect": false
+      },
+      {
+        "text": "Este colectiv și aparține grupului de acționari",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "question": "Ce reprezintă ipoteza în structura normei juridice?",
+    "answers": [
+      {
+        "text": "Excepțiile de la regulă",
+        "isCorrect": false
+      },
+      {
+        "text": "Consecința încălcării regulii",
+        "isCorrect": false
+      },
+      {
+        "text": "Regula de conduită ce trebuie urmată",
+        "isCorrect": false
+      },
+      {
+        "text": "Relația socială la care se referă norma, situația pe care o reglementează",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "question": "Ce reprezintă o ramură a dreptului?",
+    "answers": [
+      {
+        "text": "Totalitatea normelor juridice în vigoare pe un teritoriu",
+        "isCorrect": false
+      },
+      {
+        "text": "Un ansamblu de norme care reglementează o singură categorie de relații sociale",
+        "isCorrect": false
+      },
+      {
+        "text": "O subdiviziune a Constituției",
+        "isCorrect": false
+      },
+      {
+        "text": "Un set de norme juridice și instituții juridice care reglementează același domeniu",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "question": "Ce reprezintă rezerva legală în contextul distribuirii profitului?",
+    "answers": [
+      {
+        "text": "Totalul profitului nerepartizat din exerciții anterioare",
+        "isCorrect": false
+      },
+      {
+        "text": "Capitalul social subscris dar nevărsat",
+        "isCorrect": false
+      },
+      {
+        "text": "Fondul de amortizare al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "O parte din profit obligatoriu reținută înainte de distribuirea dividendelor, conform prevederilor legale",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "question": "Ce reprezintă sancțiunea în structura normei juridice?",
+    "answers": [
+      {
+        "text": "Consecința încălcării regulii cuprinse în dispoziție",
+        "isCorrect": true
+      },
+      {
+        "text": "Excepțiile prevăzute de lege",
+        "isCorrect": false
+      },
+      {
+        "text": "Relația socială reglementată",
+        "isCorrect": false
+      },
+      {
+        "text": "Regula de conduită impusă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "question": "Ce se întâmplă când o uzanță este publicată într-o culegere elaborată de o entitate autorizată?",
+    "answers": [
+      {
+        "text": "Uzanța nu mai poate fi invocată",
+        "isCorrect": false
+      },
+      {
+        "text": "Uzanța capătă forța unui act normativ",
+        "isCorrect": false
+      },
+      {
+        "text": "Uzanța se aplică și în materiile reglementate de lege",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu mai trebuie făcută proba existenței uzanței de către cel care o invocă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Ce se întâmplă dacă neregulile privind constituirea unei societăți sunt remediate înainte de a se pune concluzii pe fond în acțiunea în anulare?",
+    "answers": [
+      {
+        "text": "Instanța decide discreționar",
+        "isCorrect": false
+      },
+      {
+        "text": "Acțiunea este respinsă și societatea își continuă existența",
+        "isCorrect": true
+      },
+      {
+        "text": "Societatea se dizolvă de drept",
+        "isCorrect": false
+      },
+      {
+        "text": "Se acordă un termen suplimentar de remediere",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "question": "Ce se întâmplă dacă o societate nu se înregistrează la Registrul Comerțului în termen de 3 luni de la actul constitutiv?",
+    "answers": [
+      {
+        "text": "Devine o asociație fără scop lucrativ",
+        "isCorrect": false
+      },
+      {
+        "text": "Se dizolvă de drept",
+        "isCorrect": false
+      },
+      {
+        "text": "Rămâne o societate simplă, de drept civil, fără personalitate juridică",
+        "isCorrect": true
+      },
+      {
+        "text": "Se înregistrează automat cu penalități",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Ce se înțelege prin „intuitu pecuniae” la societățile de capitaluri?",
+    "answers": [
+      {
+        "text": "Că societatea poate fi constituită numai de persoane juridice",
+        "isCorrect": false
+      },
+      {
+        "text": "Că asociații sunt răspunzători personal pentru toate datoriile",
+        "isCorrect": false
+      },
+      {
+        "text": "Că la constituire contează exclusiv contribuția financiară a asociaților, nu calitățile lor personale",
+        "isCorrect": true
+      },
+      {
+        "text": "Că societatea nu poate distribui dividende",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "question": "Ce se înțelege prin „intuitu personae” la societățile de persoane?",
+    "answers": [
+      {
+        "text": "Că societatea se constituie pe baza calităților personale ale asociaților și a încrederii reciproce",
+        "isCorrect": true
+      },
+      {
+        "text": "Că activul societății constă exclusiv în munca asociaților",
+        "isCorrect": false
+      },
+      {
+        "text": "Că societatea are un singur asociat",
+        "isCorrect": false
+      },
+      {
+        "text": "Că societatea are personalitate juridică proprie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "question": "Ce se înțelege prin „raportul juridic este o relație volițională”?",
+    "answers": [
+      {
+        "text": "Că voința statului primează în toate raporturile juridice",
+        "isCorrect": false
+      },
+      {
+        "text": "Că raportul juridic se bazează pe voința cel puțin uneia dintre părți și că produce efecte deoarece dreptul recunoaște această voință",
+        "isCorrect": true
+      },
+      {
+        "text": "Că raportul juridic impune obligații fără consimțământul persoanelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Că toate raporturile juridice sunt contractuale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "question": "Ce se înțelege prin „sediul” persoanei juridice?",
+    "answers": [
+      {
+        "text": "Orice locație unde persoana juridică desfășoară activitate",
+        "isCorrect": false
+      },
+      {
+        "text": "Locul stabilit prin actul de constituire sau statut, unde persoana juridică își desfășoară activitatea principală",
+        "isCorrect": true
+      },
+      {
+        "text": "Domiciliul fondatorului principal",
+        "isCorrect": false
+      },
+      {
+        "text": "Locul unde se află directorul general",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Ce se înțelege prin controlul de legalitate exercitat de directorul Oficiului Registrului Comerțului?",
+    "answers": [
+      {
+        "text": "Verificarea competenței profesionale a administratorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Verificarea bonității financiare a asociaților",
+        "isCorrect": false
+      },
+      {
+        "text": "Verificarea îndeplinirii normelor legale imperative privind constituirea societății, nu a oportunității economice",
+        "isCorrect": true
+      },
+      {
+        "text": "Controlul fiscal al aporturilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "question": "Ce se înțelege prin opozabilitatea față de terți a unui drept?",
+    "answers": [
+      {
+        "text": "Dreptul de a refuza executarea obligației față de terți",
+        "isCorrect": false
+      },
+      {
+        "text": "Obligativitatea terților de a executa o obligație contractuală",
+        "isCorrect": false
+      },
+      {
+        "text": "Faptul că acel drept poate fi invocat și față de persoane care nu au participat la actul juridic prin care a fost creat",
+        "isCorrect": true
+      },
+      {
+        "text": "Nulitatea actului față de terți",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "question": "Ce se înțelege prin sedii secundare ale persoanei juridice?",
+    "answers": [
+      {
+        "text": "Locațiile temporare de desfășurare a activității",
+        "isCorrect": false
+      },
+      {
+        "text": "Sucursale, reprezentanțe teritoriale și puncte de lucru, stabilite în funcție de obiectul de activitate",
+        "isCorrect": true
+      },
+      {
+        "text": "Adresele poștale ale angajaților",
+        "isCorrect": false
+      },
+      {
+        "text": "Sucursalele din alte state",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "question": "Ce se numește denumirea sub care comerciantul își exercită activitatea?",
+    "answers": [
+      {
+        "text": "Marcă comercială",
+        "isCorrect": false
+      },
+      {
+        "text": "Brand",
+        "isCorrect": false
+      },
+      {
+        "text": "Emblemă comerciantului",
+        "isCorrect": false
+      },
+      {
+        "text": "Firmă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "question": "Ce se publică în Monitorul Oficial la constituirea societății?",
+    "answers": [
+      {
+        "text": "Bilanțul de deschidere al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Actul constitutiv integral",
+        "isCorrect": false
+      },
+      {
+        "text": "Un extras al rezoluției de admitere a cererii de înregistrare (Partea IV)",
+        "isCorrect": true
+      },
+      {
+        "text": "Lista asociaților și a administratorilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "question": "Ce societăți nu pot emite titluri de valoare?",
+    "answers": [
+      {
+        "text": "SNC, SCS și SRL",
+        "isCorrect": true
+      },
+      {
+        "text": "SA și SCA",
+        "isCorrect": false
+      },
+      {
+        "text": "Toate societățile comerciale",
+        "isCorrect": false
+      },
+      {
+        "text": "Numai SNC",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Ce societăți pot emite acțiuni și obligațiuni?",
+    "answers": [
+      {
+        "text": "SA și SCA",
+        "isCorrect": true
+      },
+      {
+        "text": "SRL și SNC",
+        "isCorrect": false
+      },
+      {
+        "text": "Toate societățile comerciale",
+        "isCorrect": false
+      },
+      {
+        "text": "Numai SA",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "question": "Ce sunt actele juridice ca izvoare ale raporturilor juridice?",
+    "answers": [
+      {
+        "text": "Hotărâri judecătorești cu efect obligatoriu",
+        "isCorrect": false
+      },
+      {
+        "text": "Manifestări de voință cu scopul de a crea, modifica sau stinge un raport juridic civil (ex. contracte, testament)",
+        "isCorrect": true
+      },
+      {
+        "text": "Norme juridice emise de autoritățile publice",
+        "isCorrect": false
+      },
+      {
+        "text": "Fapte umane cărora legea le recunoaște efecte juridice, deși nu acesta este scopul lor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Ce sunt bunurile consumptibile?",
+    "answers": [
+      {
+        "text": "Bunuri care pot fi folosite în mod repetat fără a le consuma substanța",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri care nu pot fi împărțite",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri care produc fructe periodice",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri a căror substanță este consumată sau înstrăinată după folosire",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Ce sunt bunurile din domeniul public?",
+    "answers": [
+      {
+        "text": "Bunuri cu circulație restrânsă, accesibile numai anumitor categorii",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri deținute de persoane private, dar supuse reglementărilor statului",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri imobile dobândite de stat prin expropriere",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri aflate în afara circuitului civil, care aparțin statului sau unităților administrativ-teritoriale și sunt destinate uzului public",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Ce sunt bunurile fungibile?",
+    "answers": [
+      {
+        "text": "Bunuri care produc fructe periodice",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri care nu pot fi înlocuite cu altele în executarea obligației",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri al căror consum implică înstrăinarea lor",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri determinate prin număr, măsură sau greutate, care pot fi înlocuite unele cu altele în executarea obligației",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Ce sunt bunurile imobile prin destinație?",
+    "answers": [
+      {
+        "text": "Bunuri mobile care sunt considerate imobile pentru că sunt încorporate/anexate pentru folosința sau exploatarea unui bun imobil (ex. ușa unei clădiri, utilaje într-o fabrică)",
+        "isCorrect": true
+      },
+      {
+        "text": "Bunuri imobile prin natura lor (terenuri și construcții)",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri imobile definite astfel prin lege",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri mobile ce pot deveni imobile prin voința proprietarului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "question": "Ce sunt bunurile individual determinate?",
+    "answers": [
+      {
+        "text": "Bunuri care pot fi înlocuite cu altele de același fel",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri identificate prin caracteristicile lor proprii, unice, care le deosebesc de altele de același fel",
+        "isCorrect": true
+      },
+      {
+        "text": "Bunuri ce aparțin unei categorii generice",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri determinate prin număr, măsură sau greutate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "question": "Ce sunt clauzele de identificare a viitoarei societăți comerciale din actul constitutiv?",
+    "answers": [
+      {
+        "text": "Capitalul social, aporturile și durata",
+        "isCorrect": false
+      },
+      {
+        "text": "Administratorii și cenzorii societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Obiectul de activitate și codul CAEN",
+        "isCorrect": false
+      },
+      {
+        "text": "Denumirea/firma societății, forma juridică și sediul social",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Ce sunt codurile ca formă de acte normative?",
+    "answers": [
+      {
+        "text": "Legi ample care reglementează un sistem de probleme (ex. Codul civil, Codul fiscal, Codul muncii)",
+        "isCorrect": true
+      },
+      {
+        "text": "Regulamente emise de ministere",
+        "isCorrect": false
+      },
+      {
+        "text": "Hotărâri ale Consiliului local",
+        "isCorrect": false
+      },
+      {
+        "text": "Directive europene transpuse în dreptul intern",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "question": "Ce sunt decăderile pentru exercitarea activității comerciale?",
+    "answers": [
+      {
+        "text": "Incompatibilități legate de funcțiile publice deținute",
+        "isCorrect": false
+      },
+      {
+        "text": "Limitări ale capacității de exercițiu pentru minorii de 16-18 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "Restricții privind numărul de activități comerciale permise",
+        "isCorrect": false
+      },
+      {
+        "text": "Interdicții impuse persoanelor condamnate definitiv pentru infracțiuni incompatibile cu activitatea comercială (ex. spălare de bani, evaziune fiscală)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "question": "Ce sunt drepturile absolute?",
+    "answers": [
+      {
+        "text": "Drepturi condiționate de un eveniment viitor",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturi care pot fi exercitate doar cu acordul debitorului",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturi subiective pe care titularul le poate exercita singur, cu obligația negativă din partea tuturor celorlalți (erga omnes)",
+        "isCorrect": true
+      },
+      {
+        "text": "Drepturi care se transmit moștenitorilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Ce sunt drepturile de creanță?",
+    "answers": [
+      {
+        "text": "Drepturi exercitate de titularul lor fără participarea altcuiva",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturi nepatrimoniale",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturi subiective în care un subiect activ (creditorul) poate cere unui subiect pasiv determinat (debitorul) un anumit comportament",
+        "isCorrect": true
+      },
+      {
+        "text": "Drepturi reale accesorii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "question": "Ce sunt drepturile personal-nepatrimoniale?",
+    "answers": [
+      {
+        "text": "Drepturi de creanță față de alte persoane",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturi care pot fi evaluate în bani",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturi subiective ale persoanei care nu au valoare monetară (ex. dreptul la viață, la opinie, la religie)",
+        "isCorrect": true
+      },
+      {
+        "text": "Drepturi reale exercitate de titularul lor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Ce sunt drepturile reale?",
+    "answers": [
+      {
+        "text": "Drepturi fără valoare patrimonială",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturi condiționate de îndeplinirea unor modalități",
+        "isCorrect": false
+      },
+      {
+        "text": "Drepturi pe care titularul le poate exercita singur, cu obligația tuturor celorlalți de a le respecta",
+        "isCorrect": true
+      },
+      {
+        "text": "Drepturi prin care creditorul poate cere debitorului un anumit comportament",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Ce sunt faptele juridice ca izvoare ale raporturilor juridice?",
+    "answers": [
+      {
+        "text": "Acte normative emise de Guvern",
+        "isCorrect": false
+      },
+      {
+        "text": "Manifestări de voință cu scopul de a crea raporturi juridice",
+        "isCorrect": false
+      },
+      {
+        "text": "Decizii ale autorităților administrative",
+        "isCorrect": false
+      },
+      {
+        "text": "Fapte umane cărora legea le recunoaște efectul de a crea, modifica sau stinge un raport juridic, deși nu acesta este scopul lor (ex. nașterea, moartea, accidentele)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "question": "Ce sunt fructele civile?",
+    "answers": [
+      {
+        "text": "Bunurile obținute cu consumarea substanței bunului principal",
+        "isCorrect": false
+      },
+      {
+        "text": "Veniturile rezultate din folosirea bunului de către o altă persoană în virtutea unui act juridic (chiriile, dobânzile, dividendele)",
+        "isCorrect": true
+      },
+      {
+        "text": "Produsele directe și periodice obținute ca rezultat al intervenției omului",
+        "isCorrect": false
+      },
+      {
+        "text": "Produsele directe și periodice ale unui bun fără intervenție umană",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Ce sunt incompatibilitățile pentru exercitarea activității comerciale?",
+    "answers": [
+      {
+        "text": "Situații în care persoanele au cazier penal",
+        "isCorrect": false
+      },
+      {
+        "text": "Situații în care persoanele nu au cetățenie română",
+        "isCorrect": false
+      },
+      {
+        "text": "Situații în care persoanele nu dețin capitalul necesar",
+        "isCorrect": false
+      },
+      {
+        "text": "Situații în care unele categorii de persoane (ex. magistrați, deputați) nu pot exercita activități comerciale din cauza caracterului speculativ al acestora",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Ce sunt interdicțiile convenționale pentru comercianți?",
+    "answers": [
+      {
+        "text": "Interdicții impuse de stat pentru monopoluri de stat",
+        "isCorrect": false
+      },
+      {
+        "text": "Interdicții legate de capacitatea civilă",
+        "isCorrect": false
+      },
+      {
+        "text": "Interdicții impuse de părți prin contract (ex. în franciză sau după vânzarea fondului de comerț)",
+        "isCorrect": true
+      },
+      {
+        "text": "Interdicții impuse de instanță persoanelor condamnate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Ce sunt izvoarele normelor juridice?",
+    "answers": [
+      {
+        "text": "Domeniile de aplicare ale normelor juridice",
+        "isCorrect": false
+      },
+      {
+        "text": "Diferitele modalități de exprimare exterioară a normelor juridice",
+        "isCorrect": true
+      },
+      {
+        "text": "Persoanele care respectă normele juridice",
+        "isCorrect": false
+      },
+      {
+        "text": "Instituțiile care emit norme juridice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "question": "Ce sunt obligațiunile emise de o societate?",
+    "answers": [
+      {
+        "text": "Fracțiuni dintr-un împrumut contractat de societate, constituind titluri de valoare",
+        "isCorrect": true
+      },
+      {
+        "text": "Certificate de participare la profit",
+        "isCorrect": false
+      },
+      {
+        "text": "Fracțiuni din capitalul social al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Dividende plătite anticipat acționarilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "question": "Ce sunt Ordonanțele de Urgență ale Guvernului (OUG)?",
+    "answers": [
+      {
+        "text": "Acte normative emise de Curtea Constituțională",
+        "isCorrect": false
+      },
+      {
+        "text": "Acte normative emise de Guvern în situații extraordinare, urgente, a căror reglementare nu poate fi amânată",
+        "isCorrect": true
+      },
+      {
+        "text": "Acte normative emise de Parlament în situații de urgență",
+        "isCorrect": false
+      },
+      {
+        "text": "Acte normative emise de ministere în situații de urgență",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Ce sunt Ordonanțele Guvernului (OG)?",
+    "answers": [
+      {
+        "text": "Acte normative emise de Guvern fără nicio delegare din partea Parlamentului",
+        "isCorrect": false
+      },
+      {
+        "text": "Acte normative emise de Guvern în baza unei delegări exprese date de Parlament printr-o lege specială de abilitare",
+        "isCorrect": true
+      },
+      {
+        "text": "Acte normative emise de ministere pentru punerea în aplicare a legilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Acte normative adoptate de Consiliile locale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Ce sunt principiile ca izvor de drept?",
+    "answers": [
+      {
+        "text": "Principii generale de drept (ex. buna-credință, echitatea) care completează golurile legislative",
+        "isCorrect": true
+      },
+      {
+        "text": "Hotărâri ale instanțelor internaționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Decizii ale Curții Constituționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Recomandări ale Avocatului Poporului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "question": "Ce sunt productele în clasificarea bunurilor?",
+    "answers": [
+      {
+        "text": "Produse periodice care nu consumă substanța bunului",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunuri obținute cu consumarea substanței bunului principal (ex. petrolul din mine, aurul)",
+        "isCorrect": true
+      },
+      {
+        "text": "Venituri din utilizarea bunului de terți",
+        "isCorrect": false
+      },
+      {
+        "text": "Fructe naturale ale unui bun",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "question": "Ce sunt regiile autonome?",
+    "answers": [
+      {
+        "text": "Companii multinaționale cu sediul în România",
+        "isCorrect": false
+      },
+      {
+        "text": "Societăți private cu participare a statului",
+        "isCorrect": false
+      },
+      {
+        "text": "Fundații de utilitate publică",
+        "isCorrect": false
+      },
+      {
+        "text": "Entități cu patrimoniu public care desfășoară activități economice de interes public (ex. RA Aeroportul București)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "question": "Ce sunt societățile de persoane?",
+    "answers": [
+      {
+        "text": "Societăți constituite de un număr limitat de persoane, pe baza calităților personale ale asociaților și a încrederii reciproce (intuitu personae)",
+        "isCorrect": true
+      },
+      {
+        "text": "Societăți cu capital minim de 90.000 lei",
+        "isCorrect": false
+      },
+      {
+        "text": "Societăți constituite de un număr mare de persoane, bazate exclusiv pe contribuția financiară",
+        "isCorrect": false
+      },
+      {
+        "text": "Societăți în care acțiunile pot fi transmise liber",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "question": "Ce sunt sucursalele societăților străine?",
+    "answers": [
+      {
+        "text": "Unități ale societăților străine fără personalitate juridică proprie, înregistrate în România",
+        "isCorrect": true
+      },
+      {
+        "text": "Filiale cu personalitate juridică proprie",
+        "isCorrect": false
+      },
+      {
+        "text": "Reprezentanțe cu activitate comercială deplină",
+        "isCorrect": false
+      },
+      {
+        "text": "Societăți mixte româno-străine",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "question": "Ce sunt uzanțele ca izvor de drept?",
+    "answers": [
+      {
+        "text": "Actele normative emise de ministere",
+        "isCorrect": false
+      },
+      {
+        "text": "Deciziile Curții Constituționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Hotărârile judecătorești cu aplicabilitate generală",
+        "isCorrect": false
+      },
+      {
+        "text": "Obiceiul și uzurile profesionale, surse nescrise de drept",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "question": "Ce termen are Oficiul Registrului Comerțului pentru a trimite plângerea instanței competente?",
+    "answers": [
+      {
+        "text": "24 de ore",
+        "isCorrect": false
+      },
+      {
+        "text": "15 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "3 zile de la depunerea plângerii",
+        "isCorrect": true
+      },
+      {
+        "text": "7 zile lucrătoare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "question": "Ce termen are solicitantul pentru a remedia neregularitățile constatate la cererea de înregistrare?",
+    "answers": [
+      {
+        "text": "15 zile",
+        "isCorrect": true
+      },
+      {
+        "text": "3 zile lucrătoare",
+        "isCorrect": false
+      },
+      {
+        "text": "30 de zile",
+        "isCorrect": false
+      },
+      {
+        "text": "60 de zile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "question": "Ce termeni a înlocuit reglementarea actuală față de Codul comercial?",
+    "answers": [
+      {
+        "text": "A eliminat complet noțiunea de activitate comercială",
+        "isCorrect": false
+      },
+      {
+        "text": "A introdus termenul de „operator public” în locul „comerciantului”",
+        "isCorrect": false
+      },
+      {
+        "text": "A înlocuit „comerciant” și „acte comerciale” cu „profesioniști” și „întreprindere”",
+        "isCorrect": true
+      },
+      {
+        "text": "A înlocuit „profesionist” cu „comerciant” și „întreprindere” cu „firmă”",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Ce tip de control exercită directorul Oficiului Registrului Comerțului cu privire la cererea de înregistrare?",
+    "answers": [
+      {
+        "text": "Control de legalitate pentru verificarea îndeplinirii normelor legale imperative",
+        "isCorrect": true
+      },
+      {
+        "text": "Control de oportunitate și eficiență economică",
+        "isCorrect": false
+      },
+      {
+        "text": "Control fiscal și contabil",
+        "isCorrect": false
+      },
+      {
+        "text": "Control tehnic privind obiectul de activitate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Ce tipuri de aporturi pot aduce asociații la constituirea unei societăți?",
+    "answers": [
+      {
+        "text": "Exclusiv aporturi în natură (bunuri mobile sau imobile)",
+        "isCorrect": false
+      },
+      {
+        "text": "Aporturi în numerar, aporturi în natură și aporturi în industrie (prestații în muncă)",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv aporturi în numerar",
+        "isCorrect": false
+      },
+      {
+        "text": "Aporturi în numerar și în natură (nu și în industrie)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "question": "Ce tratate internaționale au aplicare prioritară față de legislația internă română?",
+    "answers": [
+      {
+        "text": "Toate tratatele internaționale, indiferent de obiect",
+        "isCorrect": false
+      },
+      {
+        "text": "Tratatele internaționale privind drepturile omului la care România este parte (când sunt mai favorabile persoanelor)",
+        "isCorrect": true
+      },
+      {
+        "text": "Niciun tratat nu are prioritate față de legile interne",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv tratatele UE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "question": "Ce trebuie să cuprindă documentele emise de o persoană juridică?",
+    "answers": [
+      {
+        "text": "Exclusiv codul fiscal și denumirea",
+        "isCorrect": false
+      },
+      {
+        "text": "Denumirea și sediul, precum și alte atribute de identificare prevăzute de lege",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv numărul de înregistrare la Registrul Comerțului",
+        "isCorrect": false
+      },
+      {
+        "text": "Semnătura și ștampila reprezentantului legal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "question": "Cine are drept de vot în AGA la o societate pe acțiuni?",
+    "answers": [
+      {
+        "text": "Acționarii, personal sau prin reprezentant (cu procuri depuse cu 48h înainte)",
+        "isCorrect": true
+      },
+      {
+        "text": "Toți participanții la ședință, inclusiv administratorii",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv acționarii majoritari",
+        "isCorrect": false
+      },
+      {
+        "text": "Și cenzorii, dacă este vorba de probleme de gestiune",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Cine are dreptul să numească sau să revoce administratorii societății?",
+    "answers": [
+      {
+        "text": "Directorul general al societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Consiliul de supraveghere",
+        "isCorrect": false
+      },
+      {
+        "text": "Autoritățile publice locale",
+        "isCorrect": false
+      },
+      {
+        "text": "Adunarea Generală a Asociaților (AGA)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "question": "Cine încheie acte juridice în numele persoanelor lipsite de capacitate de exercițiu?",
+    "answers": [
+      {
+        "text": "Reprezentanții lor legali (părinți sau tutore)",
+        "isCorrect": true
+      },
+      {
+        "text": "Ei înșiși, cu asistența unui avocat",
+        "isCorrect": false
+      },
+      {
+        "text": "Autoritățile publice locale",
+        "isCorrect": false
+      },
+      {
+        "text": "Instanța de judecată",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Cine poate contesta o hotărâre AGA adoptată cu încălcarea actului constitutiv sau a legii?",
+    "answers": [
+      {
+        "text": "Acționarii care nu au participat, acționarii care au votat împotrivă și orice persoană interesată (pentru nulitate absolută)",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv instanțele judecătorești din oficiu",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv organele de conducere ale societății",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv acționarii majoritari",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "question": "Cine poate convoca AGA la cererea cenzorilor?",
+    "answers": [
+      {
+        "text": "Cenzorii pot convoca AGA dacă asociații reclamă fapte despre care cred că trebuie cenzurate",
+        "isCorrect": true
+      },
+      {
+        "text": "Cenzorii nu pot convoca AGA",
+        "isCorrect": false
+      },
+      {
+        "text": "Numai cu aprobarea prealabilă a administratorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Cenzorii pot convoca oricând AGA, indiferent de motiv",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "question": "Cine poate fi parte a unui raport juridic?",
+    "answers": [
+      {
+        "text": "Exclusiv persoane juridice",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv persoane cu capacitate deplină de exercițiu",
+        "isCorrect": false
+      },
+      {
+        "text": "Una sau mai multe persoane fizice sau juridice",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv persoane fizice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "question": "Cine poate formula plângere împotriva rezoluției de respingere a cererii de înregistrare?",
+    "answers": [
+      {
+        "text": "Exclusiv autoritățile fiscale",
+        "isCorrect": false
+      },
+      {
+        "text": "Părțile (în 15 zile de la pronunțarea rezoluției) și terții interesați (în 15 zile de la publicarea online a rezoluției)",
+        "isCorrect": true
+      },
+      {
+        "text": "Orice cetățean, fără termen",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv solicitantul",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "question": "Cine poate reprezenta o Întreprindere Familială?",
+    "answers": [
+      {
+        "text": "Orice membru al familiei în mod individual",
+        "isCorrect": false
+      },
+      {
+        "text": "Un administrator extern angajat",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv titularul/fondatorul întreprinderii",
+        "isCorrect": false
+      },
+      {
+        "text": "Reprezentantul desemnat de membrii familiei prin acord",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "question": "Cine răspunde pentru obligațiile unei societăți neînregistrate legal?",
+    "answers": [
+      {
+        "text": "Asociații și persoanele care au acționat în numele societății, personal și solidar",
+        "isCorrect": true
+      },
+      {
+        "text": "Nimeni, obligațiile sunt nule",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv cel care a semnat actul constitutiv",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv administratorii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "question": "Cine soluționează cererea de înregistrare la Registrul Comerțului?",
+    "answers": [
+      {
+        "text": "Notarul public",
+        "isCorrect": false
+      },
+      {
+        "text": "Directorul Oficiului Registrului Comerțului sau persoana delegată de acesta",
+        "isCorrect": true
+      },
+      {
+        "text": "Ministerul Finanțelor Publice",
+        "isCorrect": false
+      },
+      {
+        "text": "Instanța de judecată (tribunalul)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "question": "Conform art. 3 din Codul civil, cine sunt profesioniștii?",
+    "answers": [
+      {
+        "text": "Exclusiv persoanele juridice înregistrate în Registrul Comerțului",
+        "isCorrect": false
+      },
+      {
+        "text": "Toți cei care exploatează o întreprindere",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv persoanele care exercită comerț cu mărfuri",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv persoanele cu studii superioare care exercită o profesie liberală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "question": "Conform Constituției (art. 148), ce prioritate au reglementările UE față de legile interne?",
+    "answers": [
+      {
+        "text": "Legile interne au prioritate față de reglementările UE",
+        "isCorrect": false
+      },
+      {
+        "text": "Prioritatea se stabilește de la caz la caz de către instanțe",
+        "isCorrect": false
+      },
+      {
+        "text": "Reglementările UE și legile interne au aceeași forță juridică",
+        "isCorrect": false
+      },
+      {
+        "text": "Reglementările UE au prioritate față de dispozițiile contrare din legile interne",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "question": "Conform principiului teritorialității, la ce teritoriu se aplică o lege?",
+    "answers": [
+      {
+        "text": "Pe orice teritoriu unde există cetățeni ai statului respectiv",
+        "isCorrect": false
+      },
+      {
+        "text": "Doar în capitala statului",
+        "isCorrect": false
+      },
+      {
+        "text": "Pe teritoriul statului care a emis-o",
+        "isCorrect": true
+      },
+      {
+        "text": "La nivel global, dacă statul a ratificat tratate internaționale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "question": "Cu câte zile înainte de ședință trebuie comunicată convocarea AGA la un SRL?",
+    "answers": [
+      {
+        "text": "Minimum 10 zile de la convocare",
+        "isCorrect": true
+      },
+      {
+        "text": "5 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "15 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "30 de zile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Cu câte zile înainte de ședință trebuie publicată convocarea AGA la o SA?",
+    "answers": [
+      {
+        "text": "15 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "30 de zile de la publicarea convocării în Monitorul Oficial",
+        "isCorrect": true
+      },
+      {
+        "text": "7 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "10 zile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "question": "Cu ce răspunde un comerciant individual pentru obligațiile activității sale comerciale?",
+    "answers": [
+      {
+        "text": "Numai în limita valorii bunurilor imobile deținute",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv cu capitalul social al firmei",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv cu patrimoniul afectat activității",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu patrimoniul afectat întreprinderii (dacă este constituit) și cu patrimoniul personal",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "question": "Cum se clasifică societățile în funcție de posibilitatea transmiterii capitalului?",
+    "answers": [
+      {
+        "text": "Societăți naționale și societăți internaționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Societăți cu răspundere limitată și nelimitată",
+        "isCorrect": false
+      },
+      {
+        "text": "Societăți de persoane (transmitere restrictivă a părților de interes) vs societăți de capitaluri (acțiuni transmisibile liber)",
+        "isCorrect": true
+      },
+      {
+        "text": "Societăți publice și societăți private",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Cum se constituie o societate cu răspundere limitată cu asociat unic?",
+    "answers": [
+      {
+        "text": "Prin hotărâre judecătorească",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv printr-un statut (act unilateral)",
+        "isCorrect": true
+      },
+      {
+        "text": "Printr-un contract de societate cu cel puțin 2 asociați",
+        "isCorrect": false
+      },
+      {
+        "text": "Prin act constitutiv semnat de minimum 2 persoane",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "question": "Cum se numesc entitățile reglementate de Regulamentul (CE) nr. 2157/2001?",
+    "answers": [
+      {
+        "text": "Asociații europene de drept privat",
+        "isCorrect": false
+      },
+      {
+        "text": "Fonduri europene de investiții",
+        "isCorrect": false
+      },
+      {
+        "text": "Societăți europene (SE)",
+        "isCorrect": true
+      },
+      {
+        "text": "Grupuri europene de interes economic (GEIE)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "question": "Cum se numesc fracțiunile de capital în cadrul unui SA sau SCA?",
+    "answers": [
+      {
+        "text": "Obligațiuni",
+        "isCorrect": false
+      },
+      {
+        "text": "Părți sociale",
+        "isCorrect": false
+      },
+      {
+        "text": "Acțiuni",
+        "isCorrect": true
+      },
+      {
+        "text": "Părți de interes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "question": "Cum se numesc fracțiunile de capital în cadrul unui SNC sau SCS?",
+    "answers": [
+      {
+        "text": "Certificate de fondator",
+        "isCorrect": false
+      },
+      {
+        "text": "Părți sociale",
+        "isCorrect": false
+      },
+      {
+        "text": "Părți de interes",
+        "isCorrect": true
+      },
+      {
+        "text": "Acțiuni",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "question": "Cum se numesc fracțiunile de capital în cadrul unui SRL?",
+    "answers": [
+      {
+        "text": "Acțiuni",
+        "isCorrect": false
+      },
+      {
+        "text": "Părți sociale",
+        "isCorrect": true
+      },
+      {
+        "text": "Părți de interes",
+        "isCorrect": false
+      },
+      {
+        "text": "Certificate de participare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "question": "Cum sunt supuse răspunderii comanditații față de terți în SCA?",
+    "answers": [
+      {
+        "text": "Răspund numai până la concurența aportului lor",
+        "isCorrect": false
+      },
+      {
+        "text": "Răspund solidar nelimitat pentru obligațiile societății, similar asociaților din SNC",
+        "isCorrect": true
+      },
+      {
+        "text": "Răspund solidar și nelimitat pentru obligațiile societății, similar asociaților din SNC",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu răspund personal, numai societatea răspunde",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "question": "De când dobândește capacitate de folosință o persoană fizică?",
+    "answers": [
+      {
+        "text": "De la naștere (prin excepție, de la momentul conceperii)",
+        "isCorrect": true
+      },
+      {
+        "text": "De la vârsta de 16 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "De la vârsta de 14 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "De la vârsta de 18 ani",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "question": "De când dobândește o persoană juridică supusă înregistrării capacitatea de folosință?",
+    "answers": [
+      {
+        "text": "De la data primei tranzacții comerciale",
+        "isCorrect": false
+      },
+      {
+        "text": "De la data autorizării de către autorități",
+        "isCorrect": false
+      },
+      {
+        "text": "De la data înregistrării",
+        "isCorrect": true
+      },
+      {
+        "text": "De la data semnării actului constitutiv",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "question": "De când dobândește societatea comercială personalitate juridică?",
+    "answers": [
+      {
+        "text": "De la data primei tranzacții comerciale",
+        "isCorrect": false
+      },
+      {
+        "text": "De la data autorizației de funcționare",
+        "isCorrect": false
+      },
+      {
+        "text": "De la data semnării actului constitutiv",
+        "isCorrect": false
+      },
+      {
+        "text": "Din momentul înregistrării la Registrul Comerțului",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "question": "De câte ori pe an se întrunește obligatoriu AGA?",
+    "answers": [
+      {
+        "text": "Lunar",
+        "isCorrect": false
+      },
+      {
+        "text": "Cel puțin o dată pe an, în primele 5 luni",
+        "isCorrect": true
+      },
+      {
+        "text": "De două ori pe an",
+        "isCorrect": false
+      },
+      {
+        "text": "Trimestrial",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "question": "De ce este dreptul afacerilor o materie interdisciplinară?",
+    "answers": [
+      {
+        "text": "Pentru că regrupează dispoziții din drept civil, dreptul muncii, drept penal, drept administrativ, dreptul societăților comerciale și drept fiscal",
+        "isCorrect": true
+      },
+      {
+        "text": "Pentru că este o ramură nouă a dreptului, fără legătură cu alte ramuri",
+        "isCorrect": false
+      },
+      {
+        "text": "Pentru că se aplică exclusiv relațiilor internaționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Pentru că este reglementat printr-un singur cod cuprinzător",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "question": "De la ce vârstă dobândește o persoană fizică capacitate deplină de exercițiu în România?",
+    "answers": [
+      {
+        "text": "18 ani (cu excepție de la 16 ani prin căsătorie)",
+        "isCorrect": true
+      },
+      {
+        "text": "16 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "21 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "14 ani",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "question": "Din câte părți este structurată norma juridică?",
+    "answers": [
+      {
+        "text": "3 (ipoteza, dispoziția, sancțiunea)",
+        "isCorrect": true
+      },
+      {
+        "text": "4 (ipoteza, dispoziția, sancțiunea și excepția)",
+        "isCorrect": false
+      },
+      {
+        "text": "2 (ipoteza și sancțiunea)",
+        "isCorrect": false
+      },
+      {
+        "text": "1 (dispoziția)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "question": "Dobândesc personalitate juridică PFA, Întreprinderea Individuală sau Întreprinderea Familială?",
+    "answers": [
+      {
+        "text": "Da, toate dobândesc personalitate juridică la înregistrare",
+        "isCorrect": false
+      },
+      {
+        "text": "Doar Întreprinderea Familială dobândește personalitate juridică",
+        "isCorrect": false
+      },
+      {
+        "text": "Numai PFA dobândește personalitate juridică",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, niciuna dintre ele nu dobândește personalitate juridică",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "question": "Este public Registrul Comerțului?",
+    "answers": [
+      {
+        "text": "Parțial public, doar pentru parteneri comerciali",
+        "isCorrect": false
+      },
+      {
+        "text": "Public doar pentru autorități publice",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, este confidențial și accesibil doar asociaților",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, oricine poate cere copii ale documentelor înregistrate, contra unei taxe",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "question": "În ce termen este înregistrată societatea de la data rezoluției de admitere?",
+    "answers": [
+      {
+        "text": "15 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "48 de ore",
+        "isCorrect": false
+      },
+      {
+        "text": "24 de ore",
+        "isCorrect": true
+      },
+      {
+        "text": "3 zile lucrătoare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "question": "În ce termen se publică în Monitorul Oficial extrasul rezoluției de admitere a înregistrării societății?",
+    "answers": [
+      {
+        "text": "15 zile lucrătoare",
+        "isCorrect": false
+      },
+      {
+        "text": "30 de zile în Monitorul Oficial Partea I",
+        "isCorrect": false
+      },
+      {
+        "text": "Maximum 17 zile de la primirea rezoluției, în Partea IV a Monitorului Oficial",
+        "isCorrect": true
+      },
+      {
+        "text": "24 de ore de la înregistrare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "question": "În ce termen trebuie înregistrată societatea la Registrul Comerțului după încheierea actului constitutiv?",
+    "answers": [
+      {
+        "text": "3 luni",
+        "isCorrect": false
+      },
+      {
+        "text": "60 de zile",
+        "isCorrect": false
+      },
+      {
+        "text": "15 zile",
+        "isCorrect": true
+      },
+      {
+        "text": "30 de zile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "question": "La ce tip de societăți nu sunt admisibile aporturile în creanțe?",
+    "answers": [
+      {
+        "text": "SRL, SCA și SA înființate prin subscripție publică",
+        "isCorrect": true
+      },
+      {
+        "text": "SNC și SCS",
+        "isCorrect": false
+      },
+      {
+        "text": "Toate tipurile de societăți",
+        "isCorrect": false
+      },
+      {
+        "text": "Niciun tip de societate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "question": "La nivel european, ce act normativ reglementează registrele comerciale din statele membre UE?",
+    "answers": [
+      {
+        "text": "Directiva 2014/65/UE (MiFID II)",
+        "isCorrect": false
+      },
+      {
+        "text": "Regulamentul (CE) nr. 2157/2001",
+        "isCorrect": false
+      },
+      {
+        "text": "GDPR (Regulamentul 2016/679)",
+        "isCorrect": false
+      },
+      {
+        "text": "Directiva (UE) 2017/1132 privind anumite aspecte ale dreptului societăților",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "question": "Oficiile locale ale Registrului Comerțului au personalitate juridică proprie?",
+    "answers": [
+      {
+        "text": "Da, fiecare oficiu județean are personalitate juridică",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, numai ONRC are personalitate juridică; oficiile locale nu au personalitate juridică proprie",
+        "isCorrect": true
+      },
+      {
+        "text": "Numai oficiile din municipii reședință de județ",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, din momentul înregistrării la Ministerul Justiției",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Pot acționarii-membri ai consiliului de administrație să conteste o hotărâre AGA prin care sunt revocați din funcție?",
+    "answers": [
+      {
+        "text": "Nu, acționarii care sunt membri ai CA nu pot contesta o hotărâre prin care sunt revocați",
+        "isCorrect": true
+      },
+      {
+        "text": "Da, au dreptul să conteste orice hotărâre",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, dacă dețin cel puțin 5% din capital",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, numai dacă revocarea nu a respectat procedura legală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "question": "Pot fi distribuite dividende intermediare în cursul exercițiului financiar?",
+    "answers": [
+      {
+        "text": "Nu, dividendele pot fi distribuite exclusiv la sfârșitul exercițiului financiar",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, oricând în cursul anului, fără restricții",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, este interzis prin lege",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, cu excepție, pot fi realizate distribuiri intermediare de profit",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "question": "Pot minorii de 16 ani lucra în cadrul unei Întreprinderi Familiale conform OUG 44/2008?",
+    "answers": [
+      {
+        "text": "Numai dacă au capacitate deplină de exercițiu anticipată",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, și pot reprezenta întreprinderea",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, minorii nu pot participa la activitățile întreprinderii familiale",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, pot lucra, dar nu pot reprezenta întreprinderea",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "question": "Prin ce acte juridice se poate dizolva o Întreprindere Familială?",
+    "answers": [
+      {
+        "text": "Prin retragerea unilaterală a oricărui membru",
+        "isCorrect": false
+      },
+      {
+        "text": "Prin acordul membrilor familiei (>50%) sau prin moartea membrilor (>50%)",
+        "isCorrect": true
+      },
+      {
+        "text": "Exclusiv prin decizia autorității fiscale",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv prin hotărârea instanței",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "question": "Prin ce hotărâre se admite sau se respinge cererea de înregistrare la Registrul Comerțului?",
+    "answers": [
+      {
+        "text": "Ordin ministerial",
+        "isCorrect": false
+      },
+      {
+        "text": "Decizie administrativă",
+        "isCorrect": false
+      },
+      {
+        "text": "Rezoluție",
+        "isCorrect": true
+      },
+      {
+        "text": "Sentință judecătorească",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Prin ce modalitate poate înceta o persoană juridică?",
+    "answers": [
+      {
+        "text": "Exclusiv prin decizia autorității publice care a autorizat-o",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv prin hotărârea instanței judecătorești",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv prin hotărârea asociaților",
+        "isCorrect": false
+      },
+      {
+        "text": "Prin dizolvare, desființare, transformare, fuziune, divizare totală sau declararea nulității",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Prin ce modalitate specială se publică actele normative ale Consiliilor locale?",
+    "answers": [
+      {
+        "text": "Exclusiv în Monitorul Oficial",
+        "isCorrect": false
+      },
+      {
+        "text": "Pe site-ul oficial al Consiliului local",
+        "isCorrect": false
+      },
+      {
+        "text": "Prin afișare la sediul Primăriei",
+        "isCorrect": false
+      },
+      {
+        "text": "Într-un ziar local și, dacă există, în publicația proprie a Consiliului local",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "question": "Prin ce se atribuie societății codul unic de înregistrare (CUI)?",
+    "answers": [
+      {
+        "text": "Primăria de la sediul societății",
+        "isCorrect": false
+      },
+      {
+        "text": "ANAF, separat de procedura de înregistrare",
+        "isCorrect": false
+      },
+      {
+        "text": "Ministerul Finanțelor Publice, pe baza datelor comunicate de Oficiul Registrului Comerțului",
+        "isCorrect": true
+      },
+      {
+        "text": "Registrul Comerțului, direct prin rezoluție de admitere",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "question": "Prin ce se deosebesc bunurile mobile de cele imobile?",
+    "answers": [
+      {
+        "text": "Bunurile mobile sunt consumptibile; imobilele sunt neconsumptibile",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunurile mobile sunt fungibile; imobilele sunt nefungibile",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunurile mobile sunt de valoare mai mică; imobilele de valoare mai mare",
+        "isCorrect": false
+      },
+      {
+        "text": "Bunurile mobile pot fi deplasate (singure sau mutate), bunurile imobile nu pot fi deplasate (terenuri, construcții fixate permanent)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "question": "Raporturile juridice de drept penal sau administrativ implică egalitate sau autoritate între părți?",
+    "answers": [
+      {
+        "text": "Autoritate, statul are poziție superioară față de cetățean",
+        "isCorrect": true
+      },
+      {
+        "text": "Depinde de la caz la caz",
+        "isCorrect": false
+      },
+      {
+        "text": "Egalitate, ca în dreptul privat",
+        "isCorrect": false
+      },
+      {
+        "text": "Egalitate perfectă între stat și cetățean",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Reprezintă hotărârile instanțelor judecătorești (jurisprudența) izvor de drept în sistemul românesc?",
+    "answers": [
+      {
+        "text": "Da, dar numai hotărârile Curților de Apel",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, în nicio circumstanță",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, cu excepția unor hotărâri speciale ale Înaltei Curți de Casație și Justiție",
+        "isCorrect": true
+      },
+      {
+        "text": "Da, orice hotărâre judecătorească este izvor de drept",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "question": "Sunt avocații, doctorii și arhitecții comercianți?",
+    "answers": [
+      {
+        "text": "Da, dacă obțin profit din activitatea lor",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, pentru că nu au capacitate de exercițiu comercial",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, sunt comercianți înregistrați în Registrul Comerțului",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, sunt profesioniști care exercită o profesie liberală, supuși reglementărilor specifice domeniului lor",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "question": "Sunt obligatorii hotărârile AGA pentru acționarii care au votat împotrivă?",
+    "answers": [
+      {
+        "text": "Numai hotărârile AGEA sunt obligatorii pentru toți",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, hotărârile nu obligă acționarii care au votat împotrivă",
+        "isCorrect": false
+      },
+      {
+        "text": "Numai dacă hotărârea a fost adoptată cu unanimitate",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, hotărârile AGA sunt obligatorii pentru toți acționarii, inclusiv cei care au votat împotrivă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "question": "Sunt permise aporturile în industrie (prestații în muncă) la formarea capitalului social?",
+    "answers": [
+      {
+        "text": "Nu, aporturile în industrie nu pot fi luate în considerare la formarea sau majorarea capitalului social, dar dau dreptul la o cotă din profit",
+        "isCorrect": true
+      },
+      {
+        "text": "Da, pot constitui capitalul social al oricărei societăți",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu, sunt interzise complet",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, dar numai la SA",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "question": "Toți comercianții sunt supuși înregistrării în:?",
+    "answers": [
+      {
+        "text": "Registrul Public al Asociațiilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Registrul Comerțului de la locul unde își au sediul",
+        "isCorrect": true
+      },
+      {
+        "text": "Registrul Fiscal al ANAF",
+        "isCorrect": false
+      },
+      {
+        "text": "Registrul Național al Profesiilor Liberale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "question": "Unde se publică actele de constituire a societăților comerciale?",
+    "answers": [
+      {
+        "text": "În Jurnalul Oficial al UE",
+        "isCorrect": false
+      },
+      {
+        "text": "În Monitorul Oficial, Partea IV",
+        "isCorrect": true
+      },
+      {
+        "text": "În Monitorul Oficial, Partea I",
+        "isCorrect": false
+      },
+      {
+        "text": "Exclusiv pe site-ul Registrului Comerțului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "question": "Unde se publică actele normative pentru a fi aduse la cunoștința publicului în România?",
+    "answers": [
+      {
+        "text": "Buletinul Oficial al Guvernului",
+        "isCorrect": false
+      },
+      {
+        "text": "Monitorul Oficial al României – Partea I",
+        "isCorrect": true
+      },
+      {
+        "text": "Jurnalul Oficial al Uniunii Europene",
+        "isCorrect": false
+      },
+      {
+        "text": "Registrul Național al Legilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "question": "Unde sunt publicate hotărârile AGA și hotărârile judecătorești prin care acestea au fost anulate?",
+    "answers": [
+      {
+        "text": "Exclusiv în evidențele interne ale societății",
+        "isCorrect": false
+      },
+      {
+        "text": "În Monitorul Oficial, Partea IV",
+        "isCorrect": true
+      },
+      {
+        "text": "În Monitorul Oficial, Partea I",
+        "isCorrect": false
+      },
+      {
+        "text": "Pe site-ul Registrului Comerțului",
+        "isCorrect": false
+      }
+    ]
+  }
+]

@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import { useQuiz } from "../hooks/useQuiz.js";
+import { useStorage } from "../hooks/useStorage.js";
 import { SUBJECTS } from "../subjects.js";
 
 const sortOptions = {
@@ -7,6 +8,12 @@ const sortOptions = {
   idDesc: "ID (descrescator)",
   textAsc: "Text (A-Z)",
   textDesc: "Text (Z-A)",
+  viewedAsc: "Vazut (crescator)",
+  viewedDesc: "Vazut (descrescator)",
+  correctDesc: "Corecte (descrescator)",
+  incorrectDesc: "Gresite (descrescator)",
+  accuracyDesc: "Procentaj (descrescator)",
+  accuracyAsc: "Procentaj (crescator)",
 };
 
 const StudyScreen = () => {
@@ -15,6 +22,19 @@ const StudyScreen = () => {
   const [query, setQuery] = useState("");
   const [includeAnswers, setIncludeAnswers] = useState(true);
   const [sortKey, setSortKey] = useState("idAsc");
+  const storage = useMemo(() => useStorage(subjectId), [subjectId]);
+  const stats = storage.getStats();
+
+  const getStatsForQuestion = (questionId) =>
+    stats[questionId] ?? { seen: 0, correct: 0, incorrect: 0 };
+
+  const getAccuracyStyle = (accuracy) => {
+    const hue = Math.round((accuracy / 100) * 120);
+    return {
+      background: `linear-gradient(135deg, hsla(${hue}, 70%, 45%, 0.35), hsla(${hue}, 70%, 25%, 0.35))`,
+      borderColor: `hsla(${hue}, 70%, 50%, 0.5)`,
+    };
+  };
 
   const questions = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
@@ -40,7 +60,17 @@ const StudyScreen = () => {
     }
 
     const sorted = [...list];
+    const accuracy = (question) => {
+      const info = getStatsForQuestion(question.id);
+      if (!info.seen) {
+        return 0;
+      }
+      return Math.round((info.correct / info.seen) * 100);
+    };
+
     sorted.sort((a, b) => {
+      const statsA = getStatsForQuestion(a.id);
+      const statsB = getStatsForQuestion(b.id);
       if (sortKey === "idAsc") {
         return a.id - b.id;
       }
@@ -52,13 +82,31 @@ const StudyScreen = () => {
           sensitivity: "base",
         });
       }
+      if (sortKey === "viewedAsc") {
+        return statsA.seen - statsB.seen;
+      }
+      if (sortKey === "viewedDesc") {
+        return statsB.seen - statsA.seen;
+      }
+      if (sortKey === "correctDesc") {
+        return statsB.correct - statsA.correct;
+      }
+      if (sortKey === "incorrectDesc") {
+        return statsB.incorrect - statsA.incorrect;
+      }
+      if (sortKey === "accuracyAsc") {
+        return accuracy(a) - accuracy(b);
+      }
+      if (sortKey === "accuracyDesc") {
+        return accuracy(b) - accuracy(a);
+      }
       return a.question.localeCompare(b.question, "ro", {
         sensitivity: "base",
       });
     });
 
     return sorted;
-  }, [subject.questions, query, includeAnswers, sortKey]);
+  }, [subject.questions, query, includeAnswers, sortKey, stats]);
 
   return (
     <section className="space-y-6 animate-rise">
@@ -135,6 +183,33 @@ const StudyScreen = () => {
             <h3 className="mt-2 text-base font-semibold text-white">
               {question.question}
             </h3>
+            <div className="mt-4 flex flex-wrap gap-2 text-xs">
+              {(() => {
+                const info = getStatsForQuestion(question.id);
+                const accuracy = info.seen
+                  ? Math.round((info.correct / info.seen) * 100)
+                  : 0;
+                return (
+                  <>
+                    <span className="chip rounded-full px-3 py-1">
+                      Vazut: {info.seen}
+                    </span>
+                    <span className="chip rounded-full px-3 py-1">
+                      Corecte: {info.correct}
+                    </span>
+                    <span className="chip rounded-full px-3 py-1">
+                      Gresite: {info.incorrect}
+                    </span>
+                    <span
+                      className="chip rounded-full border px-3 py-1 text-white"
+                      style={getAccuracyStyle(accuracy)}
+                    >
+                      Procentaj: {accuracy}%
+                    </span>
+                  </>
+                );
+              })()}
+            </div>
             <div className="mt-4 grid gap-3 text-sm">
               {question.answers.map((answer) => (
                 <div

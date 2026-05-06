@@ -1,0 +1,1889 @@
+[
+  {
+    "id": 251,
+    "question": "Cine pot fi participanții la raportul juridic de drept al afacerilor sub aspectul profesioniștilor?",
+    "answers": [
+      { "text": "Doar persoanele juridice.", "isCorrect": false },
+      {
+        "text": "Persoanele fizice și persoanele juridice.",
+        "isCorrect": true
+      },
+      { "text": "Doar societățile comerciale.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 252,
+    "question": "Capacitatea de folosință a persoanei fizice începe la:",
+    "answers": [
+      { "text": "Împlinirea vârstei de 18 ani.", "isCorrect": false },
+      { "text": "Data înregistrării căsătoriei.", "isCorrect": false },
+      { "text": "Nașterea persoanei.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 253,
+    "question": "La ce vârstă se dobândește, de regulă, capacitatea de exercițiu deplină?",
+    "answers": [
+      { "text": "14 ani.", "isCorrect": false },
+      { "text": "16 ani.", "isCorrect": false },
+      { "text": "18 ani.", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 254,
+    "question": "Domiciliul profesional reprezintă:",
+    "answers": [
+      {
+        "text": "Locul unde persoana are locuința secundară.",
+        "isCorrect": false
+      },
+      {
+        "text": "Locul unde un profesionist-persoană fizică exploatează o întreprindere.",
+        "isCorrect": true
+      },
+      {
+        "text": "Locul ales de părți pentru executarea unui act juridic.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "question": "Care dintre următoarele este un exemplu de bun imobil prin natura sa?",
+    "answers": [
+      { "text": "Un birou.", "isCorrect": false },
+      { "text": "Un teren.", "isCorrect": true },
+      { "text": "O recoltă neculeasă.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 256,
+    "question": "Fructele civile sunt reprezentate de:",
+    "answers": [
+      { "text": "Produsele directe ale pământului.", "isCorrect": false },
+      {
+        "text": "Veniturile rezultate din folosirea bunului de altă persoană (chirii, dobânzi).",
+        "isCorrect": true
+      },
+      {
+        "text": "Produsele obținute prin intervenția omului asupra unui bun.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "question": "Persoanele lipsite de capacitate de exercițiu (minorii sub 14 ani și interzișii judecătorești) pot încheia singure:",
+    "answers": [
+      { "text": "Orice fel de act juridic.", "isCorrect": false },
+      {
+        "text": "Doar acte de conservare și acte de dispoziție de mică valoare.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nu pot încheia niciun fel de act, sub nicio formă.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Care este diferența principală între un drept absolut și un drept relativ?",
+    "answers": [
+      {
+        "text": "Dreptul absolut poate fi evaluat în bani, cel relativ nu.",
+        "isCorrect": false
+      },
+      {
+        "text": "Dreptul absolut este exercitat individual de titular, cel relativ presupune concursul unui debitor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Dreptul absolut se stinge la moartea titularului, cel relativ nu.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "question": "Ce reprezintă condiția ca modalitate a dreptului subiectiv civil?",
+    "answers": [
+      {
+        "text": "Un eveniment viitor și sigur de care depinde stingerea dreptului.",
+        "isCorrect": false
+      },
+      {
+        "text": "O obligație care grevează existența dreptului.",
+        "isCorrect": false
+      },
+      {
+        "text": "Un eveniment viitor și incert de care depinde existența sau exercitarea dreptului.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "question": "Care sunt condițiile esențiale pentru înființarea unei persoane juridice?",
+    "answers": [
+      {
+        "text": "Doar existența unui sediu și a unui nume.",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizare proprie, patrimoniu propriu și un scop licit și moral.",
+        "isCorrect": true
+      },
+      {
+        "text": "Înregistrarea la primărie și un număr minim de 10 angajați.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "question": "Bunurile fungibile sunt acelea care:",
+    "answers": [
+      { "text": "Se consumă la prima întrebuințare.", "isCorrect": false },
+      {
+        "text": "Pot fi înlocuite unele cu altele în cadrul unui raport juridic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nu pot fi deplasate dintr-un loc în altul.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "question": "Persoana juridică de drept privat se poate înființa prin:",
+    "answers": [
+      { "text": "Act normativ (lege).", "isCorrect": false },
+      {
+        "text": "Înregistrare la Registrul Comerțului sau la judecătorie (asociații/fundații).",
+        "isCorrect": true
+      },
+      { "text": "Simpla înțelegere verbală a asociaților.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 263,
+    "question": "Ce reprezintă sarcina în contextul drepturilor afectate de modalități?",
+    "answers": [
+      {
+        "text": "Un eveniment sigur care va avea loc în viitor.",
+        "isCorrect": false
+      },
+      {
+        "text": "O obligație impusă titularului dreptului.",
+        "isCorrect": true
+      },
+      {
+        "text": "O perioadă de timp acordată pentru plata unei datorii.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "question": "Minorul de 16 ani poate avea capacitate de exercițiu deplină înainte de 18 ani dacă:",
+    "answers": [
+      { "text": "Obține acordul părinților în scris.", "isCorrect": false },
+      {
+        "text": "Se căsătorește sau îi este recunoscută capacitatea anticipată de către instanța de tutelă.",
+        "isCorrect": true
+      },
+      {
+        "text": "Lucrează cu contract de muncă mai mult de 6 luni.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "question": "Analizați corelația dintre fructe și producte. Care afirmație este corectă?",
+    "answers": [
+      {
+        "text": "Fructele și productele sunt identice din punct de vedere juridic.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fructele se obțin fără diminuarea substanței bunului, pe când productele diminuează substanța acestuia.",
+        "isCorrect": true
+      },
+      {
+        "text": "Productele sunt întotdeauna industriale, iar fructele sunt doar naturale.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "question": "Drepturile accesorii se caracterizează prin faptul că:",
+    "answers": [
+      {
+        "text": "Au o existență de sine stătătoare față de orice alt drept.",
+        "isCorrect": false
+      },
+      {
+        "text": "Urmează regimul juridic al dreptului principal de care depind.",
+        "isCorrect": true
+      },
+      {
+        "text": "Sunt întotdeauna drepturi nepatrimoniale.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "question": "În ce moment dobândește o persoană juridică de drept public capacitatea de exercițiu?",
+    "answers": [
+      {
+        "text": "La data înregistrării la Registrul Comerțului.",
+        "isCorrect": false
+      },
+      {
+        "text": "De la data stabilită în actul de înființare.",
+        "isCorrect": true
+      },
+      { "text": "La data la care are minim un angajat.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 268,
+    "question": "Care este diferența dintre termen și condiție?",
+    "answers": [
+      {
+        "text": "Termenul este un eveniment nesigur, condiția este un eveniment sigur.",
+        "isCorrect": false
+      },
+      {
+        "text": "Termenul afectează doar exercițiul dreptului, condiția poate afecta însăși existența dreptului.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nu există nicio diferență, ambii termeni sunt sinonimi.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "question": "Decăderile, ca limitări ale accesului la calitatea de profesionist, au în vedere:",
+    "answers": [
+      { "text": "Vârsta persoanei fizice.", "isCorrect": false },
+      {
+        "text": "Reputația persoanei, afectată de fapte care o fac nedemnă.",
+        "isCorrect": true
+      },
+      { "text": "Lipsa studiilor superioare.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 270,
+    "question": "Un raport juridic între o persoană și un animal este:",
+    "answers": [
+      {
+        "text": "Posibil, dacă animalul are valoare mare.",
+        "isCorrect": false
+      },
+      {
+        "text": "De neconceput, raportul juridic desfășurându-se doar între persoane (fizice sau juridice).",
+        "isCorrect": true
+      },
+      {
+        "text": "Recunoscut de Codul Civil ca fiind un raport de posesie directă.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "question": "Conform Art. 3 din Codul Civil, profesionistul este definit ca fiind:",
+    "answers": [
+      {
+        "text": "Persoana care exercită o meserie sau o profesie liberală.",
+        "isCorrect": false
+      },
+      {
+        "text": "Persoana care exploatează o întreprindere.",
+        "isCorrect": true
+      },
+      {
+        "text": "Doar comerciantul înregistrat la Registrul Comerțului.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "question": "Care este scopul principal al unei întreprinderi de afaceri?",
+    "answers": [
+      { "text": "Obținerea de profit.", "isCorrect": true },
+      {
+        "text": "Exclusiv prestarea de servicii caritabile.",
+        "isCorrect": false
+      },
+      { "text": "Nu are un scop prestabilit.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 273,
+    "question": "Poate o întreprindere să funcționeze fără a avea personalitate juridică?",
+    "answers": [
+      {
+        "text": "Nu, este obligatoriu să aibă personalitate juridică.",
+        "isCorrect": false
+      },
+      {
+        "text": "Da, întreprinderea poate avea un patrimoniu propriu fără a fi o persoană juridică.",
+        "isCorrect": true
+      },
+      { "text": "Doar dacă este o societate națională.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 274,
+    "question": "Ce reprezintă „riscul” în contextul întreprinderii?",
+    "answers": [
+      {
+        "text": "O opțiune facultativă a profesionistului.",
+        "isCorrect": false
+      },
+      {
+        "text": "Asumarea consecințelor patrimoniale derivate din activitatea întreprinderii.",
+        "isCorrect": true
+      },
+      {
+        "text": "O răspundere doar a angajaților, nu a întreprinzătorului.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "question": "Activitatea economică a unei întreprinderi trebuie să fie:",
+    "answers": [
+      { "text": "Ocazională și izolată.", "isCorrect": false },
+      { "text": "Organizată, permanentă și sistematică.", "isCorrect": true },
+      { "text": "Exercitată doar de persoane fizice.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 276,
+    "question": "Care sunt cele două tipuri mari de întreprinderi rezultate din clasificarea după scop?",
+    "answers": [
+      {
+        "text": "Întreprinderi de afaceri (economice) și întreprinderi nonprofit (civile).",
+        "isCorrect": true
+      },
+      {
+        "text": "Întreprinderi de stat și întreprinderi private.",
+        "isCorrect": false
+      },
+      {
+        "text": "Întreprinderi industriale și întreprinderi agricole.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "question": "Factorii umani implicați în întreprindere includ:",
+    "answers": [
+      { "text": "Doar întreprinzătorul.", "isCorrect": false },
+      {
+        "text": "Întreprinzătorul, personalul (salariați, administratori) și partenerii (furnizori, cumpărători).",
+        "isCorrect": true
+      },
+      { "text": "Doar managerii și acționarii.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 278,
+    "question": "Care este rolul „sediului profesional” conform O.U.G. 44/2008?",
+    "answers": [
+      {
+        "text": "Este un atribut de identificare a persoanei fizice/juridice și locul de exploatare a întreprinderii.",
+        "isCorrect": true
+      },
+      {
+        "text": "Este doar o formalitate administrativă fără importanță juridică.",
+        "isCorrect": false
+      },
+      {
+        "text": "Este locul unde se păstrează doar arhiva societății.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "question": "Termenul de „comerciant” în contextul legislativ actual:",
+    "answers": [
+      {
+        "text": "Este sinonim perfect cu „profesionistul”.",
+        "isCorrect": false
+      },
+      {
+        "text": "Este inclus în categoria mai largă a profesioniștilor, dar nu toți profesioniștii sunt comercianți.",
+        "isCorrect": true
+      },
+      {
+        "text": "Nu mai este utilizat deloc în legislația din România.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Ce înseamnă că o activitate este „sistematică”?",
+    "answers": [
+      {
+        "text": "Că se realizează cu titlu de profesie, nu ca act izolat.",
+        "isCorrect": true
+      },
+      {
+        "text": "Că se realizează doar în baza unui contract de muncă.",
+        "isCorrect": false
+      },
+      { "text": "Că se realizează doar în weekend.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 281,
+    "question": "Care este sursa fondurilor financiare ale unei întreprinderi?",
+    "answers": [
+      { "text": "Doar împrumuturile bancare.", "isCorrect": false },
+      { "text": "Doar aportul asociaților.", "isCorrect": false },
+      {
+        "text": "Aporturi de capital (interne) sau resurse atrase de pe piața financiară (bănci).",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "question": "Societățile cooperative sunt:",
+    "answers": [
+      {
+        "text": "Întotdeauna societăți comerciale clasice conform Legii 31/1990.",
+        "isCorrect": false
+      },
+      {
+        "text": "Structuri autonome constituite în scopul promovării intereselor economice, sociale și culturale ale membrilor.",
+        "isCorrect": true
+      },
+      { "text": "Organizații de stat obligatorii.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 283,
+    "question": "Care este diferența dintre administrator și reprezentant în structura unei întreprinderi?",
+    "answers": [
+      {
+        "text": "Administratorul are atribuții de gestionare, reprezentantul are doar atribuții de reprezentare.",
+        "isCorrect": true
+      },
+      { "text": "Nu există nicio diferență.", "isCorrect": false },
+      {
+        "text": "Administratorul este întotdeauna angajat cu contract de muncă, reprezentantul nu.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "question": "De ce se spune că definirea profesionistului în Codul Civil are o „conotație juridică specială”?",
+    "answers": [
+      {
+        "text": "Pentru că elimină noțiunea de comerciant.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pentru că termenul include categorii diverse (comerciant, întreprinzător, operator economic) bazându-se pe exploatarea unei întreprinderi.",
+        "isCorrect": true
+      },
+      {
+        "text": "Pentru că se aplică doar persoanelor fizice.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "question": "Analizați principiul „dreptului de stabilire” pentru cetățenii UE:",
+    "answers": [
+      {
+        "text": "Permite desfășurarea de activități economice pe teritoriul altui stat membru în condiții de egalitate cu cetățenii locali.",
+        "isCorrect": true
+      },
+      {
+        "text": "Obligă cetățenii UE să aibă sediul principal doar în țara de origine.",
+        "isCorrect": false
+      },
+      {
+        "text": "Interzice desfășurarea de activități comerciale în România.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "question": "De ce operațiunile singulare/ocazionale nu definesc un profesionist?",
+    "answers": [
+      {
+        "text": "Deoarece profesionistul trebuie să aibă un cadru organizat și activitate continuă (sistematică).",
+        "isCorrect": true
+      },
+      {
+        "text": "Deoarece legea interzice actele izolate de comerț.",
+        "isCorrect": false
+      },
+      { "text": "Deoarece nu se plătesc taxe pentru ele.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 287,
+    "question": "Care este distincția între „Regii autonome” și „Societăți naționale”?",
+    "answers": [
+      {
+        "text": "Nu există distincție, sunt același lucru.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambele sunt persoane juridice, dar regiile sunt reglementate prin legi speciale cu autonomie economică și gestiune proprie, iar societățile naționale sunt forme de societăți cu capital de stat.",
+        "isCorrect": true
+      },
+      {
+        "text": "Societățile naționale nu trebuie înregistrate, regiile da.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "question": "Ce se întâmplă dacă o societate cooperativă desfășoară activități cu caracter civil?",
+    "answers": [
+      {
+        "text": "Este automat radiată din Registrul Comerțului.",
+        "isCorrect": false
+      },
+      {
+        "text": "Își păstrează statutul de profesionist, deoarece termenul de „comerciant” este folosit în sens economic larg, nu doar pentru comerț tradițional.",
+        "isCorrect": true
+      },
+      {
+        "text": "Își pierde statutul de persoană juridică.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "question": "În contextul O.U.G. 44/2008, „autorizarea” unei activități economice:",
+    "answers": [
+      {
+        "text": "Este opțională, depinzând de dorința întreprinzătorului.",
+        "isCorrect": false
+      },
+      {
+        "text": "Este obligatorie înainte de începerea activității (obținerea avizelor/licențelor).",
+        "isCorrect": true
+      },
+      { "text": "Se face doar la încetarea activității.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 290,
+    "question": "De ce este importantă clasificarea întreprinderilor în „economice” și „non-profit”?",
+    "answers": [
+      {
+        "text": "Pentru că determină regimul juridic aplicabil și, în special, intenția de a obține profit ca element definitoriu al întreprinderii de afaceri.",
+        "isCorrect": true
+      },
+      {
+        "text": "Doar pentru rațiuni statistice ale Ministerului Finanțelor.",
+        "isCorrect": false
+      },
+      { "text": "Nu are nicio relevanță juridică.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 291,
+    "question": "După unificarea dreptului privat, denumirea „societăți comerciale” a fost înlocuită, în principiu, cu:",
+    "answers": [
+      { "text": "societăți civile", "isCorrect": false },
+      { "text": "societăți private", "isCorrect": false },
+      { "text": "societăți", "isCorrect": true },
+      { "text": "asociații economice", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 292,
+    "question": "Societatea poate fi analizată din două puncte de vedere:",
+    "answers": [
+      { "text": "public și privat", "isCorrect": false },
+      { "text": "contractual și instituțional", "isCorrect": true },
+      { "text": "economic și fiscal", "isCorrect": false },
+      { "text": "civil și penal", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 293,
+    "question": "Contractul de societate are caracter:",
+    "answers": [
+      { "text": "gratuit, aleatoriu și consensual", "isCorrect": false },
+      { "text": "oneros, comutativ și formal", "isCorrect": true },
+      { "text": "unilateral, gratuit și real", "isCorrect": false },
+      { "text": "intuitu pecuniae, aleatoriu și solemn", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 294,
+    "question": "Una dintre condițiile generale de validitate ale contractului de societate este:",
+    "answers": [
+      { "text": "existența cenzorilor", "isCorrect": false },
+      { "text": "subscripția publică", "isCorrect": false },
+      { "text": "consimțământul părților", "isCorrect": true },
+      { "text": "existența emblemei", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 295,
+    "question": "Societatea simplă:",
+    "answers": [
+      { "text": "are întotdeauna personalitate juridică", "isCorrect": false },
+      { "text": "nu are personalitate juridică", "isCorrect": true },
+      {
+        "text": "se constituie numai prin subscripție publică",
+        "isCorrect": false
+      },
+      { "text": "emite acțiuni", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 296,
+    "question": "Potrivit art. 1888 C.civ., prima formă societară enumerată este:",
+    "answers": [
+      { "text": "societatea pe acțiuni", "isCorrect": false },
+      { "text": "societatea cu răspundere limitată", "isCorrect": false },
+      { "text": "societatea simplă", "isCorrect": true },
+      { "text": "societatea în nume colectiv", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 297,
+    "question": "În funcție de natura asocierii, societățile se clasifică în:",
+    "answers": [
+      { "text": "civile și comerciale", "isCorrect": false },
+      { "text": "de persoane și de capitaluri", "isCorrect": true },
+      { "text": "principale și accesorii", "isCorrect": false },
+      { "text": "publice și private", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 298,
+    "question": "Prototipul societăților de persoane este:",
+    "answers": [
+      { "text": "societatea pe acțiuni", "isCorrect": false },
+      { "text": "societatea în comandită pe acțiuni", "isCorrect": false },
+      { "text": "societatea în nume colectiv", "isCorrect": true },
+      { "text": "societatea cu răspundere limitată", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 299,
+    "question": "Prototipul societăților de capitaluri este:",
+    "answers": [
+      { "text": "societatea simplă", "isCorrect": false },
+      { "text": "societatea în nume colectiv", "isCorrect": false },
+      { "text": "societatea în comandită simplă", "isCorrect": false },
+      { "text": "societatea pe acțiuni", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 300,
+    "question": "În societățile de persoane predomină elementul:",
+    "answers": [
+      { "text": "intuitu pecuniae", "isCorrect": false },
+      { "text": "intuitu personae", "isCorrect": true },
+      { "text": "aleatoriu", "isCorrect": false },
+      { "text": "publicitar", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 301,
+    "question": "Răspunderea acționarilor la societatea pe acțiuni este:",
+    "answers": [
+      { "text": "nelimitată și solidară", "isCorrect": false },
+      { "text": "subsidiară și solidară", "isCorrect": false },
+      { "text": "limitată la aportul social", "isCorrect": true },
+      { "text": "inexistentă", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 302,
+    "question": "Capitalul social al societăților de persoane se divide în:",
+    "answers": [
+      { "text": "acțiuni", "isCorrect": false },
+      { "text": "obligațiuni", "isCorrect": false },
+      { "text": "părți de interes", "isCorrect": true },
+      { "text": "titluri de valoare", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 303,
+    "question": "În societatea în comandită simplă, comanditarii răspund:",
+    "answers": [
+      { "text": "nelimitat și solidar", "isCorrect": false },
+      { "text": "numai în limita aportului", "isCorrect": true },
+      { "text": "subsidiar față de comanditați", "isCorrect": false },
+      {
+        "text": "la fel ca într-o societate în nume colectiv",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "question": "Capitalul minim cerut pentru constituirea valabilă a societății pe acțiuni, potrivit cursului, este:",
+    "answers": [
+      { "text": "200 lei", "isCorrect": false },
+      { "text": "1.000 lei", "isCorrect": false },
+      { "text": "90.000 lei", "isCorrect": true },
+      { "text": "25.000 lei", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 305,
+    "question": "În firma societății pe acțiuni:",
+    "answers": [
+      {
+        "text": "trebuie să apară numele tuturor acționarilor",
+        "isCorrect": false
+      },
+      { "text": "apare numele administratorului unic", "isCorrect": false },
+      { "text": "nu se folosește numele acționarilor", "isCorrect": true },
+      {
+        "text": "apare obligatoriu numele fondatorului principal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "question": "Obiectul contractului de societate constă în:",
+    "answers": [
+      {
+        "text": "activitatea principală declarată la registrul comerțului",
+        "isCorrect": false
+      },
+      { "text": "prestațiile la care s-au obligat părțile", "isCorrect": true },
+      { "text": "profitul anual al societății", "isCorrect": false },
+      { "text": "denumirea și sediul societății", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 307,
+    "question": "Obiectul societății constă în:",
+    "answers": [
+      { "text": "prestațiile asumate de asociați", "isCorrect": false },
+      { "text": "forma juridică aleasă", "isCorrect": false },
+      {
+        "text": "activitățile pe care urmează să le realizeze societatea",
+        "isCorrect": true
+      },
+      { "text": "cauza contractului", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 308,
+    "question": "Care dintre următoarele este viciu de consimțământ?",
+    "answers": [
+      { "text": "simularea", "isCorrect": false },
+      { "text": "leziunea", "isCorrect": false },
+      { "text": "dolul", "isCorrect": true },
+      { "text": "rezoluțiunea", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 309,
+    "question": "În cazul societăților în nume colectiv, eroarea asupra calităților esențiale ale celuilalt asociat poate atrage anularea contractului deoarece acesta este un contract:",
+    "answers": [
+      { "text": "aleatoriu", "isCorrect": false },
+      { "text": "intuitu personae", "isCorrect": true },
+      { "text": "translativ de proprietate", "isCorrect": false },
+      { "text": "cu executare instantanee", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 310,
+    "question": "Cauza contractului de societate constă, potrivit cursului, în:",
+    "answers": [
+      { "text": "dobândirea personalității juridice", "isCorrect": false },
+      {
+        "text": "crearea unei comunități de bunuri afectate activității societății în scopul obținerii și împărțirii profitului",
+        "isCorrect": true
+      },
+      { "text": "emiterea de acțiuni și obligațiuni", "isCorrect": false },
+      {
+        "text": "constituirea patrimoniului de afectațiune al administratorilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "question": "Reglementările subsidiare aplicabile societăților se găsesc în:",
+    "answers": [
+      { "text": "Codul penal", "isCorrect": false },
+      { "text": "Codul de procedură fiscală", "isCorrect": false },
+      { "text": "Codul civil", "isCorrect": true },
+      { "text": "Constituție", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 312,
+    "question": "În clasificarea după întinderea răspunderii, categoria intermediară este reprezentată de:",
+    "answers": [
+      {
+        "text": "societatea simplă și societatea în participație",
+        "isCorrect": false
+      },
+      {
+        "text": "societatea în comandită simplă și societatea în comandită pe acțiuni",
+        "isCorrect": true
+      },
+      {
+        "text": "societatea în nume colectiv și societatea pe acțiuni",
+        "isCorrect": false
+      },
+      {
+        "text": "societatea pe acțiuni și societatea cu răspundere limitată",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "question": "Dobândirea personalității juridice de către societatea simplă, prin modificarea actului de societate:",
+    "answers": [
+      { "text": "atrage obligatoriu dizolvarea ei", "isCorrect": false },
+      { "text": "se face numai prin fuziune", "isCorrect": false },
+      {
+        "text": "se face fără dizolvarea societății simple",
+        "isCorrect": true
+      },
+      { "text": "este interzisă", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 314,
+    "question": "În societatea simplă, capitalul social subscris se divide în:",
+    "answers": [
+      { "text": "acțiuni nominative", "isCorrect": false },
+      { "text": "obligațiuni convertibile", "isCorrect": false },
+      { "text": "părți egale numite părți de interes", "isCorrect": true },
+      { "text": "fracțiuni de capital negociabile", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 315,
+    "question": "În societățile de persoane, numirea cenzorilor este:",
+    "answers": [
+      { "text": "obligatorie în toate cazurile", "isCorrect": false },
+      { "text": "facultativă", "isCorrect": true },
+      { "text": "interzisă", "isCorrect": false },
+      { "text": "obligatorie doar la dizolvare", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 316,
+    "question": "În lipsă de stipulație contrară, în societățile de persoane:",
+    "answers": [
+      {
+        "text": "numai un administrator terț poate administra",
+        "isCorrect": false
+      },
+      { "text": "numai fondatorii pot administra", "isCorrect": false },
+      {
+        "text": "toți asociații au dreptul să administreze",
+        "isCorrect": true
+      },
+      { "text": "administrarea revine cenzorilor", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 317,
+    "question": "În dreptul român, asociatul unei societăți în nume colectiv:",
+    "answers": [
+      { "text": "trebuie să fie comerciant", "isCorrect": false },
+      { "text": "devine automat comerciant", "isCorrect": false },
+      { "text": "poate fi comerciant sau necomerciant", "isCorrect": true },
+      { "text": "trebuie să fie persoană juridică", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 318,
+    "question": "Pentru existența valabilă a societății în comandită simplă este necesar să existe cel puțin:",
+    "answers": [
+      { "text": "doi comanditari", "isCorrect": false },
+      { "text": "doi comanditați", "isCorrect": false },
+      { "text": "un comanditar și un comanditat", "isCorrect": true },
+      { "text": "trei asociați, indiferent de categorie", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 319,
+    "question": "Societățile de capitaluri se constituie:",
+    "answers": [
+      { "text": "numai în formă dualistă", "isCorrect": false },
+      { "text": "numai în formă unitară", "isCorrect": false },
+      { "text": "în formă unitară și dualistă", "isCorrect": true },
+      { "text": "numai prin contract autentic", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 320,
+    "question": "În societățile pe acțiuni, controlul activității se realizează obligatoriu, potrivit cursului:",
+    "answers": [
+      { "text": "doar de către asociați", "isCorrect": false },
+      {
+        "text": "de comisia de cenzori, iar în sistemul dualist prin audit",
+        "isCorrect": true
+      },
+      { "text": "numai de directorat", "isCorrect": false },
+      { "text": "exclusiv de instanță", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 321,
+    "question": "Care afirmație este corectă cu privire la răspunderea asociaților în societățile de persoane?",
+    "answers": [
+      {
+        "text": "este limitată la aport și exclusiv subsidiară",
+        "isCorrect": false
+      },
+      { "text": "este nelimitată, solidară și subsidiară", "isCorrect": true },
+      {
+        "text": "este numai solidară, dar niciodată subsidiară",
+        "isCorrect": false
+      },
+      {
+        "text": "este limitată dacă actul constitutiv nu prevede altfel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "question": "Creditorii societății se pot îndrepta împotriva asociaților unei societăți de persoane:",
+    "answers": [
+      { "text": "direct, fără a urmări societatea", "isCorrect": false },
+      { "text": "numai după dizolvarea societății", "isCorrect": false },
+      {
+        "text": "mai întâi împotriva societății, iar dacă aceasta nu plătește în termen de cel mult 15 zile de la punerea în întârziere, împotriva asociaților",
+        "isCorrect": true
+      },
+      { "text": "doar împotriva administratorilor", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 323,
+    "question": "În societățile de persoane, părțile de interes:",
+    "answers": [
+      {
+        "text": "sunt întotdeauna negociabile pe piața financiară",
+        "isCorrect": false
+      },
+      {
+        "text": "nu sunt negociabile și, în principiu, nu pot fi transmise",
+        "isCorrect": true
+      },
+      { "text": "se convertesc automat în acțiuni", "isCorrect": false },
+      { "text": "pot fi emise prin subscripție publică", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 324,
+    "question": "Majoritatea asociaților, în societățile de persoane, nu poate decide singură, în lipsa unei stipulații contrare:",
+    "answers": [
+      { "text": "plata datoriilor curente", "isCorrect": false },
+      {
+        "text": "schimbarea tipului de societate, a contractului sau a obiectului activității",
+        "isCorrect": true
+      },
+      { "text": "desemnarea sediului secundar", "isCorrect": false },
+      { "text": "ținerea contabilității", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 325,
+    "question": "Actul constitutiv al societăților de persoane este format, potrivit cursului, din:",
+    "answers": [
+      { "text": "statut și regulament intern", "isCorrect": false },
+      {
+        "text": "contract de societate și prospect de emisiune",
+        "isCorrect": false
+      },
+      { "text": "numai contractul de societate", "isCorrect": true },
+      { "text": "numai statut", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 326,
+    "question": "Fondatorii unei societăți de persoane nu pot fi, potrivit cursului:",
+    "answers": [
+      { "text": "persoanele juridice", "isCorrect": false },
+      {
+        "text": "persoanele care au rol determinant în constituire",
+        "isCorrect": false
+      },
+      {
+        "text": "persoanele incapabile sau condamnate pentru anumite infracțiuni precum gestiune frauduloasă, abuz de încredere, fals, înșelăciune, delapidare, luare/dare de mită",
+        "isCorrect": true
+      },
+      { "text": "semnatarii actului constitutiv", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 327,
+    "question": "Comanditarii devin automat comanditați în una dintre următoarele situații:",
+    "answers": [
+      { "text": "când varsă integral aportul", "isCorrect": false },
+      {
+        "text": "când participă la numirea administratorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "când fac acte de administrare externă fără împuternicire",
+        "isCorrect": true
+      },
+      {
+        "text": "când exercită acte de supraveghere internă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "question": "O altă situație în care un comanditar devine automat comanditat este atunci când:",
+    "answers": [
+      { "text": "cere bilanțul anual", "isCorrect": false },
+      {
+        "text": "numele său este trecut în firma societății",
+        "isCorrect": true
+      },
+      { "text": "participă la profit", "isCorrect": false },
+      { "text": "contribuie cu aport în numerar", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 329,
+    "question": "Dacă în firma societății în comandită apare, cu consimțământul său, numele unei persoane străine de societate, acea persoană:",
+    "answers": [
+      { "text": "nu răspunde în niciun fel", "isCorrect": false },
+      {
+        "text": "răspunde numai în limita aportului fictiv",
+        "isCorrect": false
+      },
+      { "text": "răspunde solidar și nelimitat", "isCorrect": true },
+      { "text": "devine automat cenzor", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 330,
+    "question": "În cazul societății pe acțiuni constituite prin subscripție simultană, dacă aportul este în numerar, la constituire trebuie vărsat minimum:",
+    "answers": [
+      { "text": "10% din capitalul subscris", "isCorrect": false },
+      { "text": "25% din capitalul subscris", "isCorrect": false },
+      { "text": "30% din capitalul subscris", "isCorrect": true },
+      { "text": "50% din capitalul subscris", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 331,
+    "question": "În cazul societății pe acțiuni constituite prin subscripție publică, subscriitorii trebuie să verse la constituire, pentru aporturile în bani:",
+    "answers": [
+      {
+        "text": "minimum 30% din valoarea acțiunilor subscrise",
+        "isCorrect": false
+      },
+      {
+        "text": "minimum 40% din valoarea acțiunilor subscrise",
+        "isCorrect": false
+      },
+      {
+        "text": "minimum 50% din valoarea acțiunilor subscrise",
+        "isCorrect": true
+      },
+      { "text": "întreaga valoare a acțiunilor subscrise", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 332,
+    "question": "În societatea pe acțiuni, aportul în industrie este:",
+    "answers": [
+      { "text": "permis numai la subscripția publică", "isCorrect": false },
+      { "text": "permis numai la subscripția simultană", "isCorrect": false },
+      { "text": "permis dacă este evaluat de experți", "isCorrect": false },
+      { "text": "strict interzis", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 333,
+    "question": "Care dintre următoarele afirmații despre societatea pe acțiuni este corectă?",
+    "answers": [
+      {
+        "text": "moartea unui acționar duce automat la dizolvare",
+        "isCorrect": false
+      },
+      {
+        "text": "incapacitatea unui acționar duce automat la dizolvare",
+        "isCorrect": false
+      },
+      {
+        "text": "falimentul unui acționar duce automat la dizolvare",
+        "isCorrect": false
+      },
+      {
+        "text": "moartea, incapacitatea sau falimentul acționarilor nu duc la dizolvare",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "question": "Scăderea numărului acționarilor sub minimul legal poate conduce la dizolvare, cu excepția situației în care completarea numărului minim se realizează în termen de:",
+    "answers": [
+      { "text": "3 luni", "isCorrect": false },
+      { "text": "6 luni", "isCorrect": true },
+      { "text": "9 luni", "isCorrect": false },
+      { "text": "12 luni", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 335,
+    "question": "Care variantă surprinde corect raportul dintre societatea simplă și societățile reglementate de Legea nr. 31/1990, potrivit cursului?",
+    "answers": [
+      {
+        "text": "societatea simplă este identică societății pe acțiuni",
+        "isCorrect": false
+      },
+      {
+        "text": "societatea simplă este dreptul comun și completează Legea nr. 31/1990 acolo unde aceasta nu reglementează anumite aspecte",
+        "isCorrect": true
+      },
+      {
+        "text": "societatea simplă înlocuiește toate formele societare",
+        "isCorrect": false
+      },
+      {
+        "text": "societatea simplă este o societate de capitaluri",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "question": "Procedura de constituire a societăților comerciale este reglementată în principal de:",
+    "answers": [
+      { "text": "Codul civil și Codul fiscal", "isCorrect": false },
+      { "text": "Legea nr. 31/1990 și Legea nr. 265/2022", "isCorrect": true },
+      { "text": "Codul penal și Codul muncii", "isCorrect": false },
+      { "text": "Legea contenciosului administrativ", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 337,
+    "question": "Una dintre primele etape ale constituirii societății este:",
+    "answers": [
+      { "text": "repartizarea dividendelor", "isCorrect": false },
+      { "text": "redactarea actului constitutiv", "isCorrect": true },
+      { "text": "dizolvarea societății", "isCorrect": false },
+      { "text": "emiterea obligațiunilor", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 338,
+    "question": "Autorizarea înființării societății se face de:",
+    "answers": [
+      { "text": "instanța judecătorească", "isCorrect": false },
+      { "text": "notarul public", "isCorrect": false },
+      {
+        "text": "registratorul de la oficiul registrului comerțului",
+        "isCorrect": true
+      },
+      { "text": "ANAF", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 339,
+    "question": "Actul constitutiv trebuie să cuprindă:",
+    "answers": [
+      { "text": "numai clauze facultative", "isCorrect": false },
+      { "text": "numai obiectul de activitate", "isCorrect": false },
+      { "text": "conținutul minim prevăzut de lege", "isCorrect": true },
+      { "text": "numai denumirea societății", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 340,
+    "question": "Clauza privind modalitatea de adoptare a hotărârilor în caz de paritate la capitalul social a fost introdusă prin:",
+    "answers": [
+      { "text": "Codul civil", "isCorrect": false },
+      { "text": "Legea nr. 265/2022", "isCorrect": true },
+      { "text": "Codul de procedură civilă", "isCorrect": false },
+      { "text": "Legea insolvenței", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 341,
+    "question": "Datele de identificare ale asociaților trebuie să includă:",
+    "answers": [
+      { "text": "numai numele și prenumele", "isCorrect": false },
+      { "text": "numai domiciliul", "isCorrect": false },
+      { "text": "elementele complete prevăzute de lege", "isCorrect": true },
+      { "text": "numai cetățenia", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 342,
+    "question": "Actul constitutiv trebuie să cuprindă obligatoriu:",
+    "answers": [
+      { "text": "denumirea societății și forma acesteia", "isCorrect": true },
+      { "text": "numai numărul de angajați", "isCorrect": false },
+      { "text": "numai cifra de afaceri estimată", "isCorrect": false },
+      {
+        "text": "numai durata mandatului administratorilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "question": "Sediul principal al societății este:",
+    "answers": [
+      { "text": "o mențiune facultativă", "isCorrect": false },
+      { "text": "o mențiune obligatorie", "isCorrect": true },
+      { "text": "necesar doar la SA", "isCorrect": false },
+      { "text": "necesar doar la SRL", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 344,
+    "question": "În cazul SNC și SCS, actul constitutiv este format:",
+    "answers": [
+      { "text": "numai din statut", "isCorrect": false },
+      { "text": "numai din contract de societate", "isCorrect": true },
+      { "text": "din contract și statut", "isCorrect": false },
+      { "text": "din hotărârea adunării generale", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 345,
+    "question": "În cazul SRL pluripersonale, actul constitutiv este format din:",
+    "answers": [
+      { "text": "numai statut", "isCorrect": false },
+      { "text": "numai contract", "isCorrect": false },
+      { "text": "contract de societate și statut", "isCorrect": true },
+      { "text": "regulament intern și statut", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 346,
+    "question": "În cazul SRL unipersonale, actul constitutiv este:",
+    "answers": [
+      { "text": "numai contractul de societate", "isCorrect": false },
+      { "text": "numai statutul", "isCorrect": true },
+      { "text": "contractul și statutul", "isCorrect": false },
+      {
+        "text": "numai actul de numire a administratorului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "question": "Forma autentică a actului constitutiv este obligatorie când:",
+    "answers": [
+      { "text": "există aport în numerar", "isCorrect": false },
+      { "text": "există aport în industrie", "isCorrect": false },
+      {
+        "text": "printre aporturile în natură se află un teren",
+        "isCorrect": true
+      },
+      { "text": "societatea are sub 3 asociați", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 348,
+    "question": "Forma autentică este obligatorie și când:",
+    "answers": [
+      {
+        "text": "societatea implică răspunderea nelimitată a asociaților sau a unora dintre ei",
+        "isCorrect": true
+      },
+      { "text": "capitalul este mic", "isCorrect": false },
+      { "text": "există numai aporturi în numerar", "isCorrect": false },
+      { "text": "societatea are sediu secundar", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 349,
+    "question": "Semnatarii actului constitutiv sunt considerați:",
+    "answers": [
+      { "text": "cenzori", "isCorrect": false },
+      { "text": "fondatori", "isCorrect": true },
+      { "text": "creditori sociali", "isCorrect": false },
+      { "text": "lichidatori", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 350,
+    "question": "Nu pot fi fondatori:",
+    "answers": [
+      { "text": "persoanele juridice", "isCorrect": false },
+      { "text": "cetățenii străini", "isCorrect": false },
+      {
+        "text": "persoanele incapabile sau cele cărora li s-a interzis acest drept prin hotărâre judecătorească definitivă",
+        "isCorrect": true
+      },
+      { "text": "persoanele cu domiciliul în străinătate", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 351,
+    "question": "Potrivit cursului, persoana juridică poate fi fondator:",
+    "answers": [
+      {
+        "text": "numai dacă are același obiect de activitate",
+        "isCorrect": false
+      },
+      {
+        "text": "chiar dacă obiectul ei de activitate nu se circumscrie celui al noii societăți",
+        "isCorrect": true
+      },
+      { "text": "numai dacă este societate comercială", "isCorrect": false },
+      { "text": "niciodată", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 352,
+    "question": "O persoană juridică non-profit:",
+    "answers": [
+      { "text": "nu poate fi fondator", "isCorrect": false },
+      {
+        "text": "poate fi fondator al unei societăți comerciale",
+        "isCorrect": true
+      },
+      { "text": "poate fi doar administrator", "isCorrect": false },
+      { "text": "poate fi numai cenzor", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 353,
+    "question": "Societatea pe acțiuni se poate constitui:",
+    "answers": [
+      { "text": "doar prin subscripție publică", "isCorrect": false },
+      { "text": "doar prin subscripție simultană", "isCorrect": false },
+      {
+        "text": "prin subscripție simultană sau prin subscripție publică",
+        "isCorrect": true
+      },
+      {
+        "text": "numai prin transformarea unei alte societăți",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "question": "Capitalul minim cerut de lege pentru SA, potrivit cursului, este:",
+    "answers": [
+      { "text": "50.000 lei", "isCorrect": false },
+      { "text": "90.000 lei", "isCorrect": true },
+      { "text": "500 lei", "isCorrect": false },
+      { "text": "5.000 lei", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 355,
+    "question": "Prospectul de emisiune se întocmește:",
+    "answers": [
+      { "text": "sub semnătură privată", "isCorrect": false },
+      { "text": "în formă autentică", "isCorrect": true },
+      { "text": "verbal", "isCorrect": false },
+      {
+        "text": "prin simplă declarație la registrul comerțului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "question": "Prospectul de emisiune este semnat de:",
+    "answers": [
+      { "text": "subscriitori", "isCorrect": false },
+      { "text": "administratori", "isCorrect": false },
+      { "text": "fondatori", "isCorrect": true },
+      { "text": "cenzori", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 357,
+    "question": "La constituirea prin subscripție publică, subscriitorul:",
+    "answers": [
+      { "text": "devine administrator", "isCorrect": false },
+      {
+        "text": "își manifestă voința de a deveni acționar",
+        "isCorrect": true
+      },
+      { "text": "dobândește automat calitatea de cenzor", "isCorrect": false },
+      {
+        "text": "nu participă la formarea capitalului social",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "question": "La constituirea prin subscripție publică, pentru aporturile în numerar trebuie vărsat:",
+    "answers": [
+      { "text": "30%", "isCorrect": false },
+      { "text": "40%", "isCorrect": false },
+      { "text": "50%", "isCorrect": true },
+      { "text": "100%", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 359,
+    "question": "În cazul aporturilor în natură la constituirea prin subscripție publică:",
+    "answers": [
+      { "text": "se predă 30%", "isCorrect": false },
+      { "text": "se predă 50%", "isCorrect": false },
+      { "text": "se predă integral", "isCorrect": true },
+      { "text": "se predă după 2 ani", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 360,
+    "question": "Aportul în numerar:",
+    "answers": [
+      {
+        "text": "este interzis la constituirea societăților",
+        "isCorrect": false
+      },
+      {
+        "text": "este obligatoriu la constituirea societăților, indiferent de forma lor",
+        "isCorrect": true
+      },
+      { "text": "este facultativ la SRL", "isCorrect": false },
+      { "text": "este permis doar la SA", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 361,
+    "question": "Aportul în natură:",
+    "answers": [
+      { "text": "este admis la toate formele de societate", "isCorrect": true },
+      {
+        "text": "este interzis la toate formele de societate",
+        "isCorrect": false
+      },
+      { "text": "este admis numai la SA", "isCorrect": false },
+      { "text": "este admis numai la SRL", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 362,
+    "question": "Aportul în creanțe este interzis:",
+    "answers": [
+      { "text": "în SNC", "isCorrect": false },
+      {
+        "text": "în societatea pe acțiuni constituită prin subscripție publică și în SRL",
+        "isCorrect": true
+      },
+      { "text": "în SCS", "isCorrect": false },
+      { "text": "în toate formele de societate", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 363,
+    "question": "Aportul în industrie:",
+    "answers": [
+      { "text": "face parte din capitalul social", "isCorrect": false },
+      { "text": "este interzis în orice formă", "isCorrect": false },
+      { "text": "nu intră în capitalul social subscris", "isCorrect": true },
+      { "text": "este echivalent cu aportul în creanțe", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 364,
+    "question": "Aportul în natură prin transmiterea proprietății face ca bunul să devină proprietatea societății:",
+    "answers": [
+      {
+        "text": "din momentul semnării actului constitutiv",
+        "isCorrect": false
+      },
+      {
+        "text": "din momentul înmatriculării în registrul comerțului",
+        "isCorrect": true
+      },
+      { "text": "din momentul evaluării de către experți", "isCorrect": false },
+      {
+        "text": "din momentul începerii activității societății",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 365,
+    "question": "Dacă bunul aportat în natură piere înainte de înmatriculare, riscul este suportat de:",
+    "answers": [
+      { "text": "societate", "isCorrect": false },
+      { "text": "administrator", "isCorrect": false },
+      { "text": "asociat", "isCorrect": true },
+      { "text": "creditorii sociali", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 366,
+    "question": "Aportul în creanțe se consideră eliberat:",
+    "answers": [
+      { "text": "la data semnării actului constitutiv", "isCorrect": false },
+      { "text": "la data cesiunii", "isCorrect": false },
+      {
+        "text": "după ce societatea obține plata sumei care formează obiectul creanței",
+        "isCorrect": true
+      },
+      { "text": "la data evaluării creanței", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 367,
+    "question": "Obligația de aport se naște:",
+    "answers": [
+      { "text": "la dizolvarea societății", "isCorrect": false },
+      { "text": "la încheierea contractului de societate", "isCorrect": true },
+      { "text": "la distribuirea profitului", "isCorrect": false },
+      { "text": "la începerea activității economice", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 368,
+    "question": "Asumarea obligației de aport poartă denumirea de:",
+    "answers": [
+      { "text": "vărsământ", "isCorrect": false },
+      { "text": "subscriere la capital", "isCorrect": true },
+      { "text": "lichidare", "isCorrect": false },
+      { "text": "compensare", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 369,
+    "question": "Executarea efectivă a obligației de aport poartă denumirea de:",
+    "answers": [
+      { "text": "subscriere", "isCorrect": false },
+      { "text": "vărsare a capitalului", "isCorrect": true },
+      { "text": "autorizare", "isCorrect": false },
+      { "text": "emisiune", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 370,
+    "question": "Capitalul social reprezintă:",
+    "answers": [
+      { "text": "profitul net al societății", "isCorrect": false },
+      {
+        "text": "expresia valorică a totalității aporturilor asociaților",
+        "isCorrect": true
+      },
+      { "text": "totalitatea datoriilor societății", "isCorrect": false },
+      { "text": "numai bunurile mobile aduse în societate", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 371,
+    "question": "În bilanțul societății, capitalul social apare:",
+    "answers": [
+      { "text": "la activ", "isCorrect": false },
+      { "text": "la pasiv", "isCorrect": true },
+      { "text": "la venituri", "isCorrect": false },
+      { "text": "la cheltuieli", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 372,
+    "question": "Din punct point juridic, capitalul social reprezintă:",
+    "answers": [
+      { "text": "o sancțiune", "isCorrect": false },
+      { "text": "o garanție pentru creditori", "isCorrect": true },
+      { "text": "un avantaj fiscal", "isCorrect": false },
+      { "text": "un fond de salarii", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 373,
+    "question": "Capitalul social este:",
+    "answers": [
+      { "text": "intangibil", "isCorrect": true },
+      { "text": "liber distribuibil ca dividende", "isCorrect": false },
+      { "text": "lipsit de relevanță juridică", "isCorrect": false },
+      { "text": "identic cu patrimoniul societății", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 374,
+    "question": "Capitalul subscris reprezintă:",
+    "answers": [
+      {
+        "text": "valoarea totală a aporturilor promise de asociați",
+        "isCorrect": true
+      },
+      { "text": "valoarea profitului repartizat", "isCorrect": false },
+      { "text": "totalul dividendelor", "isCorrect": false },
+      { "text": "totalul datoriilor exigibile", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 375,
+    "question": "Capitalul vărsat reprezintă:",
+    "answers": [
+      {
+        "text": "valoarea totală a aporturilor efectiv executate",
+        "isCorrect": true
+      },
+      {
+        "text": "valoarea totală a creditelor contractate",
+        "isCorrect": false
+      },
+      { "text": "valoarea totală a rezervelor", "isCorrect": false },
+      { "text": "valoarea minimă prevăzută de lege", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 376,
+    "question": "Capitalul social al SRL este divizat în:",
+    "answers": [
+      { "text": "acțiuni", "isCorrect": false },
+      { "text": "obligațiuni", "isCorrect": false },
+      { "text": "părți sociale", "isCorrect": true },
+      { "text": "părți de interes", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 377,
+    "question": "Capitalul social al SNC și SCS este divizat în:",
+    "answers": [
+      { "text": "părți de interes", "isCorrect": true },
+      { "text": "părți sociale", "isCorrect": false },
+      { "text": "acțiuni", "isCorrect": false },
+      { "text": "obligațiuni", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 378,
+    "question": "Capitalul social al SA și SCA este divizat în:",
+    "answers": [
+      { "text": "părți de interes", "isCorrect": false },
+      { "text": "părți sociale", "isCorrect": false },
+      { "text": "acțiuni", "isCorrect": true },
+      { "text": "cote egale obligatorii", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 379,
+    "question": "SRL este o formă:",
+    "answers": [
+      { "text": "exclusiv de persoane", "isCorrect": false },
+      { "text": "exclusiv de capitaluri", "isCorrect": false },
+      {
+        "text": "intermediară între societățile de persoane și cele de capitaluri",
+        "isCorrect": true
+      },
+      { "text": "fără personalitate juridică", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 380,
+    "question": "Numărul maxim de asociați într-un SRL este:",
+    "answers": [
+      { "text": "20", "isCorrect": false },
+      { "text": "30", "isCorrect": false },
+      { "text": "50", "isCorrect": false },
+      { "text": "nelimitat", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 381,
+    "question": "Potrivit cursului, capitalul minim al unui SRL nou-înființat este:",
+    "answers": [
+      { "text": "1 leu", "isCorrect": true },
+      { "text": "100 lei", "isCorrect": false },
+      { "text": "500 lei", "isCorrect": false },
+      { "text": "5000 lei", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 382,
+    "question": "Dacă SRL-ul existent depășește cifra de afaceri de 400.000 lei, capitalul minim devine:",
+    "answers": [
+      { "text": "500 lei", "isCorrect": true },
+      { "text": "1000 lei", "isCorrect": false },
+      { "text": "3000 lei", "isCorrect": false },
+      { "text": "5000 lei", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 383,
+    "question": "SRL-urile au, potrivit cursului, un termen de... pentru majorarea capitalului social la nivelul impus de lege.",
+    "answers": [
+      { "text": "6 luni", "isCorrect": false },
+      { "text": "1 an", "isCorrect": true },
+      { "text": "2 ani", "isCorrect": false },
+      { "text": "5 ani", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 384,
+    "question": "În lipsa conformării la cerințele privind capitalul social, se poate ajunge inclusiv la:",
+    "answers": [
+      { "text": "suspendarea calității de asociat", "isCorrect": false },
+      { "text": "dizolvarea societății", "isCorrect": true },
+      {
+        "text": "anularea tuturor contractelor societății",
+        "isCorrect": false
+      },
+      { "text": "transformarea automată în SA", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 385,
+    "question": "În SRL, hotărârile asociaților se iau, în lipsă de stipulație contrară:",
+    "answers": [
+      {
+        "text": "prin votul reprezentând majoritatea absolută a asociaților și a părților sociale",
+        "isCorrect": true
+      },
+      { "text": "numai cu unanimitate", "isCorrect": false },
+      { "text": "numai de către administrator", "isCorrect": false },
+      { "text": "exclusiv prin vot secret", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 386,
+    "question": "Modificarea actului constitutiv al SRL necesită, potrivit cursului:",
+    "answers": [
+      { "text": "majoritate simplă", "isCorrect": false },
+      { "text": "majoritate absolută", "isCorrect": false },
+      { "text": "votul tuturor asociaților", "isCorrect": true },
+      { "text": "aprobarea registratorului", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 387,
+    "question": "În SRL, când numărul asociaților depășește 15, este obligatorie:",
+    "answers": [
+      { "text": "numirea lichidatorului", "isCorrect": false },
+      { "text": "numirea de cenzori", "isCorrect": true },
+      { "text": "transformarea în SA", "isCorrect": false },
+      { "text": "emiterea de obligațiuni", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 388,
+    "question": "În SRL sunt admise ca aport la capital:",
+    "answers": [
+      { "text": "numerarul și aporturile în natură", "isCorrect": true },
+      { "text": "numerarul și creanțele", "isCorrect": false },
+      { "text": "numai creanțele", "isCorrect": false },
+      { "text": "numerarul și industria", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 389,
+    "question": "În SRL, aportul în creanțe este:",
+    "answers": [
+      { "text": "obligatoriu", "isCorrect": false },
+      { "text": "permis", "isCorrect": false },
+      { "text": "interzis", "isCorrect": true },
+      { "text": "preferat de lege", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 390,
+    "question": "În cazul SRL unipersonale, actul constitutiv este:",
+    "answers": [
+      { "text": "bilateral", "isCorrect": false },
+      { "text": "multilateral", "isCorrect": false },
+      { "text": "act juridic unilateral", "isCorrect": true },
+      { "text": "act administrativ", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 391,
+    "question": "În SRL-ul unipersonal, dacă aportul constă în bunuri mobile sau imobile, este necesară:",
+    "answers": [
+      { "text": "simpla evaluare de către asociat", "isCorrect": false },
+      { "text": "expertiza de specialitate", "isCorrect": true },
+      { "text": "aprobarea ANAF", "isCorrect": false },
+      { "text": "aprobarea creditorilor", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 392,
+    "question": "Asociatul unic:",
+    "answers": [
+      { "text": "nu poate fi administrator", "isCorrect": false },
+      {
+        "text": "poate exercita prerogativele adunării generale",
+        "isCorrect": true
+      },
+      {
+        "text": "trebuie să numească obligatoriu un consiliu de administrație",
+        "isCorrect": false
+      },
+      { "text": "nu poate participa la beneficii", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 393,
+    "question": "Potrivit cursului, asociatul unic poate fi salariat:",
+    "answers": [
+      { "text": "întotdeauna", "isCorrect": false },
+      { "text": "niciodată", "isCorrect": false },
+      {
+        "text": "cu excepția cazului când este și administrator unic sau membru al consiliului de administrație",
+        "isCorrect": true
+      },
+      { "text": "numai cu autorizarea instanței", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 394,
+    "question": "SRL nu poate emite:",
+    "answers": [
+      { "text": "părți sociale", "isCorrect": false },
+      { "text": "acțiuni sau obligațiuni", "isCorrect": true },
+      { "text": "hotărâri ale adunării generale", "isCorrect": false },
+      { "text": "contracte comerciale", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 395,
+    "question": "Scăderea capitalului social sub limita legală, potrivit cursului, poate atrage:",
+    "answers": [
+      { "text": "dizolvarea societății", "isCorrect": true },
+      { "text": "transformarea automată în SNC", "isCorrect": false },
+      { "text": "anularea actului constitutiv de drept", "isCorrect": false },
+      {
+        "text": "pierderea personalității juridice fără formalități",
+        "isCorrect": false
+      }
+    ]
+  }
+]

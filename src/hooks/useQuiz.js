@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useMemo, useState } from "react";
 import { DEFAULT_SUBJECT, SUBJECTS } from "../subjects.js";
+import { useStorage } from "./useStorage.js";
 
 export const CORRECT_STREAK_TO_CLEAR = 2;
 
@@ -61,6 +62,30 @@ const createSession = ({ subjectId, mode, count, timed, durationSeconds }) => {
   };
 };
 
+const updateQuestionStats = ({ subjectId, questionId, isCorrect }) => {
+  if (!subjectId || questionId === undefined || questionId === null) {
+    return;
+  }
+
+  const storage = useStorage(subjectId);
+  const stats = storage.getStats();
+  const previous = stats[questionId] ?? {
+    seen: 0,
+    correct: 0,
+    incorrect: 0,
+  };
+  const next = {
+    seen: previous.seen + 1,
+    correct: previous.correct + (isCorrect ? 1 : 0),
+    incorrect: previous.incorrect + (isCorrect ? 0 : 1),
+  };
+
+  storage.setStats({
+    ...stats,
+    [questionId]: next,
+  });
+};
+
 export const QuizProvider = ({ children }) => {
   const [subjectId, setSubjectId] = useState(DEFAULT_SUBJECT);
   const [session, setSession] = useState(null);
@@ -99,6 +124,22 @@ export const QuizProvider = ({ children }) => {
   };
 
   const answerQuestion = (answerIndex) => {
+    if (!session) {
+      return;
+    }
+
+    const currentQuestion = session.questions[session.currentIndex];
+    if (!currentQuestion || currentQuestion.selectedIndex !== null) {
+      return;
+    }
+
+    const isCorrect = answerIndex === currentQuestion.correctIndex;
+    updateQuestionStats({
+      subjectId: session.subjectId,
+      questionId: currentQuestion.id,
+      isCorrect,
+    });
+
     setSession((prev) => {
       if (!prev) {
         return prev;
@@ -109,7 +150,6 @@ export const QuizProvider = ({ children }) => {
           return question;
         }
 
-        const isCorrect = answerIndex === question.correctIndex;
         return {
           ...question,
           selectedIndex: answerIndex,

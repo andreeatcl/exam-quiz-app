@@ -41,6 +41,7 @@ export const useStorage = (subjectId) => {
   const wrongKey = subjectKey(subjectId, "wrong");
   const clearedKey = subjectKey(subjectId, "wrong_cleared");
   const streakKey = subjectKey(subjectId, "streak");
+  const statsKey = subjectKey(subjectId, "stats");
 
   return {
     getHistory: () => readJson(historyKey, []),
@@ -51,5 +52,7 @@ export const useStorage = (subjectId) => {
     setCleared: (value) => writeJson(clearedKey, value),
     getStreak: () => readJson(streakKey, {}),
     setStreak: (value) => writeJson(streakKey, value),
+    getStats: () => readJson(statsKey, {}),
+    setStats: (value) => writeJson(statsKey, value),
   };
 };

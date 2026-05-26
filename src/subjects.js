@@ -1,5 +1,6 @@
 import dreptCursQuestions from "./data/grile-drept-curs.json";
 import dreptSeminarQuestions from "./data/grile-drept-seminar.json";
+import sistemeCursQuestions from "./data/grile-curs-sisteme.json";
 
 export const SUBJECTS = {
   "drept-curs": {
@@ -13,6 +14,12 @@ export const SUBJECTS = {
     label: "Drept (seminar)",
     questions: dreptSeminarQuestions,
     color: "emerald",
+  },
+  "sisteme-curs": {
+    id: "sisteme-curs",
+    label: "Sisteme (curs)",
+    questions: sistemeCursQuestions,
+    color: "amber",
   },
 };
 

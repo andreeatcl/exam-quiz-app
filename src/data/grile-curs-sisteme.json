@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 396,
+    "question": "Conform legii conexiunii inverse enunțate de Norbert Wiener, sistemul cibernetic se bazează pe:",
+    "answers": [
+      {
+        "text": "Principiul cutiei negre",
+        "isCorrect": false
+      },
+      {
+        "text": "Autoreglare (Feedback)",
+        "isCorrect": true
+      },
+      {
+        "text": "Legea varietății necesare",
+        "isCorrect": false
+      },
+      {
+        "text": "Principiul entropiei negative constante",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "question": "Legea varietății necesare, formulată de Ross Ashby, se referă la:",
+    "answers": [
+      {
+        "text": "Faptul că varietatea comportamentului unui sistem trebuie să fie cel puțin egală cu varietatea perturbațiilor raportată la varietatea constrângerilor",
+        "isCorrect": true
+      },
+      {
+        "text": "Transformarea continuă a ordinii în haos, conform termodinamicii",
+        "isCorrect": false
+      },
+      {
+        "text": "Faptul că doar sistemele închise pot supraviețui",
+        "isCorrect": false
+      },
+      {
+        "text": "Complementaritatea sistemelor informaționale superioare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "question": "Principiul emergenței (sinergiei) introdus de Harmann Haken sugerează că:",
+    "answers": [
+      {
+        "text": "Sistemele închise nu sunt influențate de mediul extern",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropia negativă produce inevitabil colapsul",
+        "isCorrect": false
+      },
+      {
+        "text": "Efectul integral al sistemului diferă de suma funcționării izolate a subsistemelor componente datorită interdependențelor",
+        "isCorrect": true
+      },
+      {
+        "text": "Sinergia elimină nevoia de feed-back",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "question": "Diferența esențială dintre Dată și Informație este:",
+    "answers": [
+      {
+        "text": "Informația reprezintă un mesaj sau o formă de date prelucrate care aduce receptorului un plus de cunoaștere",
+        "isCorrect": true
+      },
+      {
+        "text": "Data implică automat cunoaștere utilă pe termen lung",
+        "isCorrect": false
+      },
+      {
+        "text": "Orice informație este o dată abstractă nerelevantă",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu există diferență teoretică, cele două concepte fiind perfect sinonime",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "question": "Într-un sistem de comunicații, elementele principale sunt:",
+    "answers": [
+      {
+        "text": "Emițător, Receptor, Limbaj/Alfabet, Semnal/Mesaj și Canalul de transmisie",
+        "isCorrect": true
+      },
+      {
+        "text": "Zgomotul tehnologic și Antropia",
+        "isCorrect": false
+      },
+      {
+        "text": "Funcțiile de decriptare strictă și de routare mecanică",
+        "isCorrect": false
+      },
+      {
+        "text": "Numele, Timpul și Valoarea obiectivului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "question": "Din punct de vedere al calității datelor, măsura în care datele sunt nepărtinitoare și imparțiale definește:",
+    "answers": [
+      {
+        "text": "Accesibilitatea",
+        "isCorrect": false
+      },
+      {
+        "text": "Punctualitatea",
+        "isCorrect": false
+      },
+      {
+        "text": "Completitudinea",
+        "isCorrect": false
+      },
+      {
+        "text": "Obiectivitatea",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "question": "Dimensiunea FORMĂ a calității informației cuprinde următoarele caracteristici, cu excepția:",
+    "answers": [
+      {
+        "text": "Claritate",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivel de detaliere",
+        "isCorrect": false
+      },
+      {
+        "text": "Frecvență",
+        "isCorrect": true
+      },
+      {
+        "text": "Mod de prezentare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "question": "Ordinea corectă a etapelor ciclului de viață al informației este:",
+    "answers": [
+      {
+        "text": "Prelucrare, Culegere, Utilizare, Transmitere, Stocare",
+        "isCorrect": false
+      },
+      {
+        "text": "Culegere, Transmitere, Prelucrare, Utilizare, Stocare",
+        "isCorrect": true
+      },
+      {
+        "text": "Culegere, Stocare, Transmitere, Utilizare, Prelucrare",
+        "isCorrect": false
+      },
+      {
+        "text": "Culegere, Transmitere, Utilizare, Stocare, Prelucrare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "question": "Entropia informațională, care măsoară gradul de incertitudine dintr-un sistem, a fost introdusă de:",
+    "answers": [
+      {
+        "text": "Ross Ashby",
+        "isCorrect": false
+      },
+      {
+        "text": "Norbert Wiener",
+        "isCorrect": false
+      },
+      {
+        "text": "Claude Shannon",
+        "isCorrect": true
+      },
+      {
+        "text": "Herbert Simon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "question": "În cadrul limbajului formalizat folosit pentru reprezentarea informației, componenta (F) din structura N-O-F-T-S-U semnifică:",
+    "answers": [
+      {
+        "text": "Funcția (rolul) pentru care s-a cules informația",
+        "isCorrect": true
+      },
+      {
+        "text": "Formatul de transmitere a datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Frecvența apariției documentului",
+        "isCorrect": false
+      },
+      {
+        "text": "Fenomenul economic descris",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "question": "În metodologia analizei informațional-decizionale, prima etapă este reprezentată de:",
+    "answers": [
+      {
+        "text": "Determinarea fluxurilor informaționale la nivel fizic",
+        "isCorrect": false
+      },
+      {
+        "text": "Studiul de oportunitate (preliminar)",
+        "isCorrect": true
+      },
+      {
+        "text": "Stabilirea cerinței interne de informații",
+        "isCorrect": false
+      },
+      {
+        "text": "Proiectarea bazei informaționale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "question": "Care dintre următorii este considerat un indicator util pentru evaluarea cantității de informație dintr-un mesaj economic?",
+    "answers": [
+      {
+        "text": "Punctualitatea decizională",
+        "isCorrect": false
+      },
+      {
+        "text": "Densitatea informațională (Dm)",
+        "isCorrect": true
+      },
+      {
+        "text": "Nivelul de accesibilitate criptografică",
+        "isCorrect": false
+      },
+      {
+        "text": "Coeficientul de transmitere a pachetelor de rețea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "question": "Privind exclusiv din perspectivă informațională, decizia economică este considerată a fi:",
+    "answers": [
+      {
+        "text": "Inputul de date nesortate ale sistemului informațional",
+        "isCorrect": false
+      },
+      {
+        "text": "Output-ul sistemului informațional, cu caracter imperativ",
+        "isCorrect": true
+      },
+      {
+        "text": "Doar apanajul calculatoarelor automatizate",
+        "isCorrect": false
+      },
+      {
+        "text": "O perturbație externă ignorată în sistemele închise",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "question": "Conform clasificării deciziilor economice după orizontul de timp, deciziile tactice se axează de regulă pe o perioadă de:",
+    "answers": [
+      {
+        "text": "3 - 5 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "Maxim câteva luni",
+        "isCorrect": false
+      },
+      {
+        "text": "0,5 - 2 ani",
+        "isCorrect": true
+      },
+      {
+        "text": "Peste 10 ani de zile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "question": "Conform structurii modelului decizional formulat de Herbert Simon, activitatea de planificare a unei noi afaceri (management strategic) reprezintă o decizie:",
+    "answers": [
+      {
+        "text": "Complet structurată",
+        "isCorrect": false
+      },
+      {
+        "text": "De rutină absolută",
+        "isCorrect": false
+      },
+      {
+        "text": "Nestructurată",
+        "isCorrect": true
+      },
+      {
+        "text": "Programabilă cu un algoritm fix",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "question": "Reprezentarea abstractă a circulației informațiilor în care angajații sunt noduri (vârfuri), iar relațiile dintre ei sunt arce poartă numele de:",
+    "answers": [
+      {
+        "text": "Graf informațional",
+        "isCorrect": true
+      },
+      {
+        "text": "Matrice de decizie",
+        "isCorrect": false
+      },
+      {
+        "text": "Flux olograf",
+        "isCorrect": false
+      },
+      {
+        "text": "Diagramă de control COBIT",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "question": "Workflow Management Coalition (WfMC) definește conceptul de 'Workflow' sau Flux electronic de lucru ca fiind:",
+    "answers": [
+      {
+        "text": "Stocarea hardware a backup-urilor firmei",
+        "isCorrect": false
+      },
+      {
+        "text": "Automatizarea totală sau parțială a unui proces de afacere",
+        "isCorrect": true
+      },
+      {
+        "text": "Procedura exclusiv manuală de înregistrare a fișierelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Instalarea pachetelor de aplicații anti-malware",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "question": "În ciclul de viață al unui document administrativ, perioada de lansare implică mai exact:",
+    "answers": [
+      {
+        "text": "Arhivarea finală și trimiterea la depozit",
+        "isCorrect": false
+      },
+      {
+        "text": "Executarea ordinului pe care îl poartă și partajarea",
+        "isCorrect": false
+      },
+      {
+        "text": "Înregistrarea, aprobarea și publicarea acestuia",
+        "isCorrect": true
+      },
+      {
+        "text": "Schimbarea autorului și distrugerea originalului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "question": "Care dintre următoarele aspecte NU reprezintă o componentă funcțională specifică a unui Sistem de Management al Documentelor Electronice (SMDE)?",
+    "answers": [
+      {
+        "text": "Captarea documentelor (scanare, OCR)",
+        "isCorrect": false
+      },
+      {
+        "text": "Gestionarea infrastructurii hardware (cablurile rețelei structurate)",
+        "isCorrect": true
+      },
+      {
+        "text": "Metadatele care ajută la căutare",
+        "isCorrect": false
+      },
+      {
+        "text": "Controlul versiunii documentelor (check-in / check-out)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "question": "Proprietatea unei semnături electronice de a fi 'nerepudiabilă' înseamnă că:",
+    "answers": [
+      {
+        "text": "Documentul pe care a fost aplicată nu mai poate fi niciodată vizualizat",
+        "isCorrect": false
+      },
+      {
+        "text": "Semnatarul nu va putea nega ulterior în fața unor instanțe autenticitatea participării la semnare",
+        "isCorrect": true
+      },
+      {
+        "text": "Aceasta nu poate fi mutată tehnic pe un alt document",
+        "isCorrect": false
+      },
+      {
+        "text": "Se execută obligatoriu folosind doar token-uri",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "question": "Care dintre următoarele NU este o cerință legală impusă semnăturii electronice extinse?",
+    "answers": [
+      {
+        "text": "Să fie legată în mod unic de semnatar",
+        "isCorrect": false
+      },
+      {
+        "text": "Să fie creată prin mijloace aflate la dispoziția oricărui utilizator de internet",
+        "isCorrect": true
+      },
+      {
+        "text": "Să asigure identificarea precisă a semnatarului",
+        "isCorrect": false
+      },
+      {
+        "text": "Să fie raportată la date astfel încât o alterare ulterioară a acestora să fie identificabilă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "question": "Din punct de vedere tehnic, crearea unei semnături electronice extinse folosește uzual mecanisme din:",
+    "answers": [
+      {
+        "text": "Scheme de criptare asimetrică (criptografie cu chei publice)",
+        "isCorrect": true
+      },
+      {
+        "text": "Substituții simple de tip Caesar Shift",
+        "isCorrect": false
+      },
+      {
+        "text": "Sisteme simetrice pe 56 de biți (precum DES classic)",
+        "isCorrect": false
+      },
+      {
+        "text": "Semnarea holografică scanată apoi în PDF",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "question": "Un dispozitiv E-Token pe port USB folosit la semnătura electronică joacă rolul de:",
+    "answers": [
+      {
+        "text": "Modem portabil",
+        "isCorrect": false
+      },
+      {
+        "text": "Dispozitiv securizat hardware de creare a semnăturii (conținând cheia privată)",
+        "isCorrect": true
+      },
+      {
+        "text": "Memorie suplimentară RAM pentru viteza de rulare",
+        "isCorrect": false
+      },
+      {
+        "text": "Scaner biometric de amprentă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "question": "În Arhitectura de Întreprindere (Enterprise Architecture - EA), arhitectura de afaceri descrie cu precădere:",
+    "answers": [
+      {
+        "text": "Tehnologiile hardware de rețea, servere și rutere",
+        "isCorrect": false
+      },
+      {
+        "text": "Cele mai importante procese de afaceri, structuri și roluri",
+        "isCorrect": true
+      },
+      {
+        "text": "Bazele de date și platformele de operare strict IT",
+        "isCorrect": false
+      },
+      {
+        "text": "Bugetele specifice de salarizare lunară",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "question": "Printre cadrele de referință (framework-urile) utilizate recunoscut la nivel global în proiectarea Arhitecturii de Întreprindere (EA) se numără:",
+    "answers": [
+      {
+        "text": "Modelele criptografice SHA-1 și SHA-256",
+        "isCorrect": false
+      },
+      {
+        "text": "Zachman Framework și TOGAF",
+        "isCorrect": true
+      },
+      {
+        "text": "Modelul decizional Simon",
+        "isCorrect": false
+      },
+      {
+        "text": "WfMC și GDPR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "question": "Conform asociației ISACA, conceptul de Guvernanță TI reprezintă, în esență:",
+    "answers": [
+      {
+        "text": "Instalarea corectă a noilor sisteme de servere",
+        "isCorrect": false
+      },
+      {
+        "text": "Apanajul dezvoltatorilor de software și testare tehnică",
+        "isCorrect": false
+      },
+      {
+        "text": "Responsabilitatea conducerii executive de a susține, prin structurile TI, obiectivele strategice de afaceri",
+        "isCorrect": true
+      },
+      {
+        "text": "Auditul financiar extern asupra veniturilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "question": "Printre criteriile de control al informațiilor prevăzute de framework-ul de guvernanță COBIT se numără următoarele, cu EXCEPȚIA:",
+    "answers": [
+      {
+        "text": "Eficacitatea și Eficiența",
+        "isCorrect": false
+      },
+      {
+        "text": "Portabilitatea hardware automată",
+        "isCorrect": true
+      },
+      {
+        "text": "Integritatea și Fiabilitatea",
+        "isCorrect": false
+      },
+      {
+        "text": "Disponibilitatea și Confidențialitatea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "question": "Care persoană a avut o contribuție matematică fundamentală, regăsită în istoria criptografiei, în spargerea mașinii Enigma?",
+    "answers": [
+      {
+        "text": "Julius Caesar",
+        "isCorrect": false
+      },
+      {
+        "text": "Alberti Vigenere",
+        "isCorrect": false
+      },
+      {
+        "text": "Marian Rejewski (și, de asemenea, Alan Turing)",
+        "isCorrect": true
+      },
+      {
+        "text": "Whitfield Diffie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "question": "În domeniul criptografiei, sintagma 'One-time pad' vizează:",
+    "answers": [
+      {
+        "text": "O metodă de criptare polialfabetică circulară ce se repetă la infinit",
+        "isCorrect": false
+      },
+      {
+        "text": "Regula de aur a securității prin folosirea unei chei strict o singură dată",
+        "isCorrect": true
+      },
+      {
+        "text": "Un pad hardware pe care se semnează electronic în bănci",
+        "isCorrect": false
+      },
+      {
+        "text": "Blocarea permanentă a sistemului de parole la a treia greșeală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "question": "Diferența de bază între sistemele de criptare simetrice și asimetrice constă în:",
+    "answers": [
+      {
+        "text": "Sistemele simetrice sunt mult mai lente, deși folosesc 3 chei simultan",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemele simetrice folosesc aceeași cheie pentru criptare-decriptare, iar cele asimetrice utilizează o pereche de chei (publică-privată)",
+        "isCorrect": true
+      },
+      {
+        "text": "Sistemele simetrice ignoră procesul de decriptare (sunt funcții hash)",
+        "isCorrect": false
+      },
+      {
+        "text": "Doar sistemele asimetrice pot fi folosite cu succes pe internet, deoarece simetricele sunt interzise legal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "question": "Algoritmii precum DES, Triple-DES sau AES (Advanced Encryption Standard) sunt reprezentați ai clasei de:",
+    "answers": [
+      {
+        "text": "Metode de identificare non-repudiabile",
+        "isCorrect": false
+      },
+      {
+        "text": "Sisteme de generare smart-contract",
+        "isCorrect": false
+      },
+      {
+        "text": "Criptosisteme Simetrice",
+        "isCorrect": true
+      },
+      {
+        "text": "Criptosisteme Asimetrice cu chei publice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "question": "O categorie comună de programe malware, care par a fi aplicații legitime însă ascund o portiță (backdoor) ce permite accesul neautorizat prin rețea, poartă numele de:",
+    "answers": [
+      {
+        "text": "Cai Troieni (Troieni)",
+        "isCorrect": true
+      },
+      {
+        "text": "Viermi (Worms)",
+        "isCorrect": false
+      },
+      {
+        "text": "Ransomware",
+        "isCorrect": false
+      },
+      {
+        "text": "Algoritmi euristici de scanare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "question": "În cazul unui atac informatic de tip 'E-mail phishing', atacatorul vizează în mod specific:",
+    "answers": [
+      {
+        "text": "Dezactivarea fizică a plăcii de rețea",
+        "isCorrect": false
+      },
+      {
+        "text": "Sufocarea volumului de memorie a căsuței poștale prin fișiere imense repetate",
+        "isCorrect": false
+      },
+      {
+        "text": "Trimiterea de mesaje de la surse 'aparent' de încredere pentru a păcăli victima să dea date bancare sau detalii personale",
+        "isCorrect": true
+      },
+      {
+        "text": "Inserarea unui banner publicitar benign",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "question": "Care este principala caracteristică a atacurilor de tip DoS (Denial-of-Service) sau DDoS?",
+    "answers": [
+      {
+        "text": "Criptarea parolelor utilizatorilor și blocarea contului local",
+        "isCorrect": false
+      },
+      {
+        "text": "Copierea silențioasă a registrului de comenzi comerciale",
+        "isCorrect": false
+      },
+      {
+        "text": "Modificarea numelui de domeniu (DNS)",
+        "isCorrect": false
+      },
+      {
+        "text": "Perturbarea traficului unui server sau o supra-aglomerare intenționată a resurselor pentru a cauza o întrerupere a serviciului",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "question": "Pentru securizarea conturilor și PC-urilor, un nivel critic de precauție îl reprezintă activarea 2FA, care prescurtează conceptul de:",
+    "answers": [
+      {
+        "text": "Autentificare cu doi factori (dispozitiv sau mecanism adițional pentru confirmare)",
+        "isCorrect": true
+      },
+      {
+        "text": "Arhivare pe două foldere ascunse",
+        "isCorrect": false
+      },
+      {
+        "text": "Autentificare prin Flash automat",
+        "isCorrect": false
+      },
+      {
+        "text": "Filtru anti-spam cu două baze de date (2 Factor Anti-spam)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "question": "Dacă lucrați la distanță (teleworking) și compania dorește o comunicare cifrată a informațiilor între laptop și rețeaua organizației, metoda optimă cerută de standarde este conectarea prin:",
+    "answers": [
+      {
+        "text": "Directivă NIS",
+        "isCorrect": false
+      },
+      {
+        "text": "Virtual Private Network (VPN)",
+        "isCorrect": true
+      },
+      {
+        "text": "Drive-by downloads",
+        "isCorrect": false
+      },
+      {
+        "text": "Cloud-uri publice de tip free-hosting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "question": "Directiva europeană NIS și legislația corespondentă transpunsă în România vizează garantarea securității cibernetice cu prioritate absolută pentru:",
+    "answers": [
+      {
+        "text": "Întreprinderile mici și mijlocii ce vând produse de panificație",
+        "isCorrect": false
+      },
+      {
+        "text": "Persoanele fizice fără conexiune fixă de internet",
+        "isCorrect": false
+      },
+      {
+        "text": "Operatorii de Servicii Esențiale (OSE) aparținând sectoarelor: energie, sănătate, bancar, transport, apă etc.",
+        "isCorrect": true
+      },
+      {
+        "text": "Serviciile de streaming video non-critice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "question": "Atunci când o organizație din România se confruntă cu un incident major de securitate cibernetică, entitatea pe care se axează raportarea oficială tip urgență se numește CERT-RO, putând fi apelată la numărul:",
+    "answers": [
+      {
+        "text": "1122",
+        "isCorrect": false
+      },
+      {
+        "text": "1911",
+        "isCorrect": true
+      },
+      {
+        "text": "1191",
+        "isCorrect": false
+      },
+      {
+        "text": "9000",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "question": "Trimiterea de cod distructiv din partea unui atacator printr-un formular aparent inofensiv al unei aplicații web, forțând sistemul să modifice, șteargă sau sustragă informații, poartă numele de atac prin:",
+    "answers": [
+      {
+        "text": "Cross-Site Scripting (XSS)",
+        "isCorrect": false
+      },
+      {
+        "text": "SQL Injection (SQLi)",
+        "isCorrect": true
+      },
+      {
+        "text": "Drive-by Downloads",
+        "isCorrect": false
+      },
+      {
+        "text": "E-skimming",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "question": "O ramură agresivă din spectrul malware criptează fișierele și apoi blochează accesul organizației, impunând transferul unor fonduri bănești (crypto) ca 'taxă de decriptare'. Această practică caracterizează programul de tip:",
+    "answers": [
+      {
+        "text": "Ransomware",
+        "isCorrect": true
+      },
+      {
+        "text": "Adware",
+        "isCorrect": false
+      },
+      {
+        "text": "Spamming",
+        "isCorrect": false
+      },
+      {
+        "text": "Business Email Compromise (BEC)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "question": "Sistemul Informațional Economic joacă, în esență, un rol de:",
+    "answers": [
+      {
+        "text": "Sistem exclusiv manual pentru realizarea graficelor statice",
+        "isCorrect": false
+      },
+      {
+        "text": "Ansamblu funcțional de tehnici și proceduri, fiind asimilat drept subsistem al conducerii și purtând natura de sistem cibernetic",
+        "isCorrect": true
+      },
+      {
+        "text": "O bază de date închisă publicului care nu suferă update-uri temporale",
+        "isCorrect": false
+      },
+      {
+        "text": "Un simplu departament de programatori",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "question": "Sistemele elaborate (economice) de tip organizațional sunt recunoscute din punctul de vedere al modului de funcționare și al comportamentului ca sisteme:",
+    "answers": [
+      {
+        "text": "Închise și strict deterministe",
+        "isCorrect": false
+      },
+      {
+        "text": "Deschise (influențate de mediul extern) și probabilistice",
+        "isCorrect": true
+      },
+      {
+        "text": "Statice și naturale",
+        "isCorrect": false
+      },
+      {
+        "text": "Naturale și închise izoterm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "question": "Într-un graf informațional decizional, un canal pur informațional (spre deosebire de canalul decizional) se caracterizează prin faptul că:",
+    "answers": [
+      {
+        "text": "Informația furnizată are un caracter imperativ, transmițând dispoziții",
+        "isCorrect": false
+      },
+      {
+        "text": "Informația transmisă conține semnale sau rapoarte de constatare care nu au rol direct și explicit de ordonare a unor comportamente",
+        "isCorrect": true
+      },
+      {
+        "text": "Circulă numai de la nivel mediu către nivel operativ pe scară descendentă",
+        "isCorrect": false
+      },
+      {
+        "text": "Conține exclusiv date redundante",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "question": "Metoda interactivă de comunicare definită ca fiind de tipul 'mulți-la-mulți' poate fi regăsită prin instrumentele:",
+    "answers": [
+      {
+        "text": "Poștă fizică individuală sau corespondență unu-la-unu",
+        "isCorrect": false
+      },
+      {
+        "text": "Difuzare la un televizor prin antenă",
+        "isCorrect": false
+      },
+      {
+        "text": "Discuții directe în grupuri mici și camere interactive de videoconferințe (telecomunitate)",
+        "isCorrect": true
+      },
+      {
+        "text": "Publicarea unui material pe avizier la recepția unei companii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "question": "Documentele urmează un ciclu de viață specific care începe mereu cu etapa numită generic:",
+    "answers": [
+      {
+        "text": "Perioada de acțiune și executare fizică",
+        "isCorrect": false
+      },
+      {
+        "text": "Perioada de apariție a oportunității (creare, revizuire și coordonare)",
+        "isCorrect": true
+      },
+      {
+        "text": "Înregistrarea metadatelor post-acțiune",
+        "isCorrect": false
+      },
+      {
+        "text": "Verificarea cu cheia privată a destinatarului extern",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "question": "În conformitate cu abordările de guvernanță IT, rolul de 'Guvernanță a Securității' implică prioritar:",
+    "answers": [
+      {
+        "text": "Înlocuirea fiecărui angajat TI pe o bază rotativă de trei luni",
+        "isCorrect": false
+      },
+      {
+        "text": "Proiectarea algoritmilor financiari exclusiv matematici",
+        "isCorrect": false
+      },
+      {
+        "text": "Asigurarea protecției activelor, continuitatea serviciilor și integritatea bazei de informații",
+        "isCorrect": true
+      },
+      {
+        "text": "Evitarea utilizării de dispozitive criptografice care consumă prea multe resurse electrice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "question": "Referindu-ne la istoria criptografiei, un cifru bazat pe substituție polialfabetică (care a dat mari bătăi de cap analiștilor din deceniile/secolele trecute) poate fi evidențiat direct prin modelul:",
+    "answers": [
+      {
+        "text": "Scitala antică grecească",
+        "isCorrect": false
+      },
+      {
+        "text": "Tabelul algoritmic AES modern",
+        "isCorrect": false
+      },
+      {
+        "text": "Cifrul Vigenere",
+        "isCorrect": true
+      },
+      {
+        "text": "Criptosistemul de factorizare RSA",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "question": "Care este mecanismul principal pe care mizează schema de fraudă denumită BEC (Business Email Compromise)?",
+    "answers": [
+      {
+        "text": "Modificarea hardware-ului serverelor firmei",
+        "isCorrect": false
+      },
+      {
+        "text": "Blocarea fișierelor cu parolă criptată asimetric ce trebuie cumpărată de la hackeri",
+        "isCorrect": false
+      },
+      {
+        "text": "Folosirea de identități furate sau parodiate aparținând unei persoane importante dintr-o companie pentru a instrui colegii, cu scopul unor plăți frauduloase",
+        "isCorrect": true
+      },
+      {
+        "text": "Furtul de identitate pe pagini de social media vizând persoane anonime",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 444,
+    "question": "Împotriva atacurilor de natura 'Amenințări din interior (Insider Threats)', una dintre regulile de organizare a securității impune ca:",
+    "answers": [
+      {
+        "text": "Angajații trebuie să-și trimită parolele șefilor pe e-mail periodic spre validare",
+        "isCorrect": false
+      },
+      {
+        "text": "Alocarea permisiunilor trebuie să fie redusă strict pe baza conceptului de cel mai mic privilegiu, adăugând acces numai dacă este justificat",
+        "isCorrect": true
+      },
+      {
+        "text": "Este interzis angajaților să schimbe parola furnizată standard (ex. admin/admin)",
+        "isCorrect": false
+      },
+      {
+        "text": "Să fie dezactivate toate jurnalele de urmărire (Logs) care aglomerează serverul",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "question": "Orice cerință modernă de obținere, protejare și management legal al datelor personale fizice și confidențiale respectă norma impusă la nivel de Uniune Europeană, denumită formal:",
+    "answers": [
+      {
+        "text": "NIST CSF Standard",
+        "isCorrect": false
+      },
+      {
+        "text": "TOGAF General Requirements",
+        "isCorrect": false
+      },
+      {
+        "text": "Regulamentul General de Protecție a Datelor (GDPR)",
+        "isCorrect": true
+      },
+      {
+        "text": "COBIT ISO 9001",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "question": "Conform clasificării sistemelor după modul de funcționare, un sistem închis se caracterizează prin faptul că:",
+    "answers": [
+      {
+        "text": "Nu interacționează absolut deloc cu alte subsisteme interne",
+        "isCorrect": false
+      },
+      {
+        "text": "Mediul extern influențează direct și continuu ieșirile",
+        "isCorrect": false
+      },
+      {
+        "text": "Mediul extern (E) influențează intrările (I)",
+        "isCorrect": true
+      },
+      {
+        "text": "Varietatea constrângerilor anulează varietatea perturbațiilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "question": "Principiul entropiei negative indică faptul că gradul de organizare a unui sistem este:",
+    "answers": [
+      {
+        "text": "Direct proporțional cu cantitatea de informație înmagazinată și invers proporțional cu entropia",
+        "isCorrect": true
+      },
+      {
+        "text": "Invers proporțional cu efectul sinergic",
+        "isCorrect": false
+      },
+      {
+        "text": "Egal cu suma comportamentelor individuale",
+        "isCorrect": false
+      },
+      {
+        "text": "Constant, indiferent de varietatea necesară impusă de mediu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "question": "Într-un Sistem Informațional Economic (SIE), rezultatul procesului de conducere (subsistemul managerial), care devine directivă pentru subsistemul operațional, se numește:",
+    "answers": [
+      {
+        "text": "Dată brută",
+        "isCorrect": false
+      },
+      {
+        "text": "Feedback negativ",
+        "isCorrect": false
+      },
+      {
+        "text": "Entropie informațională",
+        "isCorrect": false
+      },
+      {
+        "text": "Decizie",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "question": "Conform metodelor de comunicare, comunicarea interactivă prin care se transmit mesaje asincrone include instrumente precum:",
+    "answers": [
+      {
+        "text": "Discuțiile directe (față în față)",
+        "isCorrect": false
+      },
+      {
+        "text": "E-mailul, web-ul și poșta vocală",
+        "isCorrect": true
+      },
+      {
+        "text": "Televiziunea prin antenă",
+        "isCorrect": false
+      },
+      {
+        "text": "Întâlnirile de grup sincronizate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "question": "Privind calitatea datelor, măsura în care datele aduc beneficii și avantaje prin utilizarea lor definește:",
+    "answers": [
+      {
+        "text": "Accesibilitatea",
+        "isCorrect": false
+      },
+      {
+        "text": "Valoarea adăugată",
+        "isCorrect": true
+      },
+      {
+        "text": "Lipsa erorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Obiectivitatea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "question": "Care dimensiune a calității informației vizează aspectele de „Actualitate”, „Frecvență” și „Planificare”?",
+    "answers": [
+      {
+        "text": "Dimensiunea Formă",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimensiunea Conținut",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimensiunea Cost",
+        "isCorrect": false
+      },
+      {
+        "text": "Dimensiunea Timp",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "question": "În cadrul dimensiunii „Formă” a calității informației se regăsește caracteristica:",
+    "answers": [
+      {
+        "text": "Obiectiv",
+        "isCorrect": false
+      },
+      {
+        "text": "Moment de timp",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivel de detaliere",
+        "isCorrect": true
+      },
+      {
+        "text": "Performanță",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "question": "În ciclul de viață al informației economice, faza de 'Stocare' trebuie să țină cont de două caracteristici principale:",
+    "answers": [
+      {
+        "text": "Exactitatea transmiterii și utilitatea publică",
+        "isCorrect": false
+      },
+      {
+        "text": "Uzura informației și viteza de acces la informațiile stocate",
+        "isCorrect": true
+      },
+      {
+        "text": "Conciziunea formei și detalierea semantică",
+        "isCorrect": false
+      },
+      {
+        "text": "Culegerea rapidă și costul de tipărire",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "question": "Analiza informațional-decizională se impune atunci când:",
+    "answers": [
+      {
+        "text": "Apar modificări ale unor condiții care influențează organizarea informațională sau se creează/suprimă o activitate",
+        "isCorrect": true
+      },
+      {
+        "text": "Sistemul a devenit perfect stabil și fără modificări de procedură timp de un an",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizația funcționează într-un mediu strict natural",
+        "isCorrect": false
+      },
+      {
+        "text": "S-a finalizat recent cu succes o astfel de analiză în luna anterioară",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "question": "În limbajul formalizat de reprezentare a informației (modelul N-O-F-T-S-U), componenta 'O' exprimă:",
+    "answers": [
+      {
+        "text": "Latura semantică a numelui",
+        "isCorrect": false
+      },
+      {
+        "text": "Organizația concurentă care a emis indicatorul",
+        "isCorrect": false
+      },
+      {
+        "text": "Fenomenul economic (Obiectul) la care se referă informația",
+        "isCorrect": true
+      },
+      {
+        "text": "Operatorul logic (AND/OR)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "question": "În limbajul formalizat (N-O-F-T-S-U), componenta 'U' reprezintă:",
+    "answers": [
+      {
+        "text": "Ultilizatorul final al informației",
+        "isCorrect": false
+      },
+      {
+        "text": "Unitatea de măsură",
+        "isCorrect": true
+      },
+      {
+        "text": "Utilitatea marginală a datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Universalitatea sistemului decizional",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "question": "Care dintre următorii indicatori este folosit pentru a măsura cantitatea de informație dintr-un mesaj?",
+    "answers": [
+      {
+        "text": "Factorul de aliniere COBIT",
+        "isCorrect": false
+      },
+      {
+        "text": "Coeficientul de corelație Pearson",
+        "isCorrect": false
+      },
+      {
+        "text": "Redundanța informațională (R)",
+        "isCorrect": true
+      },
+      {
+        "text": "Matricea deciziilor ascendente",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "question": "Potrivit clasificării deciziilor după gradul de participare a omului, deciziile se împart în:",
+    "answers": [
+      {
+        "text": "Strategice, tactice și operaționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Automate și Cu decident factor uman",
+        "isCorrect": true
+      },
+      {
+        "text": "Declanșatoare și Corectoare",
+        "isCorrect": false
+      },
+      {
+        "text": "Formalizate și Intuitive",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "question": "Deciziile luate în condiții de 'totală incertitudine' sunt, de asemenea, denumite în literatură:",
+    "answers": [
+      {
+        "text": "Decizii de rutină programată",
+        "isCorrect": false
+      },
+      {
+        "text": "Decizii strategice structurate",
+        "isCorrect": false
+      },
+      {
+        "text": "Decizii automate de nivel 1",
+        "isCorrect": false
+      },
+      {
+        "text": "Decizii împotriva naturii",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "question": "Conform modelului H. Simon (premiul Nobel pentru economie, 1978), o decizie precum 'Controlul inventarului' este considerată:",
+    "answers": [
+      {
+        "text": "Decizie nestructurată la nivel strategic",
+        "isCorrect": false
+      },
+      {
+        "text": "Decizie pur intuitivă",
+        "isCorrect": false
+      },
+      {
+        "text": "Decizie structurată",
+        "isCorrect": true
+      },
+      {
+        "text": "Decizie semistructurată la nivel de management tactic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "question": "În metoda 'Tehnica de grup nominal', prima fază constă în:",
+    "answers": [
+      {
+        "text": "Fiecare membru evaluează și votează public cele mai bune 3 idei",
+        "isCorrect": false
+      },
+      {
+        "text": "Indivizii generează independent, în scris, idei despre o problemă",
+        "isCorrect": true
+      },
+      {
+        "text": "Discuția deschisă și furtuna de idei (brainstorming) necontrolată",
+        "isCorrect": false
+      },
+      {
+        "text": "Alegerea aleatoare a unei soluții de către președintele grupului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "question": "O decizie economică tactică vizează, în general, un orizont de timp de:",
+    "answers": [
+      {
+        "text": "Peste 5 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "Câteva săptămâni, maxim 3 luni",
+        "isCorrect": false
+      },
+      {
+        "text": "0,5 - 2 ani",
+        "isCorrect": true
+      },
+      {
+        "text": "Peste 10 ani",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "question": "Conform principiilor de structurare organizatorică, a pune de acord cerințele postului cu aptitudinile titularului reprezintă:",
+    "answers": [
+      {
+        "text": "Principiul managementului participativ",
+        "isCorrect": false
+      },
+      {
+        "text": "Principiul flexibilității",
+        "isCorrect": false
+      },
+      {
+        "text": "Principiul concordanței",
+        "isCorrect": true
+      },
+      {
+        "text": "Principiul economiei de comunicații",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "question": "Planificarea strategică, ca răspuns la mimetismele organizaționale, se bazează pe șase componente. Prima etapă ('Care?') este reprezentată de:",
+    "answers": [
+      {
+        "text": "Evaluarea",
+        "isCorrect": false
+      },
+      {
+        "text": "Analiza strategică",
+        "isCorrect": false
+      },
+      {
+        "text": "Implementarea",
+        "isCorrect": false
+      },
+      {
+        "text": "Misiunea",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "question": "Conceptul de 'Raționalitate limitată', conform căruia indivizii nu iau decizii perfect raționale din cauza limitelor cognitive și sociale, îi aparține lui:",
+    "answers": [
+      {
+        "text": "Norbert Wiener",
+        "isCorrect": false
+      },
+      {
+        "text": "Herbert A. Simon",
+        "isCorrect": true
+      },
+      {
+        "text": "Harmann Haken",
+        "isCorrect": false
+      },
+      {
+        "text": "Ross Ashby",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "question": "Într-un graf informațional, un canal decizional (CD) se deosebește de un canal informațional (CI) prin faptul că:",
+    "answers": [
+      {
+        "text": "Transmite informație cu caracter de directivă/imperativ",
+        "isCorrect": true
+      },
+      {
+        "text": "Aduce un plus de cunoaștere doar destinatarului extern",
+        "isCorrect": false
+      },
+      {
+        "text": "Este un drum exclusiv orizontal",
+        "isCorrect": false
+      },
+      {
+        "text": "Reprezintă lipsa de comunicare între vârfuri",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "question": "În cadrul fluxurilor electronice de lucru (Workflow), „Procesele de afaceri” reprezintă componenta care:",
+    "answers": [
+      {
+        "text": "Definește documentele format electronic stocate pe server",
+        "isCorrect": false
+      },
+      {
+        "text": "Descrie ceea ce trebuie făcut, cum trebuie făcut și de cine trebuie făcut",
+        "isCorrect": true
+      },
+      {
+        "text": "Asigură semnătura electronică pentru finalizarea fluxului",
+        "isCorrect": false
+      },
+      {
+        "text": "Creează conturile de utilizator în Active Directory",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "question": "Conform abordării MIT, procesul de conversie a documentelor fizice în format digital poartă strict numele de:",
+    "answers": [
+      {
+        "text": "Digitizare (Digitization)",
+        "isCorrect": true
+      },
+      {
+        "text": "Digitalizare (Digitalization)",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformare digitală sistemică",
+        "isCorrect": false
+      },
+      {
+        "text": "Flux de lucru asincron",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "question": "În ciclul de viață al unui document, 'Perioada de lansare' include:",
+    "answers": [
+      {
+        "text": "Crearea, revizuirea și coordonarea inițială",
+        "isCorrect": false
+      },
+      {
+        "text": "Înregistrarea, aprobarea și publicarea acestuia",
+        "isCorrect": true
+      },
+      {
+        "text": "Executarea și partajarea sarcinilor în departamente",
+        "isCorrect": false
+      },
+      {
+        "text": "Arhivarea sau distrugerea lui definitivă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "question": "Printre componentele unui Sistem de Management al Documentelor Electronice (SMDE), 'Captarea' se realizează de obicei prin:",
+    "answers": [
+      {
+        "text": "Sisteme de scanare și recunoaștere optică a caracterelor (OCR)",
+        "isCorrect": true
+      },
+      {
+        "text": "Verificarea firewall-urilor și antivirusului",
+        "isCorrect": false
+      },
+      {
+        "text": "Metadatele setate manual la arhivare",
+        "isCorrect": false
+      },
+      {
+        "text": "Criptarea asimetrică RSA a documentelor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "question": "A avea proprietatea de a fi 'Nereutilizabilă' înseamnă, în contextul semnăturii electronice, că:",
+    "answers": [
+      {
+        "text": "Nu se mai poate folosi un token după primul an",
+        "isCorrect": false
+      },
+      {
+        "text": "Semnatarul nu mai poate nega că a semnat",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu poate fi mutată tehnic pe un alt document de o persoană rău intenționată",
+        "isCorrect": true
+      },
+      {
+        "text": "Odată semnat, textul din Word nu mai poate fi niciodată vizualizat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "question": "Pentru ca o semnătură electronică să fie catalogată drept 'Semnătură electronică extinsă' conform legii, ea trebuie:",
+    "answers": [
+      {
+        "text": "Să fie vizibilă în subsolul paginii ca o hologramă roșie",
+        "isCorrect": false
+      },
+      {
+        "text": "Să fie creată prin mijloace controlate exclusiv de semnatar și legată unic de acesta",
+        "isCorrect": true
+      },
+      {
+        "text": "Să conțină amprenta fizică scanată a autorului",
+        "isCorrect": false
+      },
+      {
+        "text": "Să poată fi dedusă matematic de către oricine o primește",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "question": "Funcția Hash (rezumatul mesajului), utilizată în mecanismele de semnătură electronică, are proprietatea că:",
+    "answers": [
+      {
+        "text": "Este o funcție 'one-way' care mapează textul într-o valoare fixă, dar schimbările minore în text produc un hash total diferit",
+        "isCorrect": true
+      },
+      {
+        "text": "Decriptează mesajul original folosind cheia publică a destinatarului",
+        "isCorrect": false
+      },
+      {
+        "text": "Afișează vizual o copie a semnăturii olografe la finalul documentului",
+        "isCorrect": false
+      },
+      {
+        "text": "Măsoară viteza fluxurilor informaționale dintre două noduri",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "question": "Schema de criptare DSA (Digital Signature Algorithm) utilizată pentru semnături electronice a fost definită ca standard (DSS) de către:",
+    "answers": [
+      {
+        "text": "European Union Agency for Cybersecurity (ENISA)",
+        "isCorrect": false
+      },
+      {
+        "text": "National Institute of Standards and Technology (NIST)",
+        "isCorrect": true
+      },
+      {
+        "text": "Workflow Management Coalition (WfMC)",
+        "isCorrect": false
+      },
+      {
+        "text": "Ministerul Comunicațiilor din România",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "question": "Criptarea ElGamal, folosită ca mecanism alternativ, este definită ca o schemă de criptare care se bazează pe:",
+    "answers": [
+      {
+        "text": "Problema factorizării numerelor prime mari",
+        "isCorrect": false
+      },
+      {
+        "text": "Chei pur simetrice (o singură cheie secretă pentru ambii parteneri)",
+        "isCorrect": false
+      },
+      {
+        "text": "Acordul cheie Diffie-Hellman (logaritmi discreți)",
+        "isCorrect": true
+      },
+      {
+        "text": "Criptosisteme liniare cu rezistență redusă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "question": "Un Certificat Digital conține în mod obligatoriu următoarea componentă fundamentală:",
+    "answers": [
+      {
+        "text": "Parola de e-mail a utilizatorului",
+        "isCorrect": false
+      },
+      {
+        "text": "Cheia privată a utilizatorului, ținută secretă față de toți",
+        "isCorrect": false
+      },
+      {
+        "text": "Cheia publică a subiectului (proprietarului), semnată de Autoritatea de Certificare",
+        "isCorrect": true
+      },
+      {
+        "text": "Lista completă a IP-urilor din rețeaua organizației",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "question": "În Arhitectura de Întreprindere (EA), nivelul Arhitecturii informaționale definește:",
+    "answers": [
+      {
+        "text": "Doar procesele fizice și modul de salarizare a angajaților",
+        "isCorrect": false
+      },
+      {
+        "text": "Aplicațiile, datele și maniera de integrare a acestora în cadrul firmei",
+        "isCorrect": true
+      },
+      {
+        "text": "Tipul de hardware, servere și rutere achiziționate",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivelul exact al securității fizice la portar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "question": "Conform principiilor arhitecturale, 'Scalabilitatea arhitecturii' trebuie să permită organizației să:",
+    "answers": [
+      {
+        "text": "Micșoreze întotdeauna numărul de funcționalități pentru a scădea factura IT",
+        "isCorrect": false
+      },
+      {
+        "text": "Adauge rapid funcționalități specifice într-o manieră compatibilă și cu alocare eficientă a costurilor",
+        "isCorrect": true
+      },
+      {
+        "text": "Folosească hardware exclusiv offline pentru protecție",
+        "isCorrect": false
+      },
+      {
+        "text": "Reacționeze mai lent, pentru a asigura calitatea la nivel maxim",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "question": "Cadrul de lucru (Framework) TOGAF reprezintă un standard global recunoscut pentru:",
+    "answers": [
+      {
+        "text": "Auditul financiar contabil",
+        "isCorrect": false
+      },
+      {
+        "text": "Implementarea semnăturilor holografice",
+        "isCorrect": false
+      },
+      {
+        "text": "Proiectarea și dezvoltarea Arhitecturii de Întreprindere (EA)",
+        "isCorrect": true
+      },
+      {
+        "text": "Detecția intruziunilor malware",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "question": "Modelul CBDI-SAE, apărut pentru susținerea agilității organizației, este specific proiectării:",
+    "answers": [
+      {
+        "text": "Parolelor de unică folosință (OTP)",
+        "isCorrect": false
+      },
+      {
+        "text": "Sistemelor hardware de arhivare a documentelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Arhitecturilor de întreprindere orientate pe servicii (SOA)",
+        "isCorrect": true
+      },
+      {
+        "text": "Codurilor mașinii Enigma",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "question": "În viziunea guvernanței TI, un factor major de susținere a agilității (SOA) alături de BPM și DM este definit prin:",
+    "answers": [
+      {
+        "text": "Arhitectura bazată pe limitarea comunicării",
+        "isCorrect": false
+      },
+      {
+        "text": "Service-Oriented Architecture (Arhitectura Orientată pe Servicii)",
+        "isCorrect": true
+      },
+      {
+        "text": "Dezvoltarea criptomonedei interne",
+        "isCorrect": false
+      },
+      {
+        "text": "Excluderea totală a deciziei factorului uman",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "question": "Printre obiectivele esențiale ale Guvernanței TI ilustrate în matricea ISACA se regăsește:",
+    "answers": [
+      {
+        "text": "Maximizarea entropiei informaționale",
+        "isCorrect": false
+      },
+      {
+        "text": "Managementul exclusiv financiar al clienților",
+        "isCorrect": false
+      },
+      {
+        "text": "Utilizarea eficientă a resurselor TI",
+        "isCorrect": true
+      },
+      {
+        "text": "Blocarea fluxurilor electronice de lucru",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "question": "Conform cadrului COBIT, fiabilitatea, integritatea și confidențialitatea reprezintă:",
+    "answers": [
+      {
+        "text": "Criterii esențiale de control al informațiilor",
+        "isCorrect": true
+      },
+      {
+        "text": "Tipuri de procesoare folosite la criptare",
+        "isCorrect": false
+      },
+      {
+        "text": "Numele unor viruși informatici cunoscuți",
+        "isCorrect": false
+      },
+      {
+        "text": "Baze de date relaționale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "question": "Din perspectivă istorică, primul program celebru de criptare a email-urilor a apărut în 1980 (autor Philip Zimmermann) și este cunoscut sub acronimul:",
+    "answers": [
+      {
+        "text": "DES",
+        "isCorrect": false
+      },
+      {
+        "text": "RSA",
+        "isCorrect": false
+      },
+      {
+        "text": "PGP (Pretty Good Privacy)",
+        "isCorrect": true
+      },
+      {
+        "text": "AES",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "question": "Pentru securizarea la nivel de server a fișierului de parole, metodele recunoscute includ limitarea drepturilor de acces și:",
+    "answers": [
+      {
+        "text": "Trimiterea automată a parolelor prin e-mail către admini",
+        "isCorrect": false
+      },
+      {
+        "text": "Criptarea parolelor, astfel încât sistemul memorează doar forma criptată a acestora (hash)",
+        "isCorrect": true
+      },
+      {
+        "text": "Printarea lor pe suport fizic de urgență",
+        "isCorrect": false
+      },
+      {
+        "text": "Schimbarea lor zilnică obligatorie de către șeful direct",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "question": "Conform principiilor securității informatice, 'Regula de aur' în care o cheie este considerată complet sigură dacă este generată aleator și utilizată strict o singură dată se numește:",
+    "answers": [
+      {
+        "text": "Sistem polialfabetic Vigenere",
+        "isCorrect": false
+      },
+      {
+        "text": "AES 256",
+        "isCorrect": false
+      },
+      {
+        "text": "One-time pad",
+        "isCorrect": true
+      },
+      {
+        "text": "Zero-day exploit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "question": "Diferența dintre o semnătură olografă și semnătura electronică bazată pe o schemă criptografică asimetrică (ex: RSA) este că:",
+    "answers": [
+      {
+        "text": "Semnătura electronică dovedește și integritatea documentului, nu doar apartenența ei la o persoană",
+        "isCorrect": true
+      },
+      {
+        "text": "Semnătura electronică nu poate fi verificată niciodată vizual sau matematic",
+        "isCorrect": false
+      },
+      {
+        "text": "Semnătura olografă este mai sigură din cauza cernelii unice",
+        "isCorrect": false
+      },
+      {
+        "text": "Semnătura electronică folosește mereu o cheie simetrică scurtă, fiind vulnerabilă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "question": "Ghidul de securitate cibernetică avertizează împotriva partajării de informații personale online și sugerează utilizarea cu precauție a codurilor de tip:",
+    "answers": [
+      {
+        "text": "Coduri de bare standard",
+        "isCorrect": false
+      },
+      {
+        "text": "Codurilor QR (Quick Response), deoarece pot conține link-uri către pagini web malițioase",
+        "isCorrect": true
+      },
+      {
+        "text": "Codurilor PIN trimise prin SMS criptat",
+        "isCorrect": false
+      },
+      {
+        "text": "Hash-urilor MD5 furnizate de bănci",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 489,
+    "question": "Pentru a proteja rețelele locale (LAN) wireless împotriva deturnărilor sau accesului neautorizat, o practică solidă de securitate este:",
+    "answers": [
+      {
+        "text": "Ascunderea identificatorului rețelei (SSID) și schimbarea parolelor implicite ale echipamentelor",
+        "isCorrect": true
+      },
+      {
+        "text": "Alocarea permisiunilor de nivel 'Administrator' tuturor utilizatorilor interni",
+        "isCorrect": false
+      },
+      {
+        "text": "Rularea rețelei complet deschise pentru ușurință",
+        "isCorrect": false
+      },
+      {
+        "text": "Păstrarea dispozitivelor IoT pe setările furnizate din fabrică",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "question": "Metoda prin care un atacator infectează cu malware site-uri legitime des vizitate de angajații unei companii țintă (în speranța că aceștia se vor infecta) poartă numele de atac de tip:",
+    "answers": [
+      {
+        "text": "SQL Injection",
+        "isCorrect": false
+      },
+      {
+        "text": "Watering Hole",
+        "isCorrect": true
+      },
+      {
+        "text": "E-mail Bombing",
+        "isCorrect": false
+      },
+      {
+        "text": "Ransomware cripto-minier",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 491,
+    "question": "Copierea repetată și păstrarea pe suporturi izolate / în cloud a datelor companiei pentru evitarea pierderii în cazul infectării cu Ransomware se referă la strategia de:",
+    "answers": [
+      {
+        "text": "Arhitectură a Datelor Deschise",
+        "isCorrect": false
+      },
+      {
+        "text": "Backup (Copii de rezervă a datelor)",
+        "isCorrect": true
+      },
+      {
+        "text": "Cross-Site Scripting Backup",
+        "isCorrect": false
+      },
+      {
+        "text": "Drive-by Downloading",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "question": "Sistemele IDPS, menționate la curs în zona securității infrastructurii rețelelor, se referă la:",
+    "answers": [
+      {
+        "text": "Rețele VPN complet deschise pentru parteneri comerciali externi",
+        "isCorrect": false
+      },
+      {
+        "text": "Protocoale vechi de semnătură digitală pe stick",
+        "isCorrect": false
+      },
+      {
+        "text": "Sisteme destinate monitorizării rețelei și urmăririi activităților rău intenționate (Detecția intruziunilor)",
+        "isCorrect": true
+      },
+      {
+        "text": "Criptominerii de pe piața Darknet care generează trafic legitim",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "question": "Dacă la plata online cu cardul observi adresa 'http://' în loc de 'https://', ar trebui să fii extrem de prudent deoarece lipsește:",
+    "answers": [
+      {
+        "text": "Traficul neindexat în motoarele de căutare",
+        "isCorrect": false
+      },
+      {
+        "text": "Certificatul digital care asigură o conexiune criptată (semn distinctiv – un lacăt)",
+        "isCorrect": true
+      },
+      {
+        "text": "Token-ul hardware USB pe port fizic",
+        "isCorrect": false
+      },
+      {
+        "text": "Codul CVV al cardului de debit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 494,
+    "question": "În combaterea 'Amenințărilor din interior (Insider Threats)', o tactică de protecție recomandată de ghidul de securitate este:",
+    "answers": [
+      {
+        "text": "Alocarea scorurilor de risc utilizând aplicații cognitive pentru analiza comportamentală",
+        "isCorrect": true
+      },
+      {
+        "text": "Trimiterea unui newsletter zilnic tuturor cu parolele departamentelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Încurajarea utilizării parolei '123456' pentru acces rapid inter-departamental",
+        "isCorrect": false
+      },
+      {
+        "text": "Suprimarea completă a log-urilor (SIEM) pentru economie de spațiu de stocare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 495,
+    "question": "Conform prevederilor GDPR (regulamentul general privind protecția datelor), în cazul primirii unei solicitări de ștergere sau resticționare a prelucrării (dreptul de a fi uitat), o organizație trebuie să:",
+    "answers": [
+      {
+        "text": "Ignore complet solicitarea dacă provine de la persoane fizice",
+        "isCorrect": false
+      },
+      {
+        "text": "Păstreze dovezile că solicitantul i-a oferit datele voluntar acum mulți ani",
+        "isCorrect": false
+      },
+      {
+        "text": "Verifice dacă motivele de respingere sunt aplicabile legal; în caz contrar să aplice măsura către toate copiile datelor, inclusiv la împuterniciți",
+        "isCorrect": true
+      },
+      {
+        "text": "Răspundă solicitantului punându-l să plătească o taxă de procesare pentru fiecare cerere de ștergere",
+        "isCorrect": false
+      }
+    ]
+  }
+]

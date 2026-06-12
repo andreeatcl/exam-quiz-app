@@ -10,3 +10,7 @@ Link: https://andreeatcl.github.io/exam-quiz-app
 ### Sisteme
 
 - 100 grile curs (generated)
+
+### Retele de calculatoare
+
+- 100 grile Nemedi

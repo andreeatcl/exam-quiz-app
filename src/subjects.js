@@ -1,6 +1,7 @@
 import dreptCursQuestions from "./data/grile-drept-curs.json";
 import dreptSeminarQuestions from "./data/grile-drept-seminar.json";
 import sistemeCursQuestions from "./data/grile-curs-sisteme.json";
+import reteleNemediQuestions from "./data/grile-retele-nemedi.json";
 
 export const SUBJECTS = {
   "drept-curs": {
@@ -21,6 +22,12 @@ export const SUBJECTS = {
     questions: sistemeCursQuestions,
     color: "amber",
   },
+  "retele-nemedi": {
+    id: "retele-nemedi",
+    label: "Retele (Nemedi)",
+    questions: reteleNemediQuestions,
+    color: "red",
+  },
 };
 
-export const DEFAULT_SUBJECT = "drept-curs";
+export const DEFAULT_SUBJECT = "retele-nemedi";

@@ -1,0 +1,2566 @@
+[
+  {
+    "id": 496,
+    "question": "Protocolul HTTPS utilizeaza pentru semnarea si criptarea datelor:",
+    "answers": [
+      {
+        "text": "cheie privata a emitentului pentru semnare si cheia publica a destinatarului pentru criptare",
+        "isCorrect": true
+      },
+      {
+        "text": "cheia publica a emitentului pentru semnare si cheia publica a emitentului pentru criptare",
+        "isCorrect": false
+      },
+      {
+        "text": "cheia publica a emitentului pentru semnare si cheia publica a destinatarului pentru criptare",
+        "isCorrect": false
+      },
+      {
+        "text": "cheia privata a emitentului pentru semnare si cheia privata a destinatarului pentru criptare",
+        "isCorrect": false
+      },
+      {
+        "text": "cheia publica a emitentului pentru semnare si cheia privata a destinatarului pentru criptare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 497,
+    "question": "Atat TCP-ul cat si UDP-ul ofera suport pentru:",
+    "answers": [
+      {
+        "text": "garantarea livrarii pachetelor",
+        "isCorrect": false
+      },
+      {
+        "text": "comunicatia sincrona si asincrona",
+        "isCorrect": true
+      },
+      {
+        "text": "recompunerea unui flux de date",
+        "isCorrect": false
+      },
+      {
+        "text": "reordonarea pachetelor primite",
+        "isCorrect": false
+      },
+      {
+        "text": "reducerea complexitatii procesarilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "question": "Ce protocol nu poate fi utilizat pentru obtinerea unei adrese IP in mod dinamic;",
+    "answers": [
+      {
+        "text": "BSDP",
+        "isCorrect": false
+      },
+      {
+        "text": "RARP",
+        "isCorrect": false
+      },
+      {
+        "text": "BOOTP",
+        "isCorrect": false
+      },
+      {
+        "text": "ARP",
+        "isCorrect": true
+      },
+      {
+        "text": "DHCP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "question": "Care dintre urmatoarele functii nu este indeplinita de nivelul transport in modelul OSI?",
+    "answers": [
+      {
+        "text": "adresarea fizica",
+        "isCorrect": true
+      },
+      {
+        "text": "adresarea punctelor de serviciu",
+        "isCorrect": false
+      },
+      {
+        "text": "controlul fluxului",
+        "isCorrect": false
+      },
+      {
+        "text": "segmentarea si reasamblarea",
+        "isCorrect": false
+      },
+      {
+        "text": "controlul erorilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "question": "In ce situatie nu este util protocolul IMAP?",
+    "answers": [
+      {
+        "text": "facilitarea crearii de copii de siguranta pentru emailuri",
+        "isCorrect": false
+      },
+      {
+        "text": "spatiul de stocare local este limitat",
+        "isCorrect": false
+      },
+      {
+        "text": "accesarea emailurilor folosind diferite dispozitive",
+        "isCorrect": false
+      },
+      {
+        "text": "accesarea emailurilor indiferent de starea conexiunii la internet",
+        "isCorrect": true
+      },
+      {
+        "text": "previzualizarea unui numar mare de emailuri",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 501,
+    "question": "Care dintre urmatoarele functii nu este asigurata de nivelul legatura de date din modelul OSI?",
+    "answers": [
+      {
+        "text": "livrarea pachetelor",
+        "isCorrect": true
+      },
+      {
+        "text": "adresarea fizica",
+        "isCorrect": false
+      },
+      {
+        "text": "impartirea in cadre",
+        "isCorrect": false
+      },
+      {
+        "text": "controlul erorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "controlul fluxului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 502,
+    "question": "Care este header-ul HTTP al cererii care-i indica server-ului ce tip trebuie sa aiba raspunsul?",
+    "answers": [
+      {
+        "text": "User-Agent",
+        "isCorrect": false
+      },
+      {
+        "text": "Accept-Language",
+        "isCorrect": false
+      },
+      {
+        "text": "Accept-Encoding",
+        "isCorrect": false
+      },
+      {
+        "text": "Content-Type",
+        "isCorrect": false
+      },
+      {
+        "text": "Accept",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "question": "Ce protocol se utilizeaza pentru transparenta localizarii serviciilor Web XML:",
+    "answers": [
+      {
+        "text": "WS-MetadataExchange",
+        "isCorrect": false
+      },
+      {
+        "text": "WS-Policy",
+        "isCorrect": false
+      },
+      {
+        "text": "WS-Addressing",
+        "isCorrect": false
+      },
+      {
+        "text": "UDDI",
+        "isCorrect": true
+      },
+      {
+        "text": "WSDL",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "question": "Versionarea resurselor REST nu poate fi implementata cu ajutorul:",
+    "answers": [
+      {
+        "text": "encoding-urilor personalizate",
+        "isCorrect": false
+      },
+      {
+        "text": "header-elor personalizate",
+        "isCorrect": false
+      },
+      {
+        "text": "cookie-urilor personalizate",
+        "isCorrect": true
+      },
+      {
+        "text": "MIME-urilor personalizate",
+        "isCorrect": false
+      },
+      {
+        "text": "URL-urilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "question": "Nivelul aplicatie al modelului TCP/IP corespunde urmatoarelor niveluri ale modelului OSI:",
+    "answers": [
+      {
+        "text": "aplicatie, sesiune, transport",
+        "isCorrect": false
+      },
+      {
+        "text": "prezentare, transport, legatura de date",
+        "isCorrect": false
+      },
+      {
+        "text": "prezentare, aplicatie, sesiune",
+        "isCorrect": true
+      },
+      {
+        "text": "sesiune, aplicatie, legatura de date",
+        "isCorrect": false
+      },
+      {
+        "text": "aplicatie, prezentare, transport",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 506,
+    "question": "Ce protocol se utilizeaza pentru livrarea emailurilor?",
+    "answers": [
+      {
+        "text": "Webmail",
+        "isCorrect": false
+      },
+      {
+        "text": "TCP",
+        "isCorrect": false
+      },
+      {
+        "text": "POP3",
+        "isCorrect": false
+      },
+      {
+        "text": "SMTP",
+        "isCorrect": true
+      },
+      {
+        "text": "IMAP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 507,
+    "question": "Ce efect are utilizarea headerului Connection: keep-alive?",
+    "answers": [
+      {
+        "text": "permite primirea mai multor raspunsuri simultan",
+        "isCorrect": false
+      },
+      {
+        "text": "permite trimiterea datelor dinspre server catre client",
+        "isCorrect": false
+      },
+      {
+        "text": "permite trimiterea mai multor cereri simultan",
+        "isCorrect": false
+      },
+      {
+        "text": "reutilizeaza conexiunea pentru apeluri ulterioare",
+        "isCorrect": true
+      },
+      {
+        "text": "mentine starea conexiunii pe server",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "question": "Care din urmatoarele actiuni REST nu este idempotenta?",
+    "answers": [
+      {
+        "text": "DELETE",
+        "isCorrect": false
+      },
+      {
+        "text": "HEAD",
+        "isCorrect": false
+      },
+      {
+        "text": "POST",
+        "isCorrect": true
+      },
+      {
+        "text": "GET",
+        "isCorrect": false
+      },
+      {
+        "text": "PUT",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 509,
+    "question": "Ce protocol se utilizeaza pentru a rezolva adresa MAC corespunzatoare unei adrese IP?",
+    "answers": [
+      {
+        "text": "ARP",
+        "isCorrect": true
+      },
+      {
+        "text": "RARP",
+        "isCorrect": false
+      },
+      {
+        "text": "ICMP",
+        "isCorrect": false
+      },
+      {
+        "text": "IGMP",
+        "isCorrect": false
+      },
+      {
+        "text": "IP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "question": "Apelurile AJAX cross-domain sunt permise din client daca:",
+    "answers": [
+      {
+        "text": "clientul incarca o pagina de pe alt server",
+        "isCorrect": false
+      },
+      {
+        "text": "clientul seteaza headerul Connection: keep-alive",
+        "isCorrect": false
+      },
+      {
+        "text": "clientul face in prealabil un apel de tip OPTIONS pentru verificare",
+        "isCorrect": false
+      },
+      {
+        "text": "acelasi server expune un apel de tip JSONP",
+        "isCorrect": false
+      },
+      {
+        "text": "serverul trimite anterior headerele CORS",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 511,
+    "question": "Care este in modelul OSI cel mai de sus nivel implementat de nodurile intermediare de rutare?",
+    "answers": [
+      {
+        "text": "transport",
+        "isCorrect": false
+      },
+      {
+        "text": "legatura de date",
+        "isCorrect": false
+      },
+      {
+        "text": "fizic",
+        "isCorrect": false
+      },
+      {
+        "text": "retea",
+        "isCorrect": true
+      },
+      {
+        "text": "sesiune",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "question": "Ce efect are dezactivarea cookie-urilor in browser?",
+    "answers": [
+      {
+        "text": "acceptarea cookie-urilor va depinde de la ce server provin",
+        "isCorrect": false
+      },
+      {
+        "text": "acceptarea cookie-urilor nu poate fi dezactivata",
+        "isCorrect": false
+      },
+      {
+        "text": "doar cookie-urile de sesiune vor mai fi acceptate",
+        "isCorrect": false
+      },
+      {
+        "text": "doar cookie-urile utilizator vor mai fi acceptate",
+        "isCorrect": false
+      },
+      {
+        "text": "clientul nu va mai accepta niciun cookie",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 513,
+    "question": "Cum poate bloca un firewall mesajele ICMP?",
+    "answers": [
+      {
+        "text": "filtrand traficul dupa sursa",
+        "isCorrect": true
+      },
+      {
+        "text": "resetand durata de viata a mesajului",
+        "isCorrect": false
+      },
+      {
+        "text": "resetand tipul mesajului",
+        "isCorrect": false
+      },
+      {
+        "text": "filtrand traficul dupa port",
+        "isCorrect": false
+      },
+      {
+        "text": "filtrand traficul dupa destinatie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 514,
+    "question": "Care dintre urmatoarele atribute nu este caracteristic unui socket?",
+    "answers": [
+      {
+        "text": "lista proceselor care acceseaza socketul",
+        "isCorrect": true
+      },
+      {
+        "text": "port destinatie",
+        "isCorrect": false
+      },
+      {
+        "text": "port sursa",
+        "isCorrect": false
+      },
+      {
+        "text": "adresa IP destinatie",
+        "isCorrect": false
+      },
+      {
+        "text": "adresa IP sursa",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "question": "Care dintre urmatoarele comenzi afiseaza modul in care un calculator se conecteaza la Internet?",
+    "answers": [
+      {
+        "text": "nslookup",
+        "isCorrect": false
+      },
+      {
+        "text": "ping",
+        "isCorrect": false
+      },
+      {
+        "text": "traceroute/tracert",
+        "isCorrect": false
+      },
+      {
+        "text": "netstat",
+        "isCorrect": false
+      },
+      {
+        "text": "ifconfig/ipconfig",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "question": "Care este headerul HTTP din cerere care permite serverului sa-si adapteze raspunsul la capacitatile de afisare ale clientului?",
+    "answers": [
+      {
+        "text": "Accept-Encoding",
+        "isCorrect": false
+      },
+      {
+        "text": "Accept-Language",
+        "isCorrect": false
+      },
+      {
+        "text": "Content-Type",
+        "isCorrect": false
+      },
+      {
+        "text": "Accept",
+        "isCorrect": false
+      },
+      {
+        "text": "User-Agent",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "question": "Pentru a verifica daca o resursa exista intr-o colectie REST, clientul face o cerere de tip:",
+    "answers": [
+      {
+        "text": "OPTION pe URL-ul colectiei",
+        "isCorrect": false
+      },
+      {
+        "text": "POST pe URL-ul colectiei",
+        "isCorrect": false
+      },
+      {
+        "text": "HEAD pe URL-ul colectiei",
+        "isCorrect": false
+      },
+      {
+        "text": "GET cu paramentri de tip query pe URL-ul colectiei",
+        "isCorrect": false
+      },
+      {
+        "text": "GET pe URL-ul resursei",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "question": "Care din urmatoarele nu este o stare valida a unei sesiuni IMAP?",
+    "answers": [
+      {
+        "text": "terminata",
+        "isCorrect": false
+      },
+      {
+        "text": "autentificata",
+        "isCorrect": false
+      },
+      {
+        "text": "initializata",
+        "isCorrect": true
+      },
+      {
+        "text": "selectata",
+        "isCorrect": false
+      },
+      {
+        "text": "neautentificata",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 519,
+    "question": "Care din urmatoarele componente nu face parte dintr-un sistem SMTP?",
+    "answers": [
+      {
+        "text": "coada de mesaje de tip email",
+        "isCorrect": false
+      },
+      {
+        "text": "agent de transfer pentru emailuri",
+        "isCorrect": false
+      },
+      {
+        "text": "agent utilizator pentru compunerea de emailuri",
+        "isCorrect": false
+      },
+      {
+        "text": "casute de mesaj de tip email",
+        "isCorrect": true
+      },
+      {
+        "text": "poarta pentru transmis emailuri",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "question": "Care sunt functiile nivelului prezentare din modelul OSI?",
+    "answers": [
+      {
+        "text": "livrarea datelor, integritatea datelor, transmisia datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "transmisia datelor, criptarea datelor, validarea datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "formatarea datelor, codificarea datelor, schimbul de date",
+        "isCorrect": false
+      },
+      {
+        "text": "criptarea datelor, compresia datelor, formatarea datelor",
+        "isCorrect": true
+      },
+      {
+        "text": "codificarea datelor, compresia datelor, criptarea datelor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "question": "Efectuarea unui apel cross-domain de tip JSONP presupune:",
+    "answers": [
+      {
+        "text": "clientul face un apel AJAX",
+        "isCorrect": false
+      },
+      {
+        "text": "clientul foloseste un IFRAME pentru incarcarea paginii",
+        "isCorrect": false
+      },
+      {
+        "text": "clientul include un script cu parametrii",
+        "isCorrect": true
+      },
+      {
+        "text": "clientul face un apel de tip OPTION inainte",
+        "isCorrect": false
+      },
+      {
+        "text": "clientul incarca o pagina de pe alt server",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "question": "In protocolul IPv6, care dintre urmatoarele tipuri nu este un tip valid de adresa?",
+    "answers": [
+      {
+        "text": "adresa de retea",
+        "isCorrect": true
+      },
+      {
+        "text": "adresa link locala unicast",
+        "isCorrect": false
+      },
+      {
+        "text": "adresa multicast",
+        "isCorrect": false
+      },
+      {
+        "text": "adresa globala unicast",
+        "isCorrect": false
+      },
+      {
+        "text": "adresa unica local unicast",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "question": "Care este in modelul OSI nivelul care asigura partitionarea fisierelor largi pentru transmisie?",
+    "answers": [
+      {
+        "text": "aplicatie",
+        "isCorrect": false
+      },
+      {
+        "text": "sesiune",
+        "isCorrect": false
+      },
+      {
+        "text": "prezentare",
+        "isCorrect": false
+      },
+      {
+        "text": "retea",
+        "isCorrect": false
+      },
+      {
+        "text": "transport",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "question": "Care dintre urmatorii algoritmi de rutare are redundanta cea mai mare:",
+    "answers": [
+      {
+        "text": "rutare catre calea cea mai scurta",
+        "isCorrect": false
+      },
+      {
+        "text": "rutarea pe baza starii legaturilor",
+        "isCorrect": false
+      },
+      {
+        "text": "rutarea pe baza vectorilor de distanta",
+        "isCorrect": false
+      },
+      {
+        "text": "rutarea prin inundare",
+        "isCorrect": true
+      },
+      {
+        "text": "rutarea ierarhica",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 525,
+    "question": "Ce conditie nu este necesara pentru a genera o furtuna infinita de emailuri?",
+    "answers": [
+      {
+        "text": "a doua lista de emailuri contine o adresa care se regaseste in prima lista a destinatarilor",
+        "isCorrect": false
+      },
+      {
+        "text": "nu se verifica transmiterea mesajului de mai multe ori la aceeasi adresa destinatie",
+        "isCorrect": true
+      },
+      {
+        "text": "expansiunea unu la multi",
+        "isCorrect": false
+      },
+      {
+        "text": "expansiunea multi la unu",
+        "isCorrect": false
+      },
+      {
+        "text": "prima lista de emailuri contine o adresa care se regaseste in a doua lista a destinatarilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 526,
+    "question": "Retelele Ethernet utilizeaza standardul IEEE:",
+    "answers": [
+      {
+        "text": "802.5",
+        "isCorrect": false
+      },
+      {
+        "text": "802.4",
+        "isCorrect": false
+      },
+      {
+        "text": "802.11",
+        "isCorrect": false
+      },
+      {
+        "text": "802.12",
+        "isCorrect": false
+      },
+      {
+        "text": "802.3",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 527,
+    "question": "Conectivitatea unui LAN la o retea WAN se realizaeaza prin conexiunea backbone-ului la un:",
+    "answers": [
+      {
+        "text": "Switch",
+        "isCorrect": false
+      },
+      {
+        "text": "Gateway",
+        "isCorrect": false
+      },
+      {
+        "text": "Bridge",
+        "isCorrect": false
+      },
+      {
+        "text": "Router",
+        "isCorrect": true
+      },
+      {
+        "text": "Hub",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "question": "Transmisia in banda larga are urmatoarele caracteristici. Care afirmatie este falsa ?",
+    "answers": [
+      {
+        "text": "Utilizeaza tehnica radio pentru efectuarea modularii",
+        "isCorrect": false
+      },
+      {
+        "text": "Emitatorul are o sursa de frecventa",
+        "isCorrect": false
+      },
+      {
+        "text": "Semnalul purtator este sinusiodal",
+        "isCorrect": false
+      },
+      {
+        "text": "Emitatorul este un generator de curent",
+        "isCorrect": true
+      },
+      {
+        "text": "Pot fi variate amplitudinea frecventa faza",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "question": "Numarul de esantioane pe secunda reprezinta conceptul de:",
+    "answers": [
+      {
+        "text": "Rata de simboluri",
+        "isCorrect": false
+      },
+      {
+        "text": "Rata de biti",
+        "isCorrect": false
+      },
+      {
+        "text": "Lungimea de banda",
+        "isCorrect": false
+      },
+      {
+        "text": "Boud",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 530,
+    "question": "CSMA/CD reprezinta o metoda de acces:",
+    "answers": [
+      {
+        "text": "Fara coliziuni",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu conflict limitat",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu detectarea purtatoarei",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu acces multiplu si detectia purtatoarei",
+        "isCorrect": true
+      },
+      {
+        "text": "Fara cuantificare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 531,
+    "question": "Care afirmatie este falsa privind socket-ul:",
+    "answers": [
+      {
+        "text": "Este un punct de comunicatie",
+        "isCorrect": false
+      },
+      {
+        "text": "Este identificat printr-un descriptor",
+        "isCorrect": false
+      },
+      {
+        "text": "Informatia este trimisa sub forma unui flux de bytes",
+        "isCorrect": false
+      },
+      {
+        "text": "Este identificat printr-un sir de caractere",
+        "isCorrect": true
+      },
+      {
+        "text": "Este asemanator fisierelor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 532,
+    "question": "Frame-uri (cadre) se utilizeaza in modelul ISO/OIS la nivelul:",
+    "answers": [
+      {
+        "text": "Fizic",
+        "isCorrect": false
+      },
+      {
+        "text": "Retea",
+        "isCorrect": false
+      },
+      {
+        "text": "Legatura de date",
+        "isCorrect": true
+      },
+      {
+        "text": "Transport",
+        "isCorrect": false
+      },
+      {
+        "text": "Inter-retea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 533,
+    "question": "Transformarea dintre adresa IP a unui calculator si numele lui simbolic se realizeaza de catre serviciul:",
+    "answers": [
+      {
+        "text": "Web",
+        "isCorrect": false
+      },
+      {
+        "text": "FTP",
+        "isCorrect": false
+      },
+      {
+        "text": "DNS",
+        "isCorrect": true
+      },
+      {
+        "text": "SNMP",
+        "isCorrect": false
+      },
+      {
+        "text": "SMTP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 534,
+    "question": "Tabela de rutare contine urmatoarele informatii",
+    "answers": [
+      {
+        "text": "Adrese de retea, metrica",
+        "isCorrect": false
+      },
+      {
+        "text": "Adrese de retea, numele interfetei",
+        "isCorrect": false
+      },
+      {
+        "text": "Adrese de retea, numele interfetei, metrica",
+        "isCorrect": true
+      },
+      {
+        "text": "Adrese de retea, tip rutare, metrica",
+        "isCorrect": false
+      },
+      {
+        "text": "Adrese de retea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "question": "Care dintre urmatoarele caracteristici ale ruterelor este falsa:",
+    "answers": [
+      {
+        "text": "Folosesc adrese logice",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu directioneaza pachete de tip broadcast sau multicast",
+        "isCorrect": false
+      },
+      {
+        "text": "Foloseste adrese hardware",
+        "isCorrect": true
+      },
+      {
+        "text": "Asigura servicii de rutare",
+        "isCorrect": false
+      },
+      {
+        "text": "Pot oferi conexiuni intre retele virtuale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 536,
+    "question": "In reteaua cu adresa IP 20.0.0.0 se utilizeaza masca de subretea 255.255.192.0. Numarul maxim de subretele este:",
+    "answers": [
+      {
+        "text": "8192",
+        "isCorrect": false
+      },
+      {
+        "text": "8190",
+        "isCorrect": false
+      },
+      {
+        "text": "1024",
+        "isCorrect": true
+      },
+      {
+        "text": "1022",
+        "isCorrect": false
+      },
+      {
+        "text": "512",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "question": "Primul dintre nivelurile „end-to-end” este nivelul:",
+    "answers": [
+      {
+        "text": "Retea",
+        "isCorrect": false
+      },
+      {
+        "text": "Aplicatie",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport",
+        "isCorrect": true
+      },
+      {
+        "text": "Sesiune",
+        "isCorrect": false
+      },
+      {
+        "text": "Legatura de date",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 538,
+    "question": "Volumul lucrarilor ce pot fi efectuate intr-o unitate de timp reprezinta:",
+    "answers": [
+      {
+        "text": "Costul retelei",
+        "isCorrect": false
+      },
+      {
+        "text": "Capacitatea retelei",
+        "isCorrect": true
+      },
+      {
+        "text": "Durata de raspuns",
+        "isCorrect": false
+      },
+      {
+        "text": "Fiabilitatea retelei",
+        "isCorrect": false
+      },
+      {
+        "text": "Eroare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 539,
+    "question": "Retele care au un singur canal de comunicatie partajat de toate masinile din retea sunt:",
+    "answers": [
+      {
+        "text": "Retele punct-la-punct",
+        "isCorrect": false
+      },
+      {
+        "text": "Retele cu difuzare",
+        "isCorrect": true
+      },
+      {
+        "text": "Retele WAN",
+        "isCorrect": false
+      },
+      {
+        "text": "Retele cu comutare de circuite",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "question": "Modalitatea in care pachetele sunt trimise spre mediul de transmisie este stabilita de:",
+    "answers": [
+      {
+        "text": "Subnivelul LLC",
+        "isCorrect": false
+      },
+      {
+        "text": "Subnivelul MAC",
+        "isCorrect": true
+      },
+      {
+        "text": "Nivelul fizic",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivelul retea",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivelul transport",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 541,
+    "question": "Mai multe calculatoare autonome, transparente pentru utilizator reprezinta:",
+    "answers": [
+      {
+        "text": "Un sistem distribuit",
+        "isCorrect": true
+      },
+      {
+        "text": "Un sistem partial",
+        "isCorrect": false
+      },
+      {
+        "text": "O retea de calculatoare",
+        "isCorrect": false
+      },
+      {
+        "text": "Noduri de comunicatie",
+        "isCorrect": false
+      },
+      {
+        "text": "O subretea de comunicatie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 542,
+    "question": "Protocoalele ICMP, IGP, ARP, RARP, IP apartin nivelului",
+    "answers": [
+      {
+        "text": "Retea",
+        "isCorrect": true
+      },
+      {
+        "text": "Legatura de date",
+        "isCorrect": false
+      },
+      {
+        "text": "Fizic",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport",
+        "isCorrect": false
+      },
+      {
+        "text": "Aplicatie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "question": "Accesul la retelele 2B+D se utilizeaza in retele:",
+    "answers": [
+      {
+        "text": "ISDN",
+        "isCorrect": true
+      },
+      {
+        "text": "ATM",
+        "isCorrect": false
+      },
+      {
+        "text": "Frame relay",
+        "isCorrect": false
+      },
+      {
+        "text": "X25",
+        "isCorrect": false
+      },
+      {
+        "text": "MPLS",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 544,
+    "question": "Transmiterea datelor (digitale) pe o linie telefonica (analogica) presupune:",
+    "answers": [
+      {
+        "text": "Modulare/demodulare",
+        "isCorrect": true
+      },
+      {
+        "text": "Codificare/decodificare",
+        "isCorrect": false
+      },
+      {
+        "text": "Serializare/deserializare",
+        "isCorrect": false
+      },
+      {
+        "text": "Decuplare electromagnetica",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 545,
+    "question": "Implementarea protocolului HDLC in LAN-uri este realizata prin:",
+    "answers": [
+      {
+        "text": "LLC",
+        "isCorrect": true
+      },
+      {
+        "text": "DSLC",
+        "isCorrect": false
+      },
+      {
+        "text": "LAP-B",
+        "isCorrect": false
+      },
+      {
+        "text": "LAP-D",
+        "isCorrect": false
+      },
+      {
+        "text": "PPP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 546,
+    "question": "Solutionarea problemei alterarii sau distrugerii cadrelor se realizeaza in cadrul nivelului legatura de date prin:",
+    "answers": [
+      {
+        "text": "Cadru de confirmare",
+        "isCorrect": false
+      },
+      {
+        "text": "Retransmisia cadrului",
+        "isCorrect": true
+      },
+      {
+        "text": "Codificare",
+        "isCorrect": false
+      },
+      {
+        "text": "Decodificare",
+        "isCorrect": false
+      },
+      {
+        "text": "Contolul fluxului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 547,
+    "question": "Care camp din antetul datagramei IPv4 se modifica la fiecare salt, la trecerea dintr-o retea in alte:",
+    "answers": [
+      {
+        "text": "Timp de viata",
+        "isCorrect": true
+      },
+      {
+        "text": "Protocol",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa sursa",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa destinatie",
+        "isCorrect": false
+      },
+      {
+        "text": "Lungime totala",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 548,
+    "question": "Tehnica prin care adresele IP ale unei retele locale pot fi duplicate, atata timp cat nu sunt utilizate in exterior se numeste:",
+    "answers": [
+      {
+        "text": "NAT",
+        "isCorrect": true
+      },
+      {
+        "text": "CIDR",
+        "isCorrect": false
+      },
+      {
+        "text": "IP masquerading",
+        "isCorrect": false
+      },
+      {
+        "text": "DHCP",
+        "isCorrect": false
+      },
+      {
+        "text": "ICMP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 549,
+    "question": "Numarul C22F1582 transformat intr-o notatie zecimala cu puncte reprezinta o adresa Ipv4 din:",
+    "answers": [
+      {
+        "text": "Clasa A",
+        "isCorrect": false
+      },
+      {
+        "text": "Clasa B",
+        "isCorrect": false
+      },
+      {
+        "text": "Clasa C",
+        "isCorrect": true
+      },
+      {
+        "text": "Clasa D",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu e o adresa IP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 550,
+    "question": "Functia de windowing a nivelului transport se refera la transmiterea datelor de la emitator la receptor",
+    "answers": [
+      {
+        "text": "Cu confirmarea dupa mai multe pachete de date",
+        "isCorrect": true
+      },
+      {
+        "text": "Cu confirmarea dupa fiecare pachet de date",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu stocare intr-o zona tampon numita buffer",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu stabilirea conexiunii intre etape",
+        "isCorrect": false
+      },
+      {
+        "text": "Cu refacerea dupa caderi a legaturii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 551,
+    "question": "Care este lungimea unei adrese MAC:",
+    "answers": [
+      {
+        "text": "8 biti",
+        "isCorrect": false
+      },
+      {
+        "text": "8 bytes",
+        "isCorrect": false
+      },
+      {
+        "text": "24 biti",
+        "isCorrect": false
+      },
+      {
+        "text": "24 bytes",
+        "isCorrect": false
+      },
+      {
+        "text": "48 biti",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 552,
+    "question": "In care tip de tipologie echipamentele sunt conectate la un hub central",
+    "answers": [
+      {
+        "text": "Stea",
+        "isCorrect": true
+      },
+      {
+        "text": "Inel",
+        "isCorrect": false
+      },
+      {
+        "text": "Magistrala",
+        "isCorrect": false
+      },
+      {
+        "text": "Mesh",
+        "isCorrect": false
+      },
+      {
+        "text": "Hibrida",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "question": "Ce tip de retea foloseste protocolul CSMA/CD pentru contolul coliziunilor?",
+    "answers": [
+      {
+        "text": "Internet",
+        "isCorrect": false
+      },
+      {
+        "text": "FDDI",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethernet",
+        "isCorrect": true
+      },
+      {
+        "text": "Retea cu comutare de circuite",
+        "isCorrect": false
+      },
+      {
+        "text": "AppleTalk",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 554,
+    "question": "Care dintre urmatoarele tehnologi este o Tehnologie LAN?",
+    "answers": [
+      {
+        "text": "DSL",
+        "isCorrect": false
+      },
+      {
+        "text": "HDSL",
+        "isCorrect": false
+      },
+      {
+        "text": "Satelit",
+        "isCorrect": false
+      },
+      {
+        "text": "Token ring",
+        "isCorrect": true
+      },
+      {
+        "text": "Modem",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 555,
+    "question": "Care dintre urmatoarele adrese IP apartin clasei B (selectati 2)",
+    "answers": [
+      {
+        "text": "127.0.0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "129.5.5.255",
+        "isCorrect": true
+      },
+      {
+        "text": "195.34.56.255",
+        "isCorrect": false
+      },
+      {
+        "text": "91.0.0.1",
+        "isCorrect": false
+      },
+      {
+        "text": "150.0.0.12",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 556,
+    "question": "Considerand un subnet mask de 255.255.224.0 care dintre adresele urmatoare sunt adrese de host(alegeti 2)",
+    "answers": [
+      {
+        "text": "133.78.32.0",
+        "isCorrect": false
+      },
+      {
+        "text": "128.78.160.0",
+        "isCorrect": false
+      },
+      {
+        "text": "129.78.45.6",
+        "isCorrect": true
+      },
+      {
+        "text": "176.55.96.10",
+        "isCorrect": true
+      },
+      {
+        "text": "186.211.100.0",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 557,
+    "question": "Care dintre urmatoarele nivele nu este un subnivel IEEE?",
+    "answers": [
+      {
+        "text": "Media access control",
+        "isCorrect": false
+      },
+      {
+        "text": "Data link control",
+        "isCorrect": true
+      },
+      {
+        "text": "Logical link control",
+        "isCorrect": false
+      },
+      {
+        "text": "Nici una din variante",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 558,
+    "question": "Care dintre urmatoarele acronime reprezinta numarul unic atribuit de catre IEEE pentru producatorul de placi de retea?",
+    "answers": [
+      {
+        "text": "OUI",
+        "isCorrect": true
+      },
+      {
+        "text": "BIA",
+        "isCorrect": false
+      },
+      {
+        "text": "UAA",
+        "isCorrect": false
+      },
+      {
+        "text": "LAA",
+        "isCorrect": false
+      },
+      {
+        "text": "MAC",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 559,
+    "question": "De ce tip de retea are nevoie un utilizator pentru a face cumparaturi online?",
+    "answers": [
+      {
+        "text": "Intranet",
+        "isCorrect": false
+      },
+      {
+        "text": "Extranet",
+        "isCorrect": false
+      },
+      {
+        "text": "Inernet",
+        "isCorrect": true
+      },
+      {
+        "text": "Retea locala",
+        "isCorrect": false
+      },
+      {
+        "text": "Intranet si Extranet",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 560,
+    "question": "Ce comanda poate fi folosita pe un calculator Windows pentru a vedea configuratia IP de retea?",
+    "answers": [
+      {
+        "text": "Ping",
+        "isCorrect": false
+      },
+      {
+        "text": "displayIP",
+        "isCorrect": false
+      },
+      {
+        "text": "netstat",
+        "isCorrect": false
+      },
+      {
+        "text": "show config",
+        "isCorrect": false
+      },
+      {
+        "text": "ipconfig",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 561,
+    "question": "Ce protocol responsabil cu controlul dimensiunii si ratei de transfer a mesajelor HTTP schimbate intre client si un server?",
+    "answers": [
+      {
+        "text": "HTTP",
+        "isCorrect": false
+      },
+      {
+        "text": "ARP",
+        "isCorrect": false
+      },
+      {
+        "text": "TCP",
+        "isCorrect": true
+      },
+      {
+        "text": "DHCP",
+        "isCorrect": false
+      },
+      {
+        "text": "UDP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 562,
+    "question": "Un client web trimite o cerere de incarcare a unei pagini web catre un server web. Din perspectiva clientului, care este ordinea curenta a stivei de protocoale utilizate pentru a pregati aceasta cerere pentru a fi transmisa ?",
+    "answers": [
+      {
+        "text": "HTTP, IP, TCP, Ethernet",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTP, TCP, IP, Ethernet",
+        "isCorrect": true
+      },
+      {
+        "text": "Ethernet, TCP, IP, HTTP",
+        "isCorrect": false
+      },
+      {
+        "text": "Ethernet, IP, TCP, HTTP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "question": "Ce standard IEEE permite unei placi de retea wireless sa se conecteze la un AP de este construit de un alt producator ?",
+    "answers": [
+      {
+        "text": "802.1",
+        "isCorrect": false
+      },
+      {
+        "text": "802.11",
+        "isCorrect": true
+      },
+      {
+        "text": "802.3",
+        "isCorrect": false
+      },
+      {
+        "text": "802.5",
+        "isCorrect": false
+      },
+      {
+        "text": "802.2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 564,
+    "question": "In ce sub-retea este adresa IP 172.16.134.56 cu subnet mask-ul 255.255.255.224",
+    "answers": [
+      {
+        "text": "172.0.0.0",
+        "isCorrect": false
+      },
+      {
+        "text": "172.16.134.0",
+        "isCorrect": false
+      },
+      {
+        "text": "172.16.134.32",
+        "isCorrect": true
+      },
+      {
+        "text": "172.16.134.48",
+        "isCorrect": false
+      },
+      {
+        "text": "172.16.134.16",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 565,
+    "question": "Ce se obtine prin operatia AND intre IP 130.5.200.10 si un mask de 255.255.240.0?",
+    "answers": [
+      {
+        "text": "130.5.200.0",
+        "isCorrect": false
+      },
+      {
+        "text": "130.5.192.0",
+        "isCorrect": true
+      },
+      {
+        "text": "255.255.200.0",
+        "isCorrect": false
+      },
+      {
+        "text": "130.5.208.0",
+        "isCorrect": false
+      },
+      {
+        "text": "255.255.192.10",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 566,
+    "question": "Un administrator de retea trebuie sa imbunatateasca performantele accesul wireless al utilizatorilor din companie. Pentru a putea oferi rate de acces de pana la 1.3Gb/s si a asigura in acelasi timp compatibilitatea cu echipamente mai vechi ce standard wireless trebuie implementat ?",
+    "answers": [
+      {
+        "text": "802.11n",
+        "isCorrect": false
+      },
+      {
+        "text": "802.11ac",
+        "isCorrect": true
+      },
+      {
+        "text": "802.11a",
+        "isCorrect": false
+      },
+      {
+        "text": "802.11g",
+        "isCorrect": false
+      },
+      {
+        "text": "802.11b",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 567,
+    "question": "Care este scopul campului FCS intr-un frame ?",
+    "answers": [
+      {
+        "text": "Ajuta la determinarea adreseiMAC a nodului transmitator",
+        "isCorrect": false
+      },
+      {
+        "text": "Ajuta la verificarea adresei logice a nodului transmitator",
+        "isCorrect": false
+      },
+      {
+        "text": "Ajuta la calculul header-ului CRC al campului de date",
+        "isCorrect": false
+      },
+      {
+        "text": "Verifica daca au aparut erori la transmiterea si/sau receptie",
+        "isCorrect": true
+      },
+      {
+        "text": "Verifica daca exista conexiuni intre retele virtuale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 568,
+    "question": "O companie are adresa de retea 192.168.1.64 cu subnet mask 225.225.225.192. compania doreste sa creeze doua sub retele care sa contina 10 si respectiv 18 calculatoare. Care dinte urmatoarele retele permite acest lucru (alegeti 2)",
+    "answers": [
+      {
+        "text": "192.168.1.16/28",
+        "isCorrect": false
+      },
+      {
+        "text": "192.168.1.64/27",
+        "isCorrect": true
+      },
+      {
+        "text": "192.168.1.128/27",
+        "isCorrect": false
+      },
+      {
+        "text": "192.168.1.96/28",
+        "isCorrect": true
+      },
+      {
+        "text": "192.168.1.192/28",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 569,
+    "question": "Ce indica un ping incheiat cu succes catre adresa IPv6 ::1 ?",
+    "answers": [
+      {
+        "text": "Calculatorul este cablat coresounzator",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa pentru default gateway este corect configurata",
+        "isCorrect": false
+      },
+      {
+        "text": "Toate host-urile de pe local link sunt disponibile",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa link local este corect configurata",
+        "isCorrect": false
+      },
+      {
+        "text": "Protocolul IP este corect instalapt pe calculator",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 570,
+    "question": "Cate adrese de host sunt utilizabile in sub-reteaua 192.168.1.32 ?",
+    "answers": [
+      {
+        "text": "62",
+        "isCorrect": false
+      },
+      {
+        "text": "64",
+        "isCorrect": false
+      },
+      {
+        "text": "1024",
+        "isCorrect": false
+      },
+      {
+        "text": "254",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 571,
+    "question": "Adresa IP spedificata prin notatia 199.198.10.0/24 se refera la:",
+    "answers": [
+      {
+        "text": "1 retea 254 hosturi",
+        "isCorrect": true
+      },
+      {
+        "text": "2 subretele si 126 hosturi",
+        "isCorrect": false
+      },
+      {
+        "text": "8 subretele si 62 hosturi",
+        "isCorrect": false
+      },
+      {
+        "text": "16 subretele si 14 hosturi",
+        "isCorrect": false
+      },
+      {
+        "text": "32 de subretele si 6 hosturi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "question": "Functia de alocare a canalului de comunicatie unei statii este asigurata prin:",
+    "answers": [
+      {
+        "text": "Nivelul retea",
+        "isCorrect": false
+      },
+      {
+        "text": "Subnivelul MAC",
+        "isCorrect": true
+      },
+      {
+        "text": "Subnivelul LLC",
+        "isCorrect": false
+      },
+      {
+        "text": "Nivelul fizic",
+        "isCorrect": false
+      },
+      {
+        "text": "Transport",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 573,
+    "question": "Care dintre urmatoarele afirmatii nu este o functie a protocolului IP ?",
+    "answers": [
+      {
+        "text": "Definitrea planului de adrese Internet",
+        "isCorrect": false
+      },
+      {
+        "text": "Directionarea unitatilor de date catre calculatoarele de la distanta",
+        "isCorrect": false
+      },
+      {
+        "text": "Fragmentarea si reasamblarea unitatilor de date",
+        "isCorrect": false
+      },
+      {
+        "text": "Definirea unitatilor de baza pentru transmisia prin Internet",
+        "isCorrect": false
+      },
+      {
+        "text": "Suport al dialogului intre procese",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 574,
+    "question": "Care este protocolul suplimentar care permite datelor non-ASCII sa fie transmise prin posta electronica",
+    "answers": [
+      {
+        "text": "MPEG",
+        "isCorrect": false
+      },
+      {
+        "text": "RFC 822",
+        "isCorrect": false
+      },
+      {
+        "text": "SMTP",
+        "isCorrect": false
+      },
+      {
+        "text": "MIME",
+        "isCorrect": true
+      },
+      {
+        "text": "POP3",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 575,
+    "question": "Codificarea Manchester se utilizeaza in retele de calculatoare pentru:",
+    "answers": [
+      {
+        "text": "Detectarea erorilor de transmisie",
+        "isCorrect": false
+      },
+      {
+        "text": "Criptarea datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Sincronizarea intre erori si receptori",
+        "isCorrect": true
+      },
+      {
+        "text": "Prelucrarea datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Detectarea si corectarea erorilor de transmisie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 576,
+    "question": "Adresa portului este specificata pe:",
+    "answers": [
+      {
+        "text": "32 biti",
+        "isCorrect": false
+      },
+      {
+        "text": "16 biti",
+        "isCorrect": true
+      },
+      {
+        "text": "24 biti",
+        "isCorrect": false
+      },
+      {
+        "text": "64 biti",
+        "isCorrect": false
+      },
+      {
+        "text": "8 biti",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 577,
+    "question": "Comunicarea intre un singur emitent si toate calculatoarele unei retele (unu-la-toti) este clasificata ca o comunicatie:",
+    "answers": [
+      {
+        "text": "Unicast",
+        "isCorrect": false
+      },
+      {
+        "text": "Multicast",
+        "isCorrect": false
+      },
+      {
+        "text": "Broadcast",
+        "isCorrect": true
+      },
+      {
+        "text": "Niciuna din cele enumerate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 578,
+    "question": "Dispozitivul de retea care amplifica sau regenereaza semnalul in scopul extinderii semnalului de transmisie este:",
+    "answers": [
+      {
+        "text": "Repetor",
+        "isCorrect": true
+      },
+      {
+        "text": "Ruter",
+        "isCorrect": false
+      },
+      {
+        "text": "Proxi",
+        "isCorrect": false
+      },
+      {
+        "text": "Serevr",
+        "isCorrect": false
+      },
+      {
+        "text": "Bridge",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 579,
+    "question": "Expresia care reprezinta adresa MAC dintr-o retea IEEE 802.3 este",
+    "answers": [
+      {
+        "text": "F3-C2-H7-56-FF-89",
+        "isCorrect": false
+      },
+      {
+        "text": "CC-47-21-D3-65",
+        "isCorrect": false
+      },
+      {
+        "text": "E5-CC-47-22-A1-2B-24",
+        "isCorrect": false
+      },
+      {
+        "text": "E5-CC-47-21",
+        "isCorrect": false
+      },
+      {
+        "text": "E5-CC-47-21-D3-56",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 580,
+    "question": "Vulnerabilitatea unui sistem IT este definita ca fiind:",
+    "answers": [
+      {
+        "text": "Orice circumstanta sau eveniment care ar putea produce pagube in sistem",
+        "isCorrect": false
+      },
+      {
+        "text": "Procesul de interceptare a utilizarilor dispozitivelor sau altor entitati dintr-un sistem de calcul intr-un mod neautorizat",
+        "isCorrect": false
+      },
+      {
+        "text": "slabiciune care poate declansa accidental sau intentionat o anumita exploatare neautorizata a sistemului",
+        "isCorrect": true
+      },
+      {
+        "text": "Actiunea de exploatare a unei slabiciuni a sistemului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "question": "ICMP se utilizeaza pentru:",
+    "answers": [
+      {
+        "text": "Informarea hostului sursa despre erorile de transmisie",
+        "isCorrect": true
+      },
+      {
+        "text": "Determinarea rutei datagramei IP",
+        "isCorrect": false
+      },
+      {
+        "text": "Filtrarea traficului din retea",
+        "isCorrect": false
+      },
+      {
+        "text": "Transmisia de mesaje urgente",
+        "isCorrect": false
+      },
+      {
+        "text": "Testarea conectivitatii intre doua hosturi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "question": "In reteaua cu adresa IP 25.0.0.0 se utilizeaza masca 255.255.128.0. Numarul maxim de subretele este",
+    "answers": [
+      {
+        "text": "8192",
+        "isCorrect": false
+      },
+      {
+        "text": "8190",
+        "isCorrect": false
+      },
+      {
+        "text": "1024",
+        "isCorrect": false
+      },
+      {
+        "text": "1022",
+        "isCorrect": false
+      },
+      {
+        "text": "512",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 583,
+    "question": "Functia de stabilire a unei corespondente intre adresa IP si adresa MAC revine protocolului",
+    "answers": [
+      {
+        "text": "ICMP",
+        "isCorrect": false
+      },
+      {
+        "text": "RIP",
+        "isCorrect": false
+      },
+      {
+        "text": "ARP",
+        "isCorrect": true
+      },
+      {
+        "text": "UDP",
+        "isCorrect": false
+      },
+      {
+        "text": "RARP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 584,
+    "question": "O clasificare a retelei de calculatoare in: LAN, MAN, WAN, se pate realiza daca se face apel la criteriul:",
+    "answers": [
+      {
+        "text": "Software de comunicatie",
+        "isCorrect": false
+      },
+      {
+        "text": "Echipament hardware",
+        "isCorrect": false
+      },
+      {
+        "text": "Tipul subretelei de comunicatie",
+        "isCorrect": false
+      },
+      {
+        "text": "Distanta dintre statiii",
+        "isCorrect": true
+      },
+      {
+        "text": "Topologia retelei",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 585,
+    "question": "Pentru protocolul IEEE 802.5, campul FC din structura cadrului permite",
+    "answers": [
+      {
+        "text": "Adresare destinatiei cadrului",
+        "isCorrect": false
+      },
+      {
+        "text": "Sincronizarea cu statia receptoare",
+        "isCorrect": false
+      },
+      {
+        "text": "Corectarea erorilor de transmisie",
+        "isCorrect": false
+      },
+      {
+        "text": "Identificarea tipului de cadru",
+        "isCorrect": true
+      },
+      {
+        "text": "Detectarea erorilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 586,
+    "question": "Protocolul nivelului aplicatiei care asigura comunicarea intre navigator si serverul web este:",
+    "answers": [
+      {
+        "text": "SMTP",
+        "isCorrect": false
+      },
+      {
+        "text": "FTP",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTP",
+        "isCorrect": true
+      },
+      {
+        "text": "HTML",
+        "isCorrect": false
+      },
+      {
+        "text": "TCP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 587,
+    "question": "Semnificatia notatia 10Base5 este:",
+    "answers": [
+      {
+        "text": "Debit – 100 Mb/s, banda de baza, numar statii pe segment – 500",
+        "isCorrect": false
+      },
+      {
+        "text": "Debit – 10 Mb/s, banda de baza, distanta dintre statii – 5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "Debit – 10 Mb/s, banda de baza, lungimea segmentului – 500 m",
+        "isCorrect": true
+      },
+      {
+        "text": "Debit – 10 Mb/s, banda de baza, lungimea segmentului – 50 m",
+        "isCorrect": false
+      },
+      {
+        "text": "Debit – 10 Mb/s, banda de baza, numar statii pe segment – 50",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 588,
+    "question": "Protocoalele de rutare asigura:",
+    "answers": [
+      {
+        "text": "Directionarea datelor de transmitere",
+        "isCorrect": false
+      },
+      {
+        "text": "Reactualizarea informatiilor din tabelele de rutare",
+        "isCorrect": true
+      },
+      {
+        "text": "Adresarea ruterelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Identificarea tipului de sistem interemediar",
+        "isCorrect": false
+      },
+      {
+        "text": "Identificarea tabelelor de rutare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "question": "Pentu a accesa un host in Internet printr-un nume simbolic se apeleaza la protocolul:",
+    "answers": [
+      {
+        "text": "TCP",
+        "isCorrect": false
+      },
+      {
+        "text": "SNMP",
+        "isCorrect": false
+      },
+      {
+        "text": "POP3",
+        "isCorrect": false
+      },
+      {
+        "text": "DNS",
+        "isCorrect": true
+      },
+      {
+        "text": "OSPP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "question": "Sistemele criptografice cu chei publice, la modul general, folosesc:",
+    "answers": [
+      {
+        "text": "Cheia publica a destinatarului pentru criptare si cheia publica a expeditorului pentru decriptare",
+        "isCorrect": false
+      },
+      {
+        "text": "Cheia publica a destinatarului pentru criptare si cheia privata a destinatarului pentru decriptare",
+        "isCorrect": true
+      },
+      {
+        "text": "Cheia privata a expeditorului pentru criptare si cheia privata a destinatarului pentru decriptare",
+        "isCorrect": false
+      },
+      {
+        "text": "Cheia publica a expeditorului pentru criptare si cheia publica a destinatarului pentru decriptare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 591,
+    "question": "Standardul care deriva din HDLC si este utilizat in arhitecturile retelelor locale este:",
+    "answers": [
+      {
+        "text": "LAP-D",
+        "isCorrect": false
+      },
+      {
+        "text": "LAP-B",
+        "isCorrect": false
+      },
+      {
+        "text": "LLC",
+        "isCorrect": true
+      },
+      {
+        "text": "SLIP",
+        "isCorrect": false
+      },
+      {
+        "text": "PPP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 592,
+    "question": "Topologia unei retele locale care utilizeaza norma IEEE 802.5 este:",
+    "answers": [
+      {
+        "text": "Inel",
+        "isCorrect": true
+      },
+      {
+        "text": "Stea",
+        "isCorrect": false
+      },
+      {
+        "text": "Plasa total conectata",
+        "isCorrect": false
+      },
+      {
+        "text": "Arbore",
+        "isCorrect": false
+      },
+      {
+        "text": "Magistrala",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "question": "Una din caracteristicile principale ale functiei hash, utilizata in sistemele criptografice este:",
+    "answers": [
+      {
+        "text": "Valoarea hash se reprezinta pe 64 sau 256 de cifre binare",
+        "isCorrect": false
+      },
+      {
+        "text": "Functia este ireversibila",
+        "isCorrect": true
+      },
+      {
+        "text": "Prin aplicarea funcrtiei hash asupra aceluiasi mesaj se va obtine de fiecare data alt rezultat",
+        "isCorrect": false
+      },
+      {
+        "text": "Rezultatul obtinut prin aplicarea functiei poate fi anticipat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 594,
+    "question": "Utilizarea token-ului este o tehnica de acces la canalul de comunicatie in mod",
+    "answers": [
+      {
+        "text": "Determinist",
+        "isCorrect": true
+      },
+      {
+        "text": "Aleatoriu",
+        "isCorrect": false
+      },
+      {
+        "text": "Statie prin multiplexare in timp",
+        "isCorrect": false
+      },
+      {
+        "text": "Centralizat",
+        "isCorrect": false
+      },
+      {
+        "text": "Static prin multiplexarea in frecvente",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 595,
+    "question": "Intr-o retea care are alocata o adresa IP de clasa C, se doreste configurarea a 6 subretele, astfel incat in fiecare subretea sa se poata conecta pana la 25 de hosturi. Masca de subretea corespunzatoare este:",
+    "answers": [
+      {
+        "text": "255.255.255.0",
+        "isCorrect": false
+      },
+      {
+        "text": "255.255.255.248",
+        "isCorrect": false
+      },
+      {
+        "text": "255.255.255.240",
+        "isCorrect": false
+      },
+      {
+        "text": "255.255.255.192",
+        "isCorrect": false
+      },
+      {
+        "text": "255.255.255.224",
+        "isCorrect": true
+      }
+    ]
+  }
+]

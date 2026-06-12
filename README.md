@@ -13,4 +13,4 @@ Link: https://andreeatcl.github.io/exam-quiz-app
 
 ### Retele de calculatoare
 
-- 100 grile Nemedi
+- 110 grile Nemedi

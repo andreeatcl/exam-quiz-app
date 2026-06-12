@@ -2562,5 +2562,283 @@
         "isCorrect": true
       }
     ]
+  },
+  {
+    "id": 596,
+    "question": "Fie adresa IP 132.15.136.2/18, in ce sub-retea se afla acest host?",
+    "answers": [
+      {
+        "text": "132.15.136.0",
+        "isCorrect": false
+      },
+      {
+        "text": "132.15.128.0",
+        "isCorrect": true
+      },
+      {
+        "text": "132.15.192.0",
+        "isCorrect": false
+      },
+      {
+        "text": "132.15.64.0",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 597,
+    "question": "Carei clase de adrese apartine adresa IP 203.133.1.54?",
+    "answers": [
+      {
+        "text": "A",
+        "isCorrect": false
+      },
+      {
+        "text": "B",
+        "isCorrect": false
+      },
+      {
+        "text": "C",
+        "isCorrect": true
+      },
+      {
+        "text": "D",
+        "isCorrect": false
+      },
+      {
+        "text": "E",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "question": "Ce protocol foloseste utilitarul ping pentru a testa conectivitatea dintre doua host-uri TCP/IP?",
+    "answers": [
+      {
+        "text": "ICMP",
+        "isCorrect": true
+      },
+      {
+        "text": "SMTP",
+        "isCorrect": false
+      },
+      {
+        "text": "SNMP",
+        "isCorrect": false
+      },
+      {
+        "text": "IRC",
+        "isCorrect": false
+      },
+      {
+        "text": "TFP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 599,
+    "question": "Ce protocol de nivel aplicatie foloseste mesaje de genul GET, PUT si POST?",
+    "answers": [
+      {
+        "text": "DNS",
+        "isCorrect": false
+      },
+      {
+        "text": "POP3",
+        "isCorrect": false
+      },
+      {
+        "text": "Gnutella",
+        "isCorrect": false
+      },
+      {
+        "text": "Mail",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTP",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "question": "Cate host-uri pot exista intr-o sub-retea prin aplicarea unui subnet mask 255.255.252.0 unei adrese de clasa B?",
+    "answers": [
+      {
+        "text": "1022",
+        "isCorrect": true
+      },
+      {
+        "text": "510",
+        "isCorrect": false
+      },
+      {
+        "text": "2046",
+        "isCorrect": false
+      },
+      {
+        "text": "254",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "question": "Cum se numeste secventa de biti aflata la inceputul unui frame 802.3?",
+    "answers": [
+      {
+        "text": "FCS",
+        "isCorrect": false
+      },
+      {
+        "text": "Tipul de Frame",
+        "isCorrect": false
+      },
+      {
+        "text": "Preambul",
+        "isCorrect": true
+      },
+      {
+        "text": "Adresa de sursa",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa destinatie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "question": "Un calculator dintr-o retea comunica cu un anumit grup de calculatoare. Ce tip de comunicatie este aceasta?",
+    "answers": [
+      {
+        "text": "Broadcast",
+        "isCorrect": false
+      },
+      {
+        "text": "Multicast",
+        "isCorrect": true
+      },
+      {
+        "text": "Unicast",
+        "isCorrect": false
+      },
+      {
+        "text": "FTP",
+        "isCorrect": false
+      },
+      {
+        "text": "TFTP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "question": "Ce metoda poate fi folosita in comunicatia dintre doua computere pentru a asigura faptul ca nu se pierd pachete de date din cauza transmiterii unui volum prea mare de date prea repede?",
+    "answers": [
+      {
+        "text": "Incapsularea",
+        "isCorrect": false
+      },
+      {
+        "text": "CSMA/CD",
+        "isCorrect": false
+      },
+      {
+        "text": "CSMA/CA",
+        "isCorrect": false
+      },
+      {
+        "text": "Controlul fluxului",
+        "isCorrect": true
+      },
+      {
+        "text": "Multiplexarea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "question": "Un utilizator vizualizeaza un document HTML situat pe un server web. Ce protocol segmenteaza mesajele si administreaza segmentele de date din conversatiile individuale dintre serverul web si clientul web?",
+    "answers": [
+      {
+        "text": "DHCP",
+        "isCorrect": false
+      },
+      {
+        "text": "HTTP",
+        "isCorrect": false
+      },
+      {
+        "text": "TCP",
+        "isCorrect": true
+      },
+      {
+        "text": "HTTPS",
+        "isCorrect": false
+      },
+      {
+        "text": "ARP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 605,
+    "question": "Avand adresa IP 172.16.134.64 cu subnet mask 255.255.255.224, ce reprezinta aceasta adresa?",
+    "answers": [
+      {
+        "text": "Adresa de host utilizata",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa de broadcast",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa de sub-retea",
+        "isCorrect": true
+      },
+      {
+        "text": "Nu este o adresa valida",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresa de host neutilizabila",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 606,
+    "question": "Care este avantajul (in cazul micilor companii) utilizarii IMAP in locul protocolului POP?",
+    "answers": [
+      {
+        "text": "Mesajele sunt tinute pe serverele de email pana cand utilizatorii le sterg manual",
+        "isCorrect": true
+      },
+      {
+        "text": "In cazul serverului POP copii ale mesajelor raman pe server pentru o perioada scurta de timp, in timp ce IMAP le pastreaza pentru o perioada mai lunga de timp",
+        "isCorrect": false
+      },
+      {
+        "text": "IMAP trimite si receptioneaza email-ul in timp ce POP doar receptioneaza email-ul",
+        "isCorrect": false
+      },
+      {
+        "text": "POP permite stocarea centralizata a mesajelor in timp ce IMAP permite stocarea distribuita",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu exista nici un avantaj al utilizarii IMAP in locul POP",
+        "isCorrect": false
+      }
+    ]
   }
 ]

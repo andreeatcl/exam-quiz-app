@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import { useQuiz } from "../hooks/useQuiz.js";
 import { useStorage } from "../hooks/useStorage.js";
 import { SUBJECTS } from "../subjects.js";
@@ -17,7 +18,8 @@ const sortOptions = {
 };
 
 const StudyScreen = () => {
-  const { subjectId } = useQuiz();
+  const { subjectId, startSession } = useQuiz();
+  const navigate = useNavigate();
   const subject = SUBJECTS[subjectId];
   const [query, setQuery] = useState("");
   const [includeAnswers, setIncludeAnswers] = useState(true);
@@ -116,7 +118,7 @@ const StudyScreen = () => {
           {subject.label} - toate intrebarile
         </h2>
         <p className="mt-2 text-sm text-muted">
-          Vezi toate intrebarile cu raspunsurile corecte evidentiated.
+          Vezi toate intrebarile cu raspunsurile corecte evidentiate.
         </p>
         <div className="mt-6 grid gap-3 lg:grid-cols-[1.2fr_0.8fr]">
           <div className="app-surface-elevated flex flex-col gap-3 rounded-2xl px-4 py-3">
@@ -167,6 +169,24 @@ const StudyScreen = () => {
             <p className="text-xs text-muted">{questions.length} rezultate</p>
           </div>
         </div>
+        {questions.length > 0 && (
+          <button
+            type="button"
+            onClick={() => {
+              startSession({
+                mode: "filtered",
+                count: "all",
+                timed: false,
+                durationSeconds: null,
+                questionIds: questions.map((q) => q.id),
+              });
+              navigate("/quiz");
+            }}
+            className="mt-4 w-full rounded-2xl bg-[var(--accent)] px-6 py-3 text-sm font-semibold text-white shadow-glow transition hover:brightness-110"
+          >
+            Quiz cu cele {questions.length} intrebari filtrate
+          </button>
+        )}
       </div>
 
       <div className="space-y-4">

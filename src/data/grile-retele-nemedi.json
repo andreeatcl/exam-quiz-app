@@ -27,7 +27,7 @@
   },
   {
     "id": 497,
-    "question": "Atat TCP-ul cat si UDP-ul ofera suport pentru:",
+    "question": "Atat TCP-ul cat si UDP-ul ofera suport pentru: (2025)",
     "answers": [
       {
         "text": "garantarea livrarii pachetelor",
@@ -79,7 +79,7 @@
   },
   {
     "id": 499,
-    "question": "Care dintre urmatoarele functii nu este indeplinita de nivelul transport in modelul OSI?",
+    "question": "Care dintre urmatoarele functii nu este indeplinita de nivelul transport in modelul OSI? (2025)",
     "answers": [
       {
         "text": "adresarea fizica",
@@ -105,7 +105,7 @@
   },
   {
     "id": 500,
-    "question": "In ce situatie nu este util protocolul IMAP?",
+    "question": "In ce situatie nu este util protocolul IMAP? (2025)",
     "answers": [
       {
         "text": "facilitarea crearii de copii de siguranta pentru emailuri",
@@ -157,7 +157,7 @@
   },
   {
     "id": 502,
-    "question": "Care este header-ul HTTP al cererii care-i indica server-ului ce tip trebuie sa aiba raspunsul?",
+    "question": "Care este header-ul HTTP al cererii care-i indica server-ului ce tip trebuie sa aiba raspunsul? (2025)",
     "answers": [
       {
         "text": "User-Agent",
@@ -183,7 +183,7 @@
   },
   {
     "id": 503,
-    "question": "Ce protocol se utilizeaza pentru transparenta localizarii serviciilor Web XML:",
+    "question": "Ce protocol se utilizeaza pentru transparenta localizarii serviciilor Web XML: (2025)",
     "answers": [
       {
         "text": "WS-MetadataExchange",
@@ -391,7 +391,7 @@
   },
   {
     "id": 511,
-    "question": "Care este in modelul OSI cel mai de sus nivel implementat de nodurile intermediare de rutare?",
+    "question": "Care este in modelul OSI cel mai de sus nivel implementat de nodurile intermediare de rutare? (2025)",
     "answers": [
       {
         "text": "transport",
@@ -573,7 +573,7 @@
   },
   {
     "id": 518,
-    "question": "Care din urmatoarele nu este o stare valida a unei sesiuni IMAP?",
+    "question": "Care din urmatoarele nu este o stare valida a unei sesiuni IMAP? (2025)",
     "answers": [
       {
         "text": "terminata",
@@ -599,7 +599,7 @@
   },
   {
     "id": 519,
-    "question": "Care din urmatoarele componente nu face parte dintr-un sistem SMTP?",
+    "question": "Care din urmatoarele componente nu face parte dintr-un sistem SMTP? (2025)",
     "answers": [
       {
         "text": "coada de mesaje de tip email",
@@ -625,7 +625,7 @@
   },
   {
     "id": 520,
-    "question": "Care sunt functiile nivelului prezentare din modelul OSI?",
+    "question": "Care sunt functiile nivelului prezentare din modelul OSI? (2025)",
     "answers": [
       {
         "text": "livrarea datelor, integritatea datelor, transmisia datelor",
@@ -677,7 +677,7 @@
   },
   {
     "id": 522,
-    "question": "In protocolul IPv6, care dintre urmatoarele tipuri nu este un tip valid de adresa?",
+    "question": "In protocolul IPv6, care dintre urmatoarele tipuri nu este un tip valid de adresa? (2025)",
     "answers": [
       {
         "text": "adresa de retea",
@@ -703,7 +703,7 @@
   },
   {
     "id": 523,
-    "question": "Care este in modelul OSI nivelul care asigura partitionarea fisierelor largi pentru transmisie?",
+    "question": "Care este in modelul OSI nivelul care asigura partitionarea fisierelor largi pentru transmisie? (2025)",
     "answers": [
       {
         "text": "aplicatie",
@@ -2837,6 +2837,1046 @@
       },
       {
         "text": "Nu exista nici un avantaj al utilizarii IMAP in locul POP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 607,
+    "question": "Protocolul HTTP nu permite definirea de noi:",
+    "answers": [
+      {
+        "text": "MIME-uri",
+        "isCorrect": false
+      },
+      {
+        "text": "clase pentru coduri de stare",
+        "isCorrect": true
+      },
+      {
+        "text": "encoding-uri",
+        "isCorrect": false
+      },
+      {
+        "text": "header-e",
+        "isCorrect": false
+      },
+      {
+        "text": "cookie-uri",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 608,
+    "question": "În procesul de rezolvare a rutei aplicat de utilitarul traceroute / tracert, după primirea fiecărui răspuns: (2025)",
+    "answers": [
+      {
+        "text": "se trimite o cerere ICMP cu același TTL până când se obține un răspuns de tip Time Exceeded",
+        "isCorrect": false
+      },
+      {
+        "text": "se trimite o cerere UDP către adresa de broadcast a subrețelei nodului de la care a venit răspunsul",
+        "isCorrect": false
+      },
+      {
+        "text": "se trimite o nouă cerere ICMP cu un TTL incrementat",
+        "isCorrect": true
+      },
+      {
+        "text": "se trimite o cerere UDP către adresa nodului de la care a venit răspunsul",
+        "isCorrect": false
+      },
+      {
+        "text": "se trimite o nouă cerere ICMP cu un TTL decrementat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 609,
+    "question": "Pentru a asigura accesul simultan la Internet pentru mai multe stații dintr-o rețea privată, se folosește:",
+    "answers": [
+      {
+        "text": "NAT static",
+        "isCorrect": false
+      },
+      {
+        "text": "RARP",
+        "isCorrect": false
+      },
+      {
+        "text": "PAT",
+        "isCorrect": true
+      },
+      {
+        "text": "proxy HTTP",
+        "isCorrect": false
+      },
+      {
+        "text": "NAT dinamic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "question": "La ce nivel OSI opereaza un switch sau un bridge?",
+    "answers": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 611,
+    "question": "Intr-o sesiune FTP care este comanda utilizata pentru a transfera un singur fisier pe un calculator la distanta?",
+    "answers": [
+      {
+        "text": "get",
+        "isCorrect": false
+      },
+      {
+        "text": "mput",
+        "isCorrect": false
+      },
+      {
+        "text": "mget",
+        "isCorrect": false
+      },
+      {
+        "text": "put",
+        "isCorrect": true
+      },
+      {
+        "text": "copy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 612,
+    "question": "La ce nivel din modelul OSI opereaza un ruter?",
+    "answers": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 613,
+    "question": "Care este originea adresei MAC?",
+    "answers": [
+      {
+        "text": "se afla memorata pe un server DHCP",
+        "isCorrect": false
+      },
+      {
+        "text": "configurata de administratorul de retea",
+        "isCorrect": false
+      },
+      {
+        "text": "memorata in memoria ROM a placii de retea",
+        "isCorrect": true
+      },
+      {
+        "text": "setata in configuratia de retea a calculatorului",
+        "isCorrect": false
+      },
+      {
+        "text": "setata intr-un registru al microprocesorului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 614,
+    "question": "In ce sub-retea este adresa de IP 172.16.134.56 cu subnet-mask-ul 255.255.255.240?",
+    "answers": [
+      {
+        "text": "172.0.0.0",
+        "isCorrect": false
+      },
+      {
+        "text": "172.16.134.0",
+        "isCorrect": false
+      },
+      {
+        "text": "172.16.134.32",
+        "isCorrect": false
+      },
+      {
+        "text": "172.16.134.48",
+        "isCorrect": true
+      },
+      {
+        "text": "172.16.134.63",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "question": "Trebuie sa trimiteti un fisier creat cu un procesor de texte. Atunci cand incercati sa il vizualizati cu editorul \"vi\" observati niste linii de caractere neinteligibile de genul \"smiley\". Presupunand ca acestea sunt niste caractere formatate special. Ce sub-comanda FTP trebuie utilizata pentru a seta tipul de fisier?",
+    "answers": [
+      {
+        "text": "ftp>WP",
+        "isCorrect": false
+      },
+      {
+        "text": "ftp>asc",
+        "isCorrect": false
+      },
+      {
+        "text": "ftp>bin",
+        "isCorrect": true
+      },
+      {
+        "text": "ftp>mode",
+        "isCorrect": false
+      },
+      {
+        "text": "ftp>word",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 616,
+    "question": "Adresa 172.21.224.0/12 este: (2025)",
+    "answers": [
+      {
+        "text": "nu este o adresa de clasa B",
+        "isCorrect": false
+      },
+      {
+        "text": "o adresa a unei retele publice de clasa B",
+        "isCorrect": false
+      },
+      {
+        "text": "o adresa de broadcast de clasa B",
+        "isCorrect": false
+      },
+      {
+        "text": "o adresa a unei retele private de clasa B",
+        "isCorrect": true
+      },
+      {
+        "text": "o adresa de clasa B a unei statii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 617,
+    "question": "Ce problema de securitate poate aparea in utilizarea NAT? (2025)",
+    "answers": [
+      {
+        "text": "NAT reduce drastic viteza de transfer a datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "NAT poate dezvalui adresele IP private catre retelele externe",
+        "isCorrect": false
+      },
+      {
+        "text": "NAT nu permite conexiuni criptate",
+        "isCorrect": false
+      },
+      {
+        "text": "NAT poate face dificila identificarea dispozitivului specific intr-o retea mare",
+        "isCorrect": true
+      },
+      {
+        "text": "NAT poate introduce intarzieri semnificative in retea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 618,
+    "question": "Ce se intampla daca doua dispozitive dintr-o retea interna incearca sa comunice cu acelasi server extern folosind acelasi port sursa in PAT? (2025)",
+    "answers": [
+      {
+        "text": "Routerul va schimba portul sursa pentru una dintre conexiuni",
+        "isCorrect": true
+      },
+      {
+        "text": "Ambele conexiuni vor fi permise fara nicio modificare",
+        "isCorrect": false
+      },
+      {
+        "text": "Doar una dintre conexiuni va fi permisa",
+        "isCorrect": false
+      },
+      {
+        "text": "Ambele conexiuni vor esua",
+        "isCorrect": false
+      },
+      {
+        "text": "Routerul va folosi adrese IP publice diferite pentru fiecare conexiune",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 619,
+    "question": "Pentru a verifica daca o resursa exista intr-o colectie REST, clientul face o cerere de tip: (2025)",
+    "answers": [
+      {
+        "text": "GET cu parametrii de tip query pe URL-ul colectiei",
+        "isCorrect": false
+      },
+      {
+        "text": "GET pe URL-ul resursei",
+        "isCorrect": false
+      },
+      {
+        "text": "OPTION pe URL-ul colectiei",
+        "isCorrect": false
+      },
+      {
+        "text": "HEAD pe URL-ul resursei",
+        "isCorrect": true
+      },
+      {
+        "text": "POST pe URL-ul colectiei",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 620,
+    "question": "Ce metoda utilizeaza TCP pentru a controla fluxul de date intre expeditor si receptor? (2025)",
+    "answers": [
+      {
+        "text": "Compresia datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "Multiplexarea comunicatiei",
+        "isCorrect": false
+      },
+      {
+        "text": "Detectia erorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "Fereastra de mesaj",
+        "isCorrect": true
+      },
+      {
+        "text": "Incapsularea datelor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 621,
+    "question": "Cum functioneaza PAT? (2025)",
+    "answers": [
+      {
+        "text": "Asociaza adresele IP private cu o singura adresa IP publica, folosind porturi diferite pentru fiecare conexiune",
+        "isCorrect": true
+      },
+      {
+        "text": "Converteste adresele IP publice in adrese IP private fara a folosi porturi",
+        "isCorrect": false
+      },
+      {
+        "text": "Asociaza fiecare adresa IP privata cu o adresa IP publica distincta",
+        "isCorrect": false
+      },
+      {
+        "text": "Asociaza adresele IP private cu multiple adrese IP publice simultan",
+        "isCorrect": false
+      },
+      {
+        "text": "Asociaza adresele IP private cu adrese IP publice, folosind un port dedicat pentru fiecare dispozitiv",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 622,
+    "question": "Care este functia unui server DNS recursiv? (2025)",
+    "answers": [
+      {
+        "text": "Directioneaza traficul de retea catre dispozitivele corecte",
+        "isCorrect": false
+      },
+      {
+        "text": "Interogheaza alte servere DNS pentru a rezolva o interogare DNS si returneaza rezultatul clientului",
+        "isCorrect": true
+      },
+      {
+        "text": "Stocheaza adresele MAC ale dispozitivelor din retea",
+        "isCorrect": false
+      },
+      {
+        "text": "Traduce adresele IPv4 in adrese IPv6",
+        "isCorrect": false
+      },
+      {
+        "text": "Stocheaza si serveste inregistrarile DNS autoritare pentru domenii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 623,
+    "question": "Ce protocol nu se utilizeaza pentru alocarea dinamica a adreselor IP? (2025)",
+    "answers": [
+      {
+        "text": "DHCP",
+        "isCorrect": false
+      },
+      {
+        "text": "NDP",
+        "isCorrect": false
+      },
+      {
+        "text": "SNMP",
+        "isCorrect": true
+      },
+      {
+        "text": "BOOTP",
+        "isCorrect": false
+      },
+      {
+        "text": "RARP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 624,
+    "question": "Care este scopul unui segment ACK in TCP? (2025)",
+    "answers": [
+      {
+        "text": "Confirma receptia unui pachet de date",
+        "isCorrect": true
+      },
+      {
+        "text": "Inchide conexiunea TCP",
+        "isCorrect": false
+      },
+      {
+        "text": "Trimite date criptate",
+        "isCorrect": false
+      },
+      {
+        "text": "Initiaza o conexiune TCP",
+        "isCorrect": false
+      },
+      {
+        "text": "Solicita retransmiterea datelor pierdute",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 625,
+    "question": "Care este diferenta pricipala intre modurile activ si pasiv in FTP? (2025)",
+    "answers": [
+      {
+        "text": "In modul activ, conexiunea este criptata, in timp ce in modul pasiv, conexiunea nu este criptata",
+        "isCorrect": false
+      },
+      {
+        "text": "In modul activ, clientul foloseste portul 21, in timp ce in modul pasiv, clientul foloseste portul 20",
+        "isCorrect": false
+      },
+      {
+        "text": "In modul activ, datele sunt transferate mai rapid decat in modul pasiv",
+        "isCorrect": false
+      },
+      {
+        "text": "In modul activ, serverul initiaza conexiunea de date catre client, in timp ce in modul pasiv, clientul initiaza conexiunea de date catre server",
+        "isCorrect": true
+      },
+      {
+        "text": "In modul activ, clientul deschide toate conexiunile, in timp ce in modul pasiv, serverul deschide toate conexiunile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 626,
+    "question": "Serviciul DNS utilizeaza: (2025)",
+    "answers": [
+      {
+        "text": "conexiuni TCP pentru cerei nerecurente si UDP pentru cereri recurente",
+        "isCorrect": false
+      },
+      {
+        "text": "doar conexiuni UDP",
+        "isCorrect": false
+      },
+      {
+        "text": "conexiuni TCP intre servere si clienti, respectiv conexiuni UDP intre servere",
+        "isCorrect": false
+      },
+      {
+        "text": "conexiuni UDP pentru cereri nerecurente si TCP pentru cereri recurente",
+        "isCorrect": true
+      },
+      {
+        "text": "doar conexiuni TCP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 627,
+    "question": "Ce mecanism utilizeaza UDP pentru a asigura integritatea datelor? (2025)",
+    "answers": [
+      {
+        "text": "CRC (Cyclic Redundancy Check)",
+        "isCorrect": false
+      },
+      {
+        "text": "Error correction code (ECC)",
+        "isCorrect": false
+      },
+      {
+        "text": "Parity check",
+        "isCorrect": false
+      },
+      {
+        "text": "Checksum",
+        "isCorrect": true
+      },
+      {
+        "text": "Data mirroring",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 628,
+    "question": "Cum identifica router-ul conexiunile diferite in PAT? (2025)",
+    "answers": [
+      {
+        "text": "Prin combinatia dintre adresa IP sursa si portul sursa",
+        "isCorrect": true
+      },
+      {
+        "text": "Prin adresa IP publica si adresa IP privata",
+        "isCorrect": false
+      },
+      {
+        "text": "Prin protocolul de transport utilizat",
+        "isCorrect": false
+      },
+      {
+        "text": "Prin adresa MAC a dispozitivului sursa",
+        "isCorrect": false
+      },
+      {
+        "text": "Prin adresa IP de destinatie si portul de destinatie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "question": "In Dynamic NAT, cum sunt alocate adresele IP publice? (2025)",
+    "answers": [
+      {
+        "text": "Adresele IP publice sunt alocate in functie de adresa MAC",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresele IP publice sunt alocate pe baza numelui de utilizator",
+        "isCorrect": false
+      },
+      {
+        "text": "Fiecarui dispozitiv ii este alocata permanent o adresa IP publica",
+        "isCorrect": false
+      },
+      {
+        "text": "Adresele IP publice sunt alocate dinamic dintr-un pool de adrese disponibile",
+        "isCorrect": true
+      },
+      {
+        "text": "Fiecarui dispozitiv ii este alocata o adresa IP pulica diferita pentru fiecare sesiune",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 630,
+    "question": "Ce rol are obiectul stub in RMI? (2025)",
+    "answers": [
+      {
+        "text": "Realizeaza serializarea datelor in format XML",
+        "isCorrect": false
+      },
+      {
+        "text": "Este responsabil pentru crearea de conexiuni de retea",
+        "isCorrect": false
+      },
+      {
+        "text": "Serveste ca interfata de utilizator pentru aplicatie",
+        "isCorrect": false
+      },
+      {
+        "text": "Este o reprezentare locala a obiectului remote care gestioneaza apelurile metodei pe obiectul remote",
+        "isCorrect": true
+      },
+      {
+        "text": "Gestioneaza autentificarea utilizatorilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 631,
+    "question": "Care este diferenta principala intre Static NAT si Dynamic NAT? (2025)",
+    "answers": [
+      {
+        "text": "Dynamic NAT foloseste adrese IP publice bazate pe locatia geografica",
+        "isCorrect": false
+      },
+      {
+        "text": "Static NAT nu poate fi utilizat pentru conexiuni externe",
+        "isCorrect": false
+      },
+      {
+        "text": "Static NAT asociaza permanent adrese IP private cu adrese IP publice specifice",
+        "isCorrect": true
+      },
+      {
+        "text": "Dynamic NAT permite numai trafic HTTP si HTTPS",
+        "isCorrect": false
+      },
+      {
+        "text": "Static NAT foloseste o singura adresa IP publica pentru toate dispozitivele interne",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "question": "Care este una dintre principalele avantaje ale utilizarii IMAP fata de POP3? (2025)",
+    "answers": [
+      {
+        "text": "IMAP descarca automat toate mesajele pe clientul de e-mail",
+        "isCorrect": false
+      },
+      {
+        "text": "IMAP utilizeaza mai putina latime de banda decat POP3",
+        "isCorrect": false
+      },
+      {
+        "text": "IMAP nu ofera suport pentru foldere",
+        "isCorrect": false
+      },
+      {
+        "text": "IMAP permite accesul si gestionarea mesajelor direct pe server, facilitand sincronizarea intre mai multe dispozitive",
+        "isCorrect": true
+      },
+      {
+        "text": "IMAP permite stocarea mesajelor doar local",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 633,
+    "question": "Ce tehnologie este adesea folosita impreuna cu NAT pentru a permite mai multe conexiuni simultane? (2025)",
+    "answers": [
+      {
+        "text": "DNS",
+        "isCorrect": false
+      },
+      {
+        "text": "VPN",
+        "isCorrect": false
+      },
+      {
+        "text": "PAT",
+        "isCorrect": true
+      },
+      {
+        "text": "ARP",
+        "isCorrect": false
+      },
+      {
+        "text": "DHCP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 634,
+    "question": "In cazul in care avem mai multe statii cu adrese private si o singura adresa publica, pentru a permite accesul tuturor statiilor simultan cu adresa publica respectiva trebuie sa folosim: (2025)",
+    "answers": [
+      {
+        "text": "RARP",
+        "isCorrect": false
+      },
+      {
+        "text": "PAT",
+        "isCorrect": true
+      },
+      {
+        "text": "DHCP",
+        "isCorrect": false
+      },
+      {
+        "text": "NAT",
+        "isCorrect": false
+      },
+      {
+        "text": "nu este posibil",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 635,
+    "question": "Ce raspunde la un ARP request intr-o retea locala? (2025):",
+    "answers": [
+      {
+        "text": "Serverul DNS",
+        "isCorrect": false
+      },
+      {
+        "text": "Serverul DHCP",
+        "isCorrect": false
+      },
+      {
+        "text": "Dispozitivul cu adresa IP solicitata",
+        "isCorrect": true
+      },
+      {
+        "text": "Switch-ul",
+        "isCorrect": false
+      },
+      {
+        "text": "Router-ul",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 636,
+    "question": "Pentru a asigura accesul simultan la Internet pentru mai multe statii dintr-o retea privata, indiferent cu cate adrese publice, se foloseste: (2025)",
+    "answers": [
+      {
+        "text": "NAT static",
+        "isCorrect": false
+      },
+      {
+        "text": "proxy HTTP",
+        "isCorrect": false
+      },
+      {
+        "text": "NAT dinamic",
+        "isCorrect": false
+      },
+      {
+        "text": "PAT",
+        "isCorrect": true
+      },
+      {
+        "text": "RARP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "question": "Care dintre urmatoarele optiuni nu este un tip de serviciu gRPC? (2025)",
+    "answers": [
+      {
+        "text": "Unary RPC",
+        "isCorrect": false
+      },
+      {
+        "text": "Bidirectional streaming RPC",
+        "isCorrect": false
+      },
+      {
+        "text": "Client de streaming RPC",
+        "isCorrect": false
+      },
+      {
+        "text": "Server de streaming RPC",
+        "isCorrect": false
+      },
+      {
+        "text": "Multicast RPC",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "question": "Ce face un switch cand primeste un cadru a carei adresa destinatie figureaza in tabela switch-ului ca fiind a portului de unde a venit pachetul? (2025)",
+    "answers": [
+      {
+        "text": "trimite un raspuns de eroare catre portul de unde a venit cadrul",
+        "isCorrect": false
+      },
+      {
+        "text": "sterge cadrul fara sa-l trimita nimanui",
+        "isCorrect": true
+      },
+      {
+        "text": "trimite un cadru de tip broadcast catre restul porturilor pentru a verifica daca asocierea din tabela este depasita",
+        "isCorrect": false
+      },
+      {
+        "text": "trimite cadrul catre portul corespunzator adresei destinatie a cadrului",
+        "isCorrect": false
+      },
+      {
+        "text": "niciuna dintre celelalte actiuni mentionate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "question": "Ce se intampla atunci cand un dispozitiv primeste un ARP reply? (2025)",
+    "answers": [
+      {
+        "text": "isi actualizeaza tabela ARP",
+        "isCorrect": true
+      },
+      {
+        "text": "trimite un pachet de confirmare",
+        "isCorrect": false
+      },
+      {
+        "text": "isi actualizeaza tabela DNS",
+        "isCorrect": false
+      },
+      {
+        "text": "trimite un pachet de retransmisie",
+        "isCorrect": false
+      },
+      {
+        "text": "initiaza o conexiune TCP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 640,
+    "question": "Care este o limitare a utilizarii PAT? (2025)",
+    "answers": [
+      {
+        "text": "Este limitat la un singur protocol de transport",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu poate traduce adrese IP private multiple simultan",
+        "isCorrect": false
+      },
+      {
+        "text": "Poate epuiza rapid porturile disponibile pe adresa IP publica",
+        "isCorrect": true
+      },
+      {
+        "text": "Poate introduce intarzieri semnificative in retea",
+        "isCorrect": false
+      },
+      {
+        "text": "Nu poate fi folosit cu adrese IPv6",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 641,
+    "question": "Care este scopul principal al utilizarii PAT? (2025)",
+    "answers": [
+      {
+        "text": "pentru a creste numarul de adrese IP publice disponibile",
+        "isCorrect": false
+      },
+      {
+        "text": "pentru a permite multiple dispozitive sa partajeze o singura adresa IP publica",
+        "isCorrect": true
+      },
+      {
+        "text": "pentru a reduce latenta in comunicatiile de retea",
+        "isCorrect": false
+      },
+      {
+        "text": "pentru a cripta traficul de retea",
+        "isCorrect": false
+      },
+      {
+        "text": "pentru a securiza comunicatiile intre retele diferite",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 642,
+    "question": "Ce se intampla cand se ajunge la time-out in TCP? (2025)",
+    "answers": [
+      {
+        "text": "conexiunea este resetata",
+        "isCorrect": false
+      },
+      {
+        "text": "conexiunea este inchisa imediat",
+        "isCorrect": false
+      },
+      {
+        "text": "fluxul de date este inversat",
+        "isCorrect": false
+      },
+      {
+        "text": "un mesaj de eroare este trimis utilizatorului",
+        "isCorrect": false
+      },
+      {
+        "text": "datele sunt retransmise",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "question": "Ce server DNS detine informatiile autoritate pentru un domeniu specific? (2025)",
+    "answers": [
+      {
+        "text": "Serverul DNS de caching",
+        "isCorrect": false
+      },
+      {
+        "text": "Serverul DNS root",
+        "isCorrect": false
+      },
+      {
+        "text": "Serverul DNS autoritar",
+        "isCorrect": true
+      },
+      {
+        "text": "Serverul DNS recursiv",
+        "isCorrect": false
+      },
+      {
+        "text": "Serverul DNS forwarding",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "question": "Ce rol are numarul de secventa in TCP? (2025)",
+    "answers": [
+      {
+        "text": "identifica portul de destinatie al datelor",
+        "isCorrect": false
+      },
+      {
+        "text": "identifica adresa IP de destinatie",
+        "isCorrect": false
+      },
+      {
+        "text": "identifica protocolul utilizat pentru transmisie",
+        "isCorrect": false
+      },
+      {
+        "text": "identifica ordinea corecta a pachetelor de date",
+        "isCorrect": true
+      },
+      {
+        "text": "identifica lungimea pachetului de date",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "question": "Care dintre urmatoarele afirmatii despre NAT este corecta? (2025)",
+    "answers": [
+      {
+        "text": "NAT necesita ca fiecare dispozitiv sa aiba o adresa IP publica unica",
+        "isCorrect": false
+      },
+      {
+        "text": "NAT permite reutilizarea adreselor IP private in diferite retele",
+        "isCorrect": true
+      },
+      {
+        "text": "NAT este utilizat doar in retelele IPv6",
+        "isCorrect": false
+      },
+      {
+        "text": "NAT nu functioneaza cu protocoale de transport cum ar fi TCP si UDP",
+        "isCorrect": false
+      },
+      {
+        "text": "NAT imbunatateste semnificativ viteza de transfer a datelor in retea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 646,
+    "question": "Care dintre urmatoarele afirmatii este adevarata despre PAT? (2025)",
+    "answers": [
+      {
+        "text": "gestioneaza fara dificultati conexiuni de tip UDP",
+        "isCorrect": false
+      },
+      {
+        "text": "nu foloseste informatii de nivel superior pentru a controla un nivel inferior",
+        "isCorrect": false
+      },
+      {
+        "text": "faciliteaza adoptarea IPv6",
+        "isCorrect": false
+      },
+      {
+        "text": "comunicatia nu poate fi initiata de o statie din Internet",
+        "isCorrect": true
+      },
+      {
+        "text": "nicio afirmatie nu este adevarata",
         "isCorrect": false
       }
     ]
